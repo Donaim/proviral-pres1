@@ -594,7 +594,7 @@ Double-click on the draggable elements to edit their positions.
 <v-drag-arrow two-way />
 ```
 
-<v-drag-arrow pos="155,471,253,46" two-way op70 />
+<v-drag-arrow pos="121,411,253,46" two-way op70 />
 
 ---
 src: ./pages/imported-slides.md

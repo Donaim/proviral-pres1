@@ -50,7 +50,11 @@ transition: fade-out
 
 - Collection of programs that output images and CSV files.
 - Is a pipeline.
-- 
+- Created by Don, Charlotte, and me
+
+---
+
+# Structure and interpretation of Proviral Pipeline
 
 ---
 

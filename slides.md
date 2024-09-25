@@ -24,11 +24,9 @@ mdc: true
 
 # Proviral pipeline
 
-
 ---
 transition: slide-left
 ---
-
 
 # Welcome to Slidev
 

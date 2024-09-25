@@ -33,7 +33,7 @@ transition: fade-out
 
 # About me
 
-<!-- TODO: more detail here -->
+<!-- TODO: better presentation form. More detail. -->
 
 - Programmer
   - MiCall/Proviral pipeline

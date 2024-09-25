@@ -37,9 +37,9 @@ transition: fade-out
 
 - Programmer
   - MiCall/Proviral pipeline
+  - I have a blog at https://vau.place
 - Ukrainian
   - Thank you Canada for support
-- Hello
 
 ---
 

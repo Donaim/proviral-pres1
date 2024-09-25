@@ -54,7 +54,9 @@ transition: fade-out
 
 ---
 
-# Structure and interpretation of Proviral Pipeline
+# Structure of Proviral Pipeline
+
+
 
 ---
 

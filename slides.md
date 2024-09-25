@@ -46,9 +46,10 @@ transition: fade-out
 
 # About Proviral
 
-Collection of programs that output images and CSV files.
+<!-- TODO: better presentation form. More detailed. -->
 
-
+- Collection of programs that output images and CSV files.
+- 
 
 ---
 

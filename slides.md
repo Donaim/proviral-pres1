@@ -36,7 +36,8 @@ transition: fade-out
 <!-- TODO: more detail here -->
 
 - Programmer
-- 
+  - MiCall/Proviral pipeline
+- Hello
 
 ---
 

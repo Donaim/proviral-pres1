@@ -31,9 +31,12 @@ A gentle introduction
 transition: fade-out
 ---
 
-# Hello
+# About me
 
+<!-- TODO: more detail here -->
 
+- Programmer
+- 
 
 ---
 

@@ -40,6 +40,7 @@ transition: fade-out
   - I have a blog at https://vau.place
 - Ukrainian
   - Thank you Canada for support
+- <!-- TODO: more points -->
 
 ---
 

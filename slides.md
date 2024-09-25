@@ -38,7 +38,7 @@ transition: fade-out
 - Programmer
   - MiCall/Proviral pipeline
 - Ukrainian
-  - Thank you everyone for support
+  - Thank you Canada for support
 - Hello
 
 ---

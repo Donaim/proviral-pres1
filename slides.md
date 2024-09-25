@@ -49,7 +49,7 @@ transition: fade-out
 <!-- TODO: better presentation form. More detail. -->
 
 - Collection of programs that output images and CSV files.
-- Is a pipeline
+- Is a pipeline.
 - 
 
 ---

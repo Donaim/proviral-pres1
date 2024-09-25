@@ -25,9 +25,16 @@ mdc: true
 # Proviral pipeline
 
 A gentle introduction
+<!-- TODO: improve the subtitle -->
 
 ---
-transition: slide-left
+transition: fade-out
+---
+
+# Hello
+
+
+
 ---
 
 # Welcome to Slidev

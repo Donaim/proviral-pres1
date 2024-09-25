@@ -24,6 +24,8 @@ mdc: true
 
 # Proviral pipeline
 
+A gentle introduction
+
 ---
 transition: slide-left
 ---

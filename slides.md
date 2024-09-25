@@ -44,7 +44,7 @@ transition: fade-out
 
 ---
 
-# About Proviral
+# About Proviral Pipeline
 
 <!-- TODO: better presentation form. More detail. -->
 

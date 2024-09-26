@@ -70,9 +70,14 @@ transition: fade-out
 
 # Hello 2
 
-test 2
+First, the samples are collected
+
+
 
 ---
+
+
+----------------------------------
 
 # Welcome to Slidev
 

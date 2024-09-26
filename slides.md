@@ -56,7 +56,13 @@ transition: fade-out
 
 # Structure of Proviral Pipeline
 
-hello
+<!-- TODO: better presentation form. More detail. -->
+
+- Sample collection
+- MiCall processing
+- Proviral pipeline startup
+- CFEIntact processing
+- 
 
 ---
 

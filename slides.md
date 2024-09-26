@@ -62,7 +62,9 @@ transition: fade-out
 - MiCall processing
 - Proviral pipeline startup
 - CFEIntact processing
-- 
+- Proviral pipeline outputs
+   (such as regions clipping and landscapes)
+- BBLabTools processing
 
 ---
 

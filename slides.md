@@ -58,8 +58,7 @@ transition: fade-out
 
 <!-- TODO: better presentation form. More detail. -->
 
-- Sample collection
-- MiCall processing
+- Sample collection & MiCall processing
 - Proviral pipeline startup
 - CFEIntact processing
 - Proviral pipeline outputs
@@ -72,7 +71,7 @@ transition: fade-out
 
 First, the samples are collected
 
-
+Then they are loaded into MiCall
 
 ---
 

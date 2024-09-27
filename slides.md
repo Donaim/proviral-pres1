@@ -84,7 +84,9 @@ MiCall processes the samples and starts Proviral pipeline via Kive.
 
 # Proviral startup part
 
+<!-- TODO: better presentation form. More detail. -->
 
+Proviral pipeline runs QC steps.
 
 
 ----------------------------------

@@ -99,6 +99,8 @@ Samples that passed QC proceed to CFEIntact analysis.
 
 # HIVIntact
 
+Now called CFEIntact.
+
 
 
 ----------------------------------

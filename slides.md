@@ -78,7 +78,7 @@ First, the samples are collected.
 
 ---
 
-# Kek part
+# MiCall part
 
 Then they are loaded into MiCall.
 

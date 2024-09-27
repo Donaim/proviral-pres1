@@ -66,7 +66,7 @@ transition: fade-out
 - BBLabTools processing
 
 
-TODO: insert a drawing of a factory.
+<!-- TODO: insert a drawing of a factory. -->
 
 ---
 

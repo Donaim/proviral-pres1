@@ -76,7 +76,13 @@ transition: fade-out
 
 First, the samples are collected.
 
+---
+
+# Kek part
+
 Then they are loaded into MiCall.
+
+MiCall processes the samples
 
 ---
 

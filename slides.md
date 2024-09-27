@@ -69,6 +69,8 @@ transition: fade-out
 
 # Hello 2
 
+<!-- TODO: better presentation form. More detail. -->
+
 First, the samples are collected.
 
 Then they are loaded into MiCall.

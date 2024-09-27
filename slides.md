@@ -93,6 +93,12 @@ This includes....
 
 It uses blast, mafft, and mappy for alignment purposes.
 
+Samples that passed QC proceed to CFEIntact analysis.
+
+---
+
+# HIVIntact
+
 
 
 ----------------------------------

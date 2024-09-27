@@ -91,8 +91,7 @@ Proviral pipeline runs QC checks on every sequence.
 This includes....
 
 
-
-
+It uses blast, mafft, and mappy for alignment purposes.
 
 ----------------------------------
 

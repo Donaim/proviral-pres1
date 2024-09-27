@@ -70,7 +70,7 @@ transition: fade-out
 
 ---
 
-# Physical part
+# Real part
 
 <!-- TODO: better presentation form. More detail. -->
 

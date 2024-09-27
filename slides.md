@@ -70,7 +70,7 @@ transition: fade-out
 
 ---
 
-# Hello 2
+# Physical part
 
 <!-- TODO: better presentation form. More detail. -->
 

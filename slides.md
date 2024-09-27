@@ -69,9 +69,9 @@ transition: fade-out
 
 # Hello 2
 
-First, the samples are collected
+First, the samples are collected.
 
-Then they are loaded into MiCall
+Then they are loaded into MiCall.
 
 ---
 

@@ -125,7 +125,7 @@ dragPos:
 
 <img v-drag="'square'" src="./bblabs1.png">
 
-<img v-drag="'square'" src="./bblabs1.png">
+<img v-drag="'square'" src="./landscapes1.png">
 
 ---
 

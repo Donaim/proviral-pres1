@@ -24,6 +24,7 @@ const accordionItems = [
 
 <template>
   <AccordionRoot
+
     class="AccordionRoot"
     default-value="'item-1'"
     type="single"

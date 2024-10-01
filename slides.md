@@ -44,6 +44,8 @@ transition: fade-out
 
 ---
 
+# Presentation plan
+
 <Toc />
 
 ---

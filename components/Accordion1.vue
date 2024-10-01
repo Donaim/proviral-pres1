@@ -28,6 +28,7 @@ const accordionItems = [
     @keypress.stop.prevent
     @keyup.stop.prevent
   >
+
   <AccordionRoot
     class="AccordionRoot"
     default-value="'item-1'"

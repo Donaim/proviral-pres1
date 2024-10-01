@@ -19,15 +19,6 @@ const accordionItems = [
     content: 'Yes! You can use the transition prop to configure the animation.',
   },
 ]
-
-export default {
-  methods: {
-    disableKeyboardEvents(event) {
-      event.stopPropagation();
-      event.preventDefault();
-    },
-  },
-};
 </script>
 
 <template>
@@ -61,3 +52,15 @@ export default {
   </AccordionRoot>
   </div>
 </template>
+
+
+<script>
+export default {
+  methods: {
+    disableKeyboardEvents(event) {
+      event.stopPropagation();
+      event.preventDefault();
+    },
+  },
+};
+</script>

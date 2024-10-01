@@ -58,7 +58,7 @@ transition: fade-out
 - Is a pipeline.
 - Created by Don, Charlotte, and me
 
-<!-- <Accordion /> -->
+<Accordion1 />
 
 
 ---

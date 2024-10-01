@@ -133,9 +133,9 @@ dragPos:
 # Summary of output files
 
 - `defects.csv`
-- `regions.csv`
 - `landscapes.svg` (on-demand)
 - `landscapes.csv`
+- `regions.csv`
 - `outcome_summary.csv`
 - `table_precursor.csv`
 

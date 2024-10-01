@@ -143,6 +143,10 @@ dragPos:
 
 ---
 
+# Where to find the files
+
+---
+
 # Welcome to Slidev
 
 Presentation slides for developers

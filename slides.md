@@ -132,6 +132,8 @@ dragPos:
 
 # Summary of output files
 
+<!-- TODO: better presentation form. More detail. -->
+
 - `defects.csv`
 - `landscapes.svg` (on-demand)
 - `landscapes.csv`
@@ -145,7 +147,14 @@ dragPos:
 
 # Where to find the files
 
+<!-- TODO: better presentation form. More detail. -->
 
+- `defects.csv`
+- `landscapes.svg` (on-demand)
+- `landscapes.csv`
+- `regions.csv`
+- `outcome_summary.csv`
+- `table_precursor.csv`
 
 ---
 

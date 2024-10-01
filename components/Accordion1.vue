@@ -19,6 +19,11 @@ const accordionItems = [
     content: 'Yes! You can use the transition prop to configure the animation.',
   },
 ]
+
+function disableKeyboardEvents(event) {
+  console.log({event});
+}
+
 </script>
 
 <template>

@@ -65,7 +65,6 @@ transition: fade-out
    (such as regions clipping and landscapes)
 - BBLabTools processing
 
-
 <!-- TODO: insert a drawing of a factory. -->
 
 ---

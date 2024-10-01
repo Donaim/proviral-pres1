@@ -54,14 +54,11 @@ transition: fade-out
 
 <!-- TODO: better presentation form. More detail. -->
 
-<div>
-<Accordion />
-</div>
-
-
 - Collection of programs that output images and CSV files.
 - Is a pipeline.
 - Created by Don, Charlotte, and me
+
+<Accordion />
 
 ---
 

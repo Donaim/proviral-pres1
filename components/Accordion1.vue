@@ -54,7 +54,7 @@ const accordionItems = [
 </template>
 
 
-<script>
+<script lang="ts">
 export default {
   methods: {
     disableKeyboardEvents(event) {

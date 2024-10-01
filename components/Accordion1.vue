@@ -23,13 +23,11 @@ const accordionItems = [
 </script>
 
 <template>
-  <div
+  <AccordionRoot
     @keydown.stop.prevent
     @keypress.stop.prevent
     @keyup.stop.prevent
-  >
 
-  <AccordionRoot
     class="AccordionRoot"
     default-value="'item-1'"
     type="single"

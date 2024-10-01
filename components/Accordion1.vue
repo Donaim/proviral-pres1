@@ -16,7 +16,7 @@ const accordionItems = [
   {
     value: 'item-3',
     title: 'Can it be animated?',
-    content: 'Yes! You can use the transition prop to configure the animation.',
+    content: 'Yes! You can <b>use</b> the transition prop to configure the animation.',
   },
 ]
 

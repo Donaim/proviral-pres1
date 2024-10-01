@@ -58,6 +58,12 @@ transition: fade-out
 - Is a pipeline.
 - Created by Don, Charlotte, and me
 
+<v-switch>
+  <template #1> show at click 1, hide at click 2. </template>
+  <template #2> show at click 2, hide at click 5. </template>
+  <template #5-7> show at click 5, hide at click 7. </template>
+</v-switch>
+
 ---
 
 # Structure of Proviral Pipeline

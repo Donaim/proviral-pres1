@@ -58,38 +58,7 @@ transition: fade-out
 - Is a pipeline.
 - Created by Don, Charlotte, and me
 
-<!-- <Accordion /> -->
-
-
-<template>
-  <AccordionRoot
-    class="AccordionRoot"
-    default-value="'item-1'"
-    type="single"
-    :collapsible="true"
-  >
-    <template
-      v-for="item in accordionItems"
-      :key="item.value"
-    >
-      <AccordionItem
-        class="AccordionItem"
-        :value="item.value"
-      >
-        <AccordionHeader class="AccordionHeader">
-          <AccordionTrigger class="AccordionTrigger">
-            <span>{{ item.title }}</span>
-          </AccordionTrigger>
-        </AccordionHeader>
-        <AccordionContent class="AccordionContent">
-          <div class="AccordionContentText">
-            {{ item.content }}
-          </div>
-        </AccordionContent>
-      </AccordionItem>
-    </template>
-  </AccordionRoot>
-</template>
+<Accordion />
 
 
 ---

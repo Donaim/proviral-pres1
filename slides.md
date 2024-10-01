@@ -119,9 +119,6 @@ backgroundSize: 90%
 
 # BBLabTools
 
-
-<img border="rounded" width='80%' src="./bblabs1.png" alt="">
-
 hello
 
 ----------------------------------

@@ -132,7 +132,6 @@ dragPos:
 
 # Summary of output files
 
-
 - `defects.csv`
 - `landscapes.svg` (on-demand)
 - `landscapes.csv`

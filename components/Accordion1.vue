@@ -24,15 +24,15 @@ const accordionItems = [
 
 <template>
   <AccordionRoot
-    @keydown.stop.prevent
-    @keypress.stop.prevent
-    @keyup.stop.prevent
-
     class="AccordionRoot"
     default-value="'item-1'"
     type="single"
     :collapsible="true"
-  >
+    @keydown.stop.prevent
+    @keypress.stop.prevent
+    @keyup.stop.prevent
+
+   >
     <template
       v-for="item in accordionItems"
       :key="item.value"

@@ -132,12 +132,15 @@ dragPos:
 
 # Summary of output files
 
+
 - `defects.csv`
 - `landscapes.svg` (on-demand)
 - `landscapes.csv`
 - `regions.csv`
 - `outcome_summary.csv`
 - `table_precursor.csv`
+
+<!-- In the order of importance: -->
 
 ---
 

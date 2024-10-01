@@ -22,7 +22,7 @@ const accordionItems = [
 </script>
 
 <template>
-  <div @keydown.stop.prevent>
+  <div @keydown="disableKeyboardEvents">
   <AccordionRoot
     class="AccordionRoot"
     default-value="'item-1'"

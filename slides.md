@@ -108,7 +108,7 @@ Now called CFEIntact.
 <!-- TODO: better presentation form. More detail. -->
 
 - Decides what single error to report (TODO: the decision tree)
-
+- 
 
 ----------------------------------
 

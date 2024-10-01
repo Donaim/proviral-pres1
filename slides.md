@@ -54,8 +54,6 @@ transition: fade-out
 
 <!-- TODO: better presentation form. More detail. -->
 
-lol
-
 <div>
 <Accordion />
 </div>

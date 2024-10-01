@@ -33,7 +33,6 @@ const accordionItems = [
       v-for="item in accordionItems"
       :key="item.value"
     >
-      <div @keydown.stop.prevent>
       <AccordionItem
         class="AccordionItem"
         :value="item.value"
@@ -49,7 +48,6 @@ const accordionItems = [
           </div>
         </AccordionContent>
       </AccordionItem>
-      </div>
     </template>
   </AccordionRoot>
   </div>

@@ -52,3 +52,15 @@ const accordionItems = [
   </AccordionRoot>
   </div>
 </template>
+
+
+<script>
+export default {
+  methods: {
+    disableKeyboardEvents(event) {
+      event.stopPropagation();
+      event.preventDefault();
+    },
+  },
+};
+</script>

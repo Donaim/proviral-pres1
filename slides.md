@@ -58,8 +58,6 @@ transition: fade-out
 - Is a pipeline.
 - Created by Don, Charlotte, and me
 
-<Accordion1 />
-
 ---
 
 # Structure of Proviral Pipeline
@@ -82,6 +80,8 @@ transition: fade-out
 <!-- TODO: better presentation form. More detail. -->
 
 First, the samples are collected.
+
+<Accordion1 />
 
 Then they are loaded into MiCall.
 

@@ -54,11 +54,11 @@ transition: fade-out
 
 <!-- TODO: better presentation form. More detail. -->
 
-<template>
   <div>
     <HelloWorld msg="Hello Vue 3.0 + Vite" />
   </div>
-</template>
+
+lol
 
 - Collection of programs that output images and CSV files.
 - Is a pipeline.

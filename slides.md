@@ -114,7 +114,7 @@ Now called CFEIntact.
 ---
 layout: image-right
 image: bblabs1.png
-backgroundSize: 100%
+backgroundSize: 98%
 ---
 
 # BBLabTools

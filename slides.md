@@ -112,11 +112,8 @@ Now called CFEIntact.
 
 
 ---
-layout: image-right
-image: bblabs1.png
-backgroundSize: 98%
 dragPos:
-  square: 56,-99,980,579
+  square: 69,212,531,314
 ---
 
 # BBLabTools

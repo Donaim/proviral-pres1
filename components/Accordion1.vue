@@ -28,6 +28,7 @@ const accordionItems = [
     default-value="'item-1'"
     type="single"
     :collapsible="true"
+
     @keydown.stop.prevent
     @keypress.stop.prevent
     @keyup.stop.prevent
@@ -54,5 +55,4 @@ const accordionItems = [
       </AccordionItem>
     </template>
   </AccordionRoot>
-  </div>
 </template>

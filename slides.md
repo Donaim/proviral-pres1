@@ -115,6 +115,8 @@ Now called CFEIntact.
 layout: image-right
 image: bblabs1.png
 backgroundSize: 98%
+dragPos:
+  square: 56,-99,980,579
 ---
 
 # BBLabTools
@@ -124,10 +126,9 @@ backgroundSize: 98%
 - Useful tools for HIV research from the Brockman and Brumme Lab at SFU .
 - Paints landscape plots (at some point).
 
-<img v-drag="'square'" src="https://sli.dev/logo.png">
+<img v-drag="'square'" src="./bblabs1.png">
 
-
-----------------------------------
+---
 
 # Welcome to Slidev
 

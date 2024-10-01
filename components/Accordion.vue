@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { AccordionContent, AccordionHeader, AccordionItem, AccordionRoot, AccordionTrigger } from 'radix-vue'
-import { Icon } from '@iconify/vue'
 import './styles.css'
 
 const accordionItems = [
@@ -40,10 +39,6 @@ const accordionItems = [
         <AccordionHeader class="AccordionHeader">
           <AccordionTrigger class="AccordionTrigger">
             <span>{{ item.title }}</span>
-            <Icon
-              icon="radix-icons:chevron-down"
-              class="AccordionChevron"
-            />
           </AccordionTrigger>
         </AccordionHeader>
         <AccordionContent class="AccordionContent">

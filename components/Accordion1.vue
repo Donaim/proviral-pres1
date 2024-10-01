@@ -21,7 +21,7 @@ const accordionItems = [
 ]
 
 function disableKeyboardEvents(event) {
-  if (["keydown"].includes(event.type)) {
+  if (["keydown", "keyup"].includes(event.type)) {
       event.stopPropagation();
       event.preventDefault();
       return;

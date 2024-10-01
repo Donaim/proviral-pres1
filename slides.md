@@ -54,9 +54,10 @@ transition: fade-out
 
 <!-- TODO: better presentation form. More detail. -->
 
-  <div>
-    <HelloWorld msg="Hello Vue 3.0 + Vite" />
-  </div>
+
+<div>
+<HelloWorld msg="Hello Vue 3.0 + Vite" />
+</div>
 
 lol
 

@@ -20,18 +20,6 @@ const accordionItems = [
   },
 ]
 
-function disableKeyboardEvents(event) {
-  if (["keydown", "keyup"].includes(event.type)) {
-      event.stopPropagation();
-      event.preventDefault();
-      return;
-  }
-
-  console.log({event});
-  console.log("SLIPPED");
-
-}
-
 </script>
 
 <template>

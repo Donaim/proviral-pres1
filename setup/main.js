@@ -1,7 +1,6 @@
 
+// import { defineConfig } from 'slidev';
 import { AccordionItem, AccordionTrigger, AccordionHeader, AccordionContent } from 'radix-vue';
-
-import { defineConfig } from 'slidev';
 
 export default defineConfig({
   vue: {

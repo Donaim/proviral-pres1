@@ -120,7 +120,7 @@ dragPos:
 
 <!-- TODO: better presentation form. More detail. -->
 
-- Useful tools for HIV research from the Brockman and Brumme Lab at SFU .
+- Useful tools for HIV research from the Brockman and Brumme Lab at SFU.
 - Paints landscape plots (at some point).
 
 <img v-drag="'square'" src="./bblabs1.png">

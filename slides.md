@@ -56,8 +56,10 @@ transition: fade-out
 
 
 <div>
-kek
+<Accordion msg="Hello Vue 3.0 + Vite" />
 </div>
+
+lol
 
 - Collection of programs that output images and CSV files.
 - Is a pipeline.

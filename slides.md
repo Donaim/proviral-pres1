@@ -56,7 +56,7 @@ transition: fade-out
 
 
 <div>
-<!-- <Accordion msg="Hello Vue 3.0 + Vite" /> -->
+<Accordion msg="Hello Vue 3.0 + Vite" />
 </div>
 
 lol

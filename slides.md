@@ -113,7 +113,8 @@ Now called CFEIntact.
 
 ---
 dragPos:
-  square: 44,134,681,403
+  bblabs: 44,134,681,403
+  landscapes: 56,-548,900,1414
 ---
 
 # BBLabTools
@@ -123,9 +124,9 @@ dragPos:
 - Useful tools for HIV research from the Brockman and Brumme Lab at SFU.
 - Paints landscape plots (at some point).
 
-<img v-drag="'square'" src="./assets/landscapes1.svg">
+<img v-drag="'landscapes'" src="./assets/landscapes1.svg">
 
-<img v-drag="'square'" src="./assets/bblabs1.png">
+<img v-drag="'bblabs'" src="./assets/bblabs1.png">
 
 ---
 

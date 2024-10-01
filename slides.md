@@ -113,7 +113,7 @@ Now called CFEIntact.
 
 ---
 dragPos:
-  square: 69,212,531,314
+  square: 44,134,681,403
 ---
 
 # BBLabTools

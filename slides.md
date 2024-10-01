@@ -74,6 +74,9 @@ transition: fade-out
 <!-- TODO: insert a drawing of a factory. -->
 
 ---
+setup: |
+   import { AccordionItem, AccordionTrigger, AccordionHeader, AccordionContent } from 'radix-vue';
+---
 
 # Initiation
 

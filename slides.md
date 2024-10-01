@@ -123,9 +123,9 @@ dragPos:
 - Useful tools for HIV research from the Brockman and Brumme Lab at SFU.
 - Paints landscape plots (at some point).
 
-<img v-drag="'square'" src="./assets/bblabs1.png">
-
 <img v-drag="'square'" src="./assets/landscapes1.svg">
+
+<img v-drag="'square'" src="./assets/bblabs1.png">
 
 ---
 

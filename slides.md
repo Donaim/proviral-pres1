@@ -82,7 +82,7 @@ MiCall processes the samples and starts Proviral pipeline via Kive.
 
 ---
 
-# Proviral startup part
+# Gene Splicer 1
 
 <!-- TODO: better presentation form. More detail. -->
 

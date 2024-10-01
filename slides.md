@@ -81,9 +81,7 @@ transition: fade-out
 
 First, the samples are collected.
 
-<div @keydown.stop.prevent>
 <Accordion1 />
-</div>
 
 Then they are loaded into MiCall.
 

@@ -58,6 +58,7 @@ const accordionItems = [
 export default {
   methods: {
     disableKeyboardEvents(event) {
+      console.log({event});
       event.stopPropagation();
       event.preventDefault();
     },

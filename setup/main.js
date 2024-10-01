@@ -1,4 +1,6 @@
 
-const hello = () => console.log("XHELLO");
+const hello = function () {
+    console.log("My setup here.");
+}
 
 export default hello;

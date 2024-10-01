@@ -86,10 +86,8 @@ MiCall processes the samples and starts Proviral pipeline via Kive.
 
 <!-- TODO: better presentation form. More detail. -->
 
-
 Proviral pipeline runs QC checks on every sequence.
 This includes....
-
 
 It uses blast, mafft, and mappy for alignment purposes.
 
@@ -99,12 +97,15 @@ Samples that passed QC proceed to CFEIntact analysis.
 
 # HIVIntact
 
+<!-- TODO: better presentation form. More detail. -->
+
 Now called CFEIntact.
 
 ---
 
 # Back to Proviral Pipeline
 
+<!-- TODO: better presentation form. More detail. -->
 
 
 ----------------------------------

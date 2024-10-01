@@ -136,7 +136,8 @@ dragPos:
 - `table_precursor.csv`
 - `landscapes.csv`
 - `landscapes.svg` (on-demand)
-- `hello`
+- `defects.csv`
+- `regions.csv`
 
 ---
 

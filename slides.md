@@ -115,10 +115,7 @@ Now called CFEIntact.
 
 # BBLabTools
 
-
 <img border="rounded" src="./bblabs1.png" alt="">
-
-
 
 ----------------------------------
 

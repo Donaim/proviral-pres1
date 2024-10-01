@@ -130,6 +130,16 @@ dragPos:
 
 ---
 
+# Summary of output files
+
+- `outcome_summary.csv`
+- `table_precursor.csv`
+- `landscapes.csv`
+- `landscapes.svg` (on-demand)
+- `hello`
+
+---
+
 # Welcome to Slidev
 
 Presentation slides for developers

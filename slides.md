@@ -54,11 +54,12 @@ transition: fade-out
 
 <!-- TODO: better presentation form. More detail. -->
 
-<!-- <div> -->
-<!-- <Accordion msg="Hello Vue 3.0 + Vite" /> -->
-<!-- </div> -->
-
 lol
+
+<div>
+<Accordion msg="Hello Vue 3.0 + Vite" />
+</div>
+
 
 - Collection of programs that output images and CSV files.
 - Is a pipeline.

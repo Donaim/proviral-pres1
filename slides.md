@@ -125,6 +125,8 @@ dragPos:
 
 <img v-drag="'square'" src="./bblabs1.png">
 
+<img v-drag="'square'" src="./bblabs1.png">
+
 ---
 
 # Welcome to Slidev

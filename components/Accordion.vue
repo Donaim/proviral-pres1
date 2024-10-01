@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { AccordionContent, AccordionHeader, AccordionItem, AccordionRoot, AccordionTrigger } from 'radix-vue'
-import { Icon } from '@iconify/vue'
 
 const accordionItems = [
   {
@@ -39,10 +38,6 @@ const accordionItems = [
         <AccordionHeader class="flex">
           <AccordionTrigger class="text-grass11 shadow-mauve6 hover:bg-mauve2 flex h-[45px] flex-1 cursor-default items-center justify-between bg-white px-5 text-[15px] leading-none shadow-[0_1px_0] outline-none group">
             <span>{{ item.title }}</span>
-            <Icon
-              icon="radix-icons:chevron-down"
-              class="text-green10 ease-[cubic-bezier(0.87,_0,_0.13,_1)] transition-transform duration-300 group-data-[state=open]:rotate-180"
-            />
           </AccordionTrigger>
         </AccordionHeader>
         <AccordionContent class="text-mauve11 bg-mauve2 data-[state=open]:animate-slideDown data-[state=closed]:animate-slideUp overflow-hidden text-[15px]">

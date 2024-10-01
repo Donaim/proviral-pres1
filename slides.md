@@ -112,7 +112,7 @@ Now called CFEIntact.
 
 
 ---
-layout: center
+layout: image-right
 ---
 
 # BBLabTools

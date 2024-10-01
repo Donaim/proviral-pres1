@@ -12,6 +12,7 @@
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
     "radix-vue": "^1.9.6",
-    "vue": "^3.4.38"
+    "vue": "^3.4.38",
+    "vue-demi": "^0.14.10"
   }
 }

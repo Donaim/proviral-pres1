@@ -49,7 +49,7 @@ transition: fade-out
 <Toc />
 
 ---
-zoom: 1
+zoom: 2
 ---
 
 # About Proviral Pipeline

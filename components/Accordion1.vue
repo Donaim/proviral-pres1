@@ -35,7 +35,11 @@ function disableKeyboardEvents(event) {
 </script>
 
 <template>
-  <div @keydown="disableKeyboardEvents" @keyup="disableKeyboardEvents" @keypress="disableKeyboardEvents">
+  <div
+    @keydown.stop.prevent
+    @keypress.stop.prevent
+    @keyup.stop.prevent
+  >
   <AccordionRoot
     class="AccordionRoot"
     default-value="'item-1'"

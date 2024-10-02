@@ -109,6 +109,9 @@ MiCall processes the samples and starts Proviral pipeline via Kive.
 Now called CFEIntact.
 
 ---
+dragPos:
+  landscapes: 0,-562,0,0
+---
 
 # Back to Proviral Pipeline
 

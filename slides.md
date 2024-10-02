@@ -109,9 +109,9 @@ dragPos:
   checkqc: 466,18,490,490
 ---
 
-# Proviral QC
+## Proviral QC is a series of steps:
 
-Our QC is a series of steps:
+<br>
 
 <Accordion2 />
 

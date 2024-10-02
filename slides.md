@@ -109,6 +109,7 @@ hideInToc: true
 
 # Proviral QC
 
+<Accordion2 />
 
 - Proviral Check: The first filter applied is whether the sample is marked as proviral or not:
 

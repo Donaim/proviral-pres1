@@ -121,7 +121,7 @@ image: "./assets/leaf.webp"
 
 - Proviral pipeline strips off primers.
 
-- Samples that passed all checks proceed to HIVSeqInR analysis.
+- Samples that pass proceed to HIVSeqInR analysis.
 <br>
 <br>
 HIVIntact is also supported, but currently not run in production.

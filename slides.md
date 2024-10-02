@@ -90,6 +90,8 @@ Then they are loaded into MiCall.
 
 MiCall processes the samples and starts Proviral pipeline via Kive.
 
+<img src="./assets/miseq.webp">
+
 ---
 
 # Proviral startup

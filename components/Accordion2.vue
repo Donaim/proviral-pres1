@@ -74,7 +74,7 @@ const accordionItems = [
     </AccordionItem>
 
 
-    <AccordionItem class="AccordionItem" value='item-2' >
+    <AccordionItem class="AccordionItem" value='item-3' >
       <AccordionHeader class="AccordionHeader">
         <AccordionTrigger class="AccordionTrigger">
           <span>

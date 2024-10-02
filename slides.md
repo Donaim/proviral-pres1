@@ -110,7 +110,7 @@ MiCall also downloads <br> Proviral results when available.
 
 ---
 dragPos:
-  pipeline: 603,32,342,342
+  pipeline: 453,32,492,492
 ---
 
 # Pipeline startup

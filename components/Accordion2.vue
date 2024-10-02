@@ -70,13 +70,13 @@ import './styles.css'
       <AccordionHeader class="AccordionHeader">
         <AccordionTrigger class="AccordionTrigger">
           <span>
-            Consensus Percent Cutoff
+            V3 Sequence Check
           </span>
         </AccordionTrigger>
       </AccordionHeader>
       <AccordionContent class="AccordionContent">
         <div class="AccordionContentText">
-            If the <b>conseqs.csv</b> file contains a consensus that does not meet the <b>MAX</b> cutoff (i.e., it reports mixtures rather than the most common nucleotide at each position), the sequence is tagged with the error <i>"contig not MAX"</i> and skipped from further analysis.
+            If a sequence is from the <b>V3</b> loop region (which is not proviral), the sequence is tagged with the error is <b>V3</b> sequence and skipped.
         </div>
       </AccordionContent>
     </AccordionItem>

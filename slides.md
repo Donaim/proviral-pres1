@@ -121,8 +121,6 @@ image: "./assets/leaf.webp"
 
 - Proviral pipeline strips off primers.
 
-- It uses blast, mafft, and mappy for alignment purposes.
-
 - Samples that passed all checks proceed to HIVSeqInR analysis.
 <br>
 <br>

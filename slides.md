@@ -122,7 +122,7 @@ MiCall also downloads <br> Proviral results when available.
 
 - Samples that passed QC proceed to HIVSeqInR analysis.
 
-NOTE: HIVIntact is still also supported, but currently not run in production.
+NOTE: HIVIntact is also supported, but currently not run in production.
 
 ---
 hideInToc: true

@@ -82,6 +82,7 @@ transition: fade-out
 First, the samples are collected.
 
 <Accordion1 />
+<Acc1 />
 
 Then they are loaded into MiCall.
 

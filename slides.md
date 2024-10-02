@@ -83,20 +83,20 @@ First, the samples are collected.
 
 <!-- <Accordion1 /> -->
 
-  <AccordionRoot class="AccordionRoot" default-value="'item-1'" type="single" :collapsible="true" @keydown.stop.prevent @keypress.stop.prevent @keyup.stop.prevent >
-      <AccordionItem class="AccordionItem" :value="hello2" >
-        <AccordionHeader class="AccordionHeader">
-          <AccordionTrigger class="AccordionTrigger">
-            <span>kek</span>
-          </AccordionTrigger>
-        </AccordionHeader>
-        <AccordionContent class="AccordionContent">
-          <div class="AccordionContentText">
-              hello
-          </div>
-        </AccordionContent>
-      </AccordionItem>
-  </AccordionRoot>
+  <!-- <AccordionRoot class="AccordionRoot" default-value="'item-1'" type="single" :collapsible="true" @keydown.stop.prevent @keypress.stop.prevent @keyup.stop.prevent > -->
+  <!--     <AccordionItem class="AccordionItem" :value="hello2" > -->
+  <!--       <AccordionHeader class="AccordionHeader"> -->
+  <!--         <AccordionTrigger class="AccordionTrigger"> -->
+  <!--           <span>kek</span> -->
+  <!--         </AccordionTrigger> -->
+  <!--       </AccordionHeader> -->
+  <!--       <AccordionContent class="AccordionContent"> -->
+  <!--         <div class="AccordionContentText"> -->
+  <!--             hello -->
+  <!--         </div> -->
+  <!--       </AccordionContent> -->
+  <!--     </AccordionItem> -->
+  <!-- </AccordionRoot> -->
 
 Then they are loaded into MiCall.
 

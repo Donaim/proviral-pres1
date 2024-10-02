@@ -1,6 +1,4 @@
 
-// import { Accordion, AccordionItem, AccordionTrigger, AccordionHeader, AccordionContent } from 'radix-vue';
-
 import { AccordionContent, AccordionHeader, AccordionItem, AccordionRoot, AccordionTrigger } from 'radix-vue';
 import '../components/styles.css'
 

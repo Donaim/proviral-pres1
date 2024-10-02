@@ -111,6 +111,10 @@ dragPos:
 
 # Proviral QC
 
+<br>
+
+Qc is a series of steps:
+
 <Accordion2 />
 
 <img v-drag="'checkqc'" src="./assets/qc1.webp" >

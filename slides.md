@@ -100,7 +100,7 @@ dragPos:
 
 Produces files such as `conseq.csv` and `contigs.csv`.
 
-- MiCall starting .
+- MiCall starts Proviral.
 
 <img v-drag="'miseq'" src="./assets/miseq.webp">
 

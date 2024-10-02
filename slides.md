@@ -170,4 +170,5 @@ dragPos:
 
 - BBLabTools release.
 - Better support for subtypes in CFEIntact.
-
+- More regions recognition in CFEIntact.
+- Better output description in CFEIntact.

@@ -98,7 +98,7 @@ dragPos:
 
 - MiCall initial processing.
 
-Produces files such as `conseq.csv` and `contigs.csv`.
+Produces files such <br> as `conseq.csv` and `contigs.csv`.
 
 - MiCall starts Proviral.
 

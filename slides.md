@@ -88,6 +88,8 @@ First, the samples are collected.
 
   <AccordionRoot>
       <AccordionItem>
+          hello
+      
       </AccordionItem>
   </AccordionRoot>
 

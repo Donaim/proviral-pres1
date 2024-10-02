@@ -111,7 +111,7 @@ hideInToc: true
 
 <Accordion2 />
 
-<img src="./assets/quality-check.webp" >
+<img v-drag="'checkqc'" src="./assets/quality-check.webp" >
 
 ---
 

@@ -109,11 +109,9 @@ MiCall also downloads <br> Proviral results when available.
 <img v-drag="'miseq'" src="./assets/miseq.webp">
 
 ---
-
-
-<!-- layout: image-right -->
-<!-- image: "./assets/leaf.webp" -->
-<!-- --- -->
+dragPos:
+  pipeline: 603,32,342,342
+---
 
 # Proviral startup
 

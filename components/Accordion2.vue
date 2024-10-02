@@ -90,5 +90,21 @@ const accordionItems = [
     </AccordionItem>
 
 
+    <AccordionItem class="AccordionItem" value='item-3' >
+      <AccordionHeader class="AccordionHeader">
+        <AccordionTrigger class="AccordionTrigger">
+          <span>
+            Consensus Percent Cutoff
+          </span>
+        </AccordionTrigger>
+      </AccordionHeader>
+      <AccordionContent class="AccordionContent">
+        <div class="AccordionContentText">
+            If the <b>conseqs.csv</b> file contains a consensus that does not meet the <b>MAX</b> cutoff (i.e., it reports mixtures rather than the most common nucleotide at each position), the sequence is tagged with the error <i>"contig not MAX"</i> and skipped from further analysis.
+        </div>
+      </AccordionContent>
+    </AccordionItem>
+
+
   </AccordionRoot>
 </template>

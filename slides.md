@@ -120,7 +120,9 @@ MiCall also downloads <br> Proviral results when available.
 
 - It uses blast, mafft, and mappy for alignment purposes.
 
-- Samples that passed QC proceed to CFEIntact analysis.
+- Samples that passed QC proceed to HIVSeqInR analysis.
+
+HIVSeqInR is still also supported.
 
 
 ---

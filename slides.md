@@ -22,7 +22,7 @@ transition: slide-left
 mdc: true
 ---
 
-Structure and interpretation of
+Structure and interpretation of the
 
 # Proviral pipeline
 

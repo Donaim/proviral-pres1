@@ -69,7 +69,7 @@ transition: fade-out
 
 - Sample collection & MiCall processing
 - Proviral pipeline startup
-- CFEIntact processing
+- HIVIntact processing
 - Proviral pipeline outputs
    (such as regions clipping and landscapes)
 - BBLabTools output

@@ -5,8 +5,10 @@ import './styles.css'
 const accordionItems = [
   {
     value: 'item-1',
-    title: 'Is it accessible?',
-    content: 'Proviral Check: The first filter applied is whether the sample is marked as proviral or not:',
+    title: 'Proviral Check',
+    content: 'The first filter applied is whether the sample is marked as proviral or not:
+
+',
   },
   {
     value: 'item-2',

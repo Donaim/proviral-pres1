@@ -39,27 +39,24 @@ const accordionItems = [
     @keypress.stop.prevent
     @keyup.stop.prevent
 
-   >
-    <template
-      v-for="item in accordionItems"
-      :key="item.value"
     >
-      <AccordionItem
-        class="AccordionItem"
-        :value="item.value"
-      >
-        <AccordionHeader class="AccordionHeader">
-          <AccordionTrigger class="AccordionTrigger">
-            <span>{{ item.title }}</span>
-          </AccordionTrigger>
-        </AccordionHeader>
-        <AccordionContent class="AccordionContent">
-          <div class="AccordionContentText">
-          <p> hello there </p>
-            {{ item.content }}
-          </div>
-        </AccordionContent>
-      </AccordionItem>
-    </template>
+
+
+    <AccordionItem class="AccordionItem" >
+      <AccordionHeader class="AccordionHeader">
+        <AccordionTrigger class="AccordionTrigger">
+          <span>
+            Proviral Check
+          </span>
+        </AccordionTrigger>
+      </AccordionHeader>
+      <AccordionContent class="AccordionContent">
+        <div class="AccordionContentText">
+            The first filter applied is whether the sample is marked as proviral or not. If the sample is non-proviral, it is skipped entirely, and a message like "sample X was skipped" is logged. This check is based on MiCall\'s project code, which is expected contain "NFL" it it, such as "NFLHIVDNA".
+        </div>
+      </AccordionContent>
+    </AccordionItem>
+
+
   </AccordionRoot>
 </template>

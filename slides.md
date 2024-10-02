@@ -95,7 +95,7 @@ First, the samples are collected.
         </AccordionHeader>
         <AccordionContent class="AccordionContent">
           <div class="AccordionContentText">
-            {{ item.content }}
+              hello
           </div>
         </AccordionContent>
       </AccordionItem>

@@ -168,5 +168,5 @@ dragPos:
 
 <!-- TODO: better presentation form. More detail. -->
 
-- hello
+- 
 - Hi

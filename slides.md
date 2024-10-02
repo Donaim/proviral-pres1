@@ -110,6 +110,7 @@ MiCall also downloads <br> Proviral results when available.
 
 ---
 layout: image-right
+image: https://cover.sli.dev
 ---
 
 # Proviral startup

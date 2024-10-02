@@ -74,8 +74,8 @@ dragPos:
 - Proviral pipeline startup
 - HIVIntact processing
 - Proviral pipeline outputs
-   <br>
-   (such as regions clipping and landscapes)
+<br>
+(such as regions clipping and landscapes)
 - BBLabTools output
 
 <img v-drag="'catstructure'" src="./assets/catstructure.webp" />

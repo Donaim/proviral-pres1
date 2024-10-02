@@ -86,14 +86,7 @@ First, the samples are collected.
 
 <!-- <Accordion1 /> -->
 
-  <AccordionRoot
-
-    class="AccordionRoot"
-    default-value="'item-1'"
-    type="single"
-    :collapsible="true"
-
-   >
+  <AccordionRoot>
   </AccordionRoot>
 
 Then they are loaded into MiCall.

@@ -145,6 +145,9 @@ dragPos:
 <img v-drag="'checkqc'" src="./assets/qc1.webp" >
 
 ---
+dragPos:
+  primers: 345,111,600,400
+---
 
 # Primer trimming
 

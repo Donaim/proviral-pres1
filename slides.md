@@ -158,6 +158,8 @@ dragPos:
 
 </v-drag>
 
+Once primers are found, they are cut off.
+
 <img v-drag="'primers'" src="./assets/cutoff.png" >
 
 <!-- After the initial filtering step, the pipeline proceeds to find primers in the filtered sequences. This step involves checking both ends of the sequence for the presence of forward and reverse primers. -->

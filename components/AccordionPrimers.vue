@@ -17,26 +17,6 @@ import './styles.css'
 
     >
 
-<AccordionItem class="AccordionItem" value='item-1'>
-  <AccordionHeader class="AccordionHeader">
-    <AccordionTrigger class="AccordionTrigger">
-      <span>
-        Handling Missing Primers
-      </span>
-    </AccordionTrigger>
-  </AccordionHeader>
-  <AccordionContent class="AccordionContent">
-    <div class="AccordionContentText">
-      If either the forward or reverse primer is not found at the expected end, the sequence is tagged with errors such as:
-      <ul>
-        <li><i>"primer was not found"</i></li>
-        <li><i>"low read coverage in primer region"</i> (if the region near the end of the sequence does not have enough read coverage to reliably detect the primer)</li>
-        <li><i>"primer failed secondary validation"</i> (if a primer is found but fails a secondary validation step)</li>
-      </ul>
-    </div>
-  </AccordionContent>
-</AccordionItem>
-
 <AccordionItem class="AccordionItem" value='item-2'>
   <AccordionHeader class="AccordionHeader">
     <AccordionTrigger class="AccordionTrigger">
@@ -89,6 +69,26 @@ import './styles.css'
       reverse complement, it is used for further analysis, and a log
       message is generated indicating that the reverse complement was
       used.
+    </div>
+  </AccordionContent>
+</AccordionItem>
+
+<AccordionItem class="AccordionItem" value='item-1'>
+  <AccordionHeader class="AccordionHeader">
+    <AccordionTrigger class="AccordionTrigger">
+      <span>
+        Handling Missing Primers
+      </span>
+    </AccordionTrigger>
+  </AccordionHeader>
+  <AccordionContent class="AccordionContent">
+    <div class="AccordionContentText">
+      If either the forward or reverse primer is not found at the expected end, the sequence is tagged with errors such as:
+      <ul>
+        <li><i>"primer was not found"</i></li>
+        <li><i>"low read coverage in primer region"</i> (if the region near the end of the sequence does not have enough read coverage to reliably detect the primer)</li>
+        <li><i>"primer failed secondary validation"</i> (if a primer is found but fails a secondary validation step)</li>
+      </ul>
     </div>
   </AccordionContent>
 </AccordionItem>

@@ -70,7 +70,7 @@ dragPos:
 
 <!-- TODO: better presentation form. More detail. -->
 
-- Sample collection & MiCall processing
+- Data collection & MiCall processing
 - Proviral pipeline startup
 - HIVIntact processing
 - Proviral pipeline outputs

@@ -151,7 +151,11 @@ dragPos:
 
 # Primer trimming
 
+Hello there 1
+
 <img v-drag="'primers'" src="./assets/cutoff.webp" >
+
+Hello there 2
 
 ---
 

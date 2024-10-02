@@ -113,7 +113,7 @@ dragPos:
 
 <Accordion2 />
 
-<img v-drag="'checkqc'" src="./assets/qc.webp" >
+<img v-drag="'checkqc'" src="./assets/qc1.webp" >
 
 ---
 

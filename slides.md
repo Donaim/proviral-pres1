@@ -139,7 +139,7 @@ transition: fade
 
 ---
 dragPos:
-  landscapes: 44,134,681,403
+  landscapes: 44,134
 ---
 
 # BBLabTools

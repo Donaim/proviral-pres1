@@ -86,7 +86,7 @@ First, the samples are collected.
 
 <!-- <Accordion1 /> -->
 
-  <AccordionRoot>
+  <AccordionRoot class="AccordionRoot" default-value="'item-1'" type="single">
       <AccordionItem>
         <AccordionHeader class="AccordionHeader">
           <AccordionTrigger class="AccordionTrigger">

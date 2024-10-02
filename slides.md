@@ -137,6 +137,10 @@ transition: fade-out
 - Useful tools for HIV research from the Brockman and Brumme Lab at SFU.
 
 ---
+dragPos:
+  landscapes: 0,-562,0,0
+  bblabs: 0,-562,0,0
+---
 
 - Paints landscape plots (at some point).
 

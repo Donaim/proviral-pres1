@@ -81,28 +81,7 @@ transition: fade-out
 
 First, the samples are collected.
 
-<!-- <Accordion1 /> -->
-
-
-<AccordionRoot type="single" collapsible>
-  <AccordionItem value="item-1">
-    <AccordionHeader>
-      <AccordionTrigger>Section 1</AccordionTrigger>
-    </AccordionHeader>
-    <AccordionContent>
-      <p>This is the content for section 1.</p>
-    </AccordionContent>
-  </AccordionItem>
-
-  <AccordionItem value="item-2">
-    <AccordionHeader>
-      <AccordionTrigger>Section 2</AccordionTrigger>
-    </AccordionHeader>
-    <AccordionContent>
-      <p>This is the content for section 2.</p>
-    </AccordionContent>
-  </AccordionItem>
-</AccordionRoot>
+<Accordion1 />
 
 Then they are loaded into MiCall.
 

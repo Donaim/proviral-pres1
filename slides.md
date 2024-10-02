@@ -88,13 +88,15 @@ dragPos:
 
 <!-- TODO: better presentation form. More detail. -->
 
-First, the samples are collected.
+- Sample collection.
 
 <!-- <Accordion1 /> -->
 
-Then they are loaded into MiCall.
+- Loading into MiSeq.
 
-MiCall processes the samples and starts Proviral pipeline via Kive.
+- Pickup by MiCall.
+
+- MiCall processing through Kive.
 
 <img v-drag="'miseq'" src="./assets/miseq.webp">
 

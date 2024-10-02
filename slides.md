@@ -146,7 +146,7 @@ dragPos:
 
 ---
 dragPos:
-  primers: 345,111,600,400
+  primers: 506,45,387,258
 ---
 
 # Primer trimming

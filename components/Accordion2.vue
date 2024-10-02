@@ -108,7 +108,7 @@ import './styles.css'
       </AccordionHeader>
       <AccordionContent class="AccordionContent">
         <div class="AccordionContentText">
-            If there are gaps (marked by <b>X</b>'s) in the sequence with low internal read coverage, the sequence is tagged with the error <i>"low internal read coverage"</i> and skipped.
+            Sequences are also scanned for invalid characters (i.e., characters other than T, C, G, and A). If any such characters are found, the sequence is tagged with the error contig sequence contained non-TCGA/gap and skipped.
         </div>
       </AccordionContent>
     </AccordionItem>

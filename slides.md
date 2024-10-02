@@ -109,7 +109,7 @@ dragPos:
   checkqc: 477,36,490,490
 ---
 
-### Proviral QC runs in a series of steps:
+### Proviral QC is a series of steps:
 
 <br>
 <br>

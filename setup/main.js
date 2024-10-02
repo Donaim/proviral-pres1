@@ -1,5 +1,5 @@
 
-// import { defineConfig } from 'slidev';
+import { defineConfig } from 'slidev';
 import { AccordionRoot, AccordionItem, AccordionTrigger, AccordionHeader, AccordionContent } from 'radix-vue';
 
 const hello = function () {

@@ -63,7 +63,7 @@ transition: fade-out
 
 ---
 dragPos:
-  catstructure: 56,-236,980,980
+  catstructure: 465,88,443,443
 ---
 
 # Structure of Proviral Pipeline

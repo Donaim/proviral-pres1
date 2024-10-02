@@ -98,5 +98,22 @@ import './styles.css'
     </AccordionItem>
 
 
+    <AccordionItem class="AccordionItem" value='item-6' >
+      <AccordionHeader class="AccordionHeader">
+        <AccordionTrigger class="AccordionTrigger">
+          <span>
+            Non-TCGA Characters
+          </span>
+        </AccordionTrigger>
+      </AccordionHeader>
+      <AccordionContent class="AccordionContent">
+        <div class="AccordionContentText">
+            If there are gaps (marked by <b>X</b>'s) in the sequence with low internal read coverage, the sequence is tagged with the error <i>"low internal read coverage"</i> and skipped.
+        </div>
+      </AccordionContent>
+    </AccordionItem>
+
+
+
   </AccordionRoot>
 </template>

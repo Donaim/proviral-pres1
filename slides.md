@@ -112,7 +112,7 @@ hideInToc: true
 
 - Proviral Check: The first filter applied is whether the sample is marked as proviral or not:
 
-    If the sample is non-proviral, it is skipped entirely, and a message like sample X was skipped because it was non-proviral is logged.
+If the sample is non-proviral, it is skipped entirely, and a message like sample X was skipped because it was non-proviral is logged.
 
 - Remap Check: If the sample has a remap value of 0 in the cascade.csv file, it means that the sample has no sequence data to work with, and the following error is logged: No contig/conseq constructed.
 

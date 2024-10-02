@@ -153,7 +153,7 @@ dragPos:
 
 Hello there 1
 
-<img v-drag="'primers'" src="./assets/cutoff.webp" >
+<img v-drag="'primers'" src="./assets/cutoff.png" >
 
 Hello there 2
 

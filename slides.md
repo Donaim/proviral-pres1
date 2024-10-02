@@ -110,7 +110,7 @@ MiCall also downloads <br> Proviral results when available.
 
 ---
 dragPos:
-  pipeline: 453,32,492,492
+  pipeline: 500,49,450,450
 ---
 
 # Pipeline structure
@@ -121,7 +121,7 @@ dragPos:
 
 - Proviral pipeline trims primers off.
 
-- Samples that pass proceed to HIVIntact.
+- Samples that pass all  checks proceed to HIVIntact.
 <br><sup>HIVSeqInR is also still supported.</sup>
 
 - Samples that pass proceed to HIVIntact.

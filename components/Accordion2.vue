@@ -11,7 +11,7 @@ const accordionItems = [
   {
     value: 'item-2',
     title: 'Remap Check',
-    content: 'If the sample has a remap value of 0 in the cascade.csv file, it means that the sample has no sequence data to work with, and the following error is logged: No contig/conseq constructed.',
+    content: 'If the sample has a remap value of 0 in the cascade.csv file, it means that the sample has no sequence data to work with, and the following error is logged: "No contig/conseq constructed".',
   },
   {
     value: 'item-3',

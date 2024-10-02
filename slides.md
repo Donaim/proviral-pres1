@@ -122,8 +122,7 @@ MiCall also downloads <br> Proviral results when available.
 
 - Samples that passed QC proceed to HIVSeqInR analysis.
 
-HIVSeqInR is still also supported.
-
+NOTE: HIVSeqInR is still also supported.
 
 ---
 hideInToc: true

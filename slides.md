@@ -94,21 +94,6 @@ First, the samples are collected.
     :collapsible="true"
 
    >
-      <AccordionItem
-        class="AccordionItem"
-        :value="item.value"
-      >
-        <AccordionHeader class="AccordionHeader">
-          <AccordionTrigger class="AccordionTrigger">
-            <span>{{ item.title }}</span>
-          </AccordionTrigger>
-        </AccordionHeader>
-        <AccordionContent class="AccordionContent">
-          <div class="AccordionContentText">
-            {{ item.content }}
-          </div>
-        </AccordionContent>
-      </AccordionItem>
   </AccordionRoot>
 
 Then they are loaded into MiCall.

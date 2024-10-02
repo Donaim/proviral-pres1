@@ -121,8 +121,6 @@ dragPos:
 
 - Proviral pipeline trims primers off.
 
-TODO: what are primers and how to eat them?
-
 - Samples that pass proceed to HIVIntact.
 
 HIVSeqInR is also still supported.

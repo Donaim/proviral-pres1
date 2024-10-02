@@ -98,10 +98,6 @@ First, the samples are collected.
     @keyup.stop.prevent
 
    >
-    <template
-      v-for="item in accordionItems"
-      :key="item.value"
-    >
       <AccordionItem
         class="AccordionItem"
         :value="item.value"
@@ -117,7 +113,6 @@ First, the samples are collected.
           </div>
         </AccordionContent>
       </AccordionItem>
-    </template>
   </AccordionRoot>
 
 Then they are loaded into MiCall.

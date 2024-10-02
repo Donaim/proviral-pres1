@@ -92,7 +92,7 @@ import './styles.css'
       </AccordionHeader>
       <AccordionContent class="AccordionContent">
         <div class="AccordionContentText">
-            If there are gaps (marked by <b>X</b>'s) in the sequence with low internal read coverage, the sequence is tagged with the error low internal read coverage and skipped.
+            If there are gaps (marked by <b>X</b>'s) in the sequence with low internal read coverage, the sequence is tagged with the error <i>"low internal read coverage"</i> and skipped.
         </div>
       </AccordionContent>
     </AccordionItem>

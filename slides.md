@@ -122,8 +122,7 @@ dragPos:
 - Proviral pipeline trims primers off.
 
 - Samples that pass proceed to HIVIntact.
-
-<sup>HIVSeqInR is also still supported.</sup>
+<br><sup>HIVSeqInR is also still supported.</sup>
 
 - Samples that pass proceed to HIVIntact.
 

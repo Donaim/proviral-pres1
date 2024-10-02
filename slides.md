@@ -153,7 +153,6 @@ dragPos:
 
 
 
-
 <img v-drag="'primers'" src="./assets/cutoff.png" >
 
 ---

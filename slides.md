@@ -88,7 +88,16 @@ First, the samples are collected.
 
   <AccordionRoot>
       <AccordionItem>
-          hello
+        <AccordionHeader class="AccordionHeader">
+          <AccordionTrigger class="AccordionTrigger">
+            <span>{{ item.title }}</span>
+          </AccordionTrigger>
+        </AccordionHeader>
+        <AccordionContent class="AccordionContent">
+          <div class="AccordionContentText">
+            {{ item.content }}
+          </div>
+        </AccordionContent>
       </AccordionItem>
   </AccordionRoot>
 

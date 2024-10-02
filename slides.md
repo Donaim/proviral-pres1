@@ -114,7 +114,7 @@ dragPos:
 <br>
 <br>
 
-<Accordion2 />
+<AccordionQC />
 
 <img v-drag="'checkqc'" src="./assets/qc1.webp" >
 

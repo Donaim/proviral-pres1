@@ -113,7 +113,7 @@ dragPos:
   pipeline: 453,32,492,492
 ---
 
-# Pipeline startup
+# Pipeline structure
 
 <!-- TODO: better presentation form. More detail. -->
 

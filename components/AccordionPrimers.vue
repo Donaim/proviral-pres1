@@ -47,7 +47,7 @@ import './styles.css'
   </AccordionHeader>
   <AccordionContent class="AccordionContent">
     <div class="AccordionContentText">
-      If there are gaps (<b>X</b>'s) in the sequence, the pipeline attempts to remove them if they are <b>clustered near the ends</b>. If the X's cannot be removed, the sequence is skipped for primer detection in that region.
+      If there are gaps (<b>X</b>'s) in the sequence, the pipeline attempts to remove them if they are <b>clustered near the ends</b>. If the <b>X</b>'s cannot be removed, the sequence is skipped for primer detection in that region.
     </div>
   </AccordionContent>
 </AccordionItem>

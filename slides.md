@@ -148,7 +148,9 @@ dragPos:
 - Generates `landscapes.csv`
 
 <Transform :scale=0.5>
-  <img v-drag="'landscapes'" src="./assets/decision.svg">
+
+hello
+
 </ Transform>
 
 ---

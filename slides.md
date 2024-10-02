@@ -124,8 +124,8 @@ image: "./assets/leaf.webp"
 - It uses blast, mafft, and mappy for alignment purposes.
 
 - Samples that passed QC proceed to HIVSeqInR analysis.
+  <br><sup>(HIVIntact is also supported, but currently not run in production.)</sup>
 
-HIVIntact is also supported, but currently not run in production.
 
 ---
 hideInToc: true

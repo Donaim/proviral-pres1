@@ -106,7 +106,7 @@ MiCall processes the samples and starts Proviral pipeline via Kive.
 ---
 hideInToc: true
 dragPos:
-  checkqc: 592,69,307,307
+  checkqc: 466,18,490,490
 ---
 
 # Proviral QC

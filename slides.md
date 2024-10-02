@@ -147,11 +147,12 @@ dragPos:
 ---
 dragPos:
   primers: 506,45,387,258
+  landscapes: 22,98,436,340
 ---
 
 # Primer trimming
 
-<v-drag pos="landscapes" text-3xl>
+<v-drag pos="landscapes">
 
 After the initial filtering step, the pipeline proceeds to find primers in the filtered sequences. This step involves checking both ends of the sequence for the presence of forward and reverse primers.
 

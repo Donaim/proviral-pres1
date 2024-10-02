@@ -68,7 +68,7 @@ const accordionItems = [
       </AccordionHeader>
       <AccordionContent class="AccordionContent">
         <div class="AccordionContentText">
-            If the sample has a remap value of 0 in the cascade.csv file, it means that the sample has no sequence data to work with, and the following error is logged: "No contig/conseq constructed".
+            If the sample has a remap value of 0 in the <b>cascade.csv</b> file, it means that the sample has no sequence data to work with, and the following error is logged: "No contig/conseq constructed".
         </div>
       </AccordionContent>
     </AccordionItem>

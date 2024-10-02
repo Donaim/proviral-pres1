@@ -1,5 +1,5 @@
 
-import { AccordionContent, AccordionHeader, AccordionItem, AccordionRoot, AccordionTrigger } from 'radix-vue';
+import { AccordionRoot, AccordionContent, AccordionHeader, AccordionItem, AccordionRoot, AccordionTrigger } from 'radix-vue';
 import '../components/styles.css'
 
 const hello = function () {

@@ -47,7 +47,10 @@ import './styles.css'
   </AccordionHeader>
   <AccordionContent class="AccordionContent">
     <div class="AccordionContentText">
-      If there are gaps (<b>X</b>'s) in the sequence, the pipeline attempts to remove them if they are <u>clustered near the ends</u>. If the <b>X</b>'s cannot be removed, the sequence is skipped for primer detection in that region.
+      If there are gaps (<b>X</b>'s) in the sequence, the pipeline
+      attempts to remove them if they are <u>clustered near the
+      ends</u>. If the <b>X</b>'s cannot be removed, the sequence is
+      skipped for primer detection in that region.
     </div>
   </AccordionContent>
 </AccordionItem>
@@ -62,7 +65,10 @@ import './styles.css'
   </AccordionHeader>
   <AccordionContent class="AccordionContent">
     <div class="AccordionContentText">
-      The pipeline validates that primers match expected sequences. If a primer sequence partially matches but fails secondary validation, it is considered invalid, and the error <i>"primer failed secondary validation"</i> is logged.
+      The pipeline validates that primers match expected sequences. If
+      a primer sequence partially matches but fails secondary
+      validation, it is considered invalid, and the error <i>"primer
+      failed secondary validation"</i> is logged.
     </div>
   </AccordionContent>
 </AccordionItem>
@@ -77,7 +83,12 @@ import './styles.css'
   </AccordionHeader>
   <AccordionContent class="AccordionContent">
     <div class="AccordionContentText">
-      If a sequence does not pass primer detection in its current form, the pipeline attempts to analyze the <u>reverse complement</u> of the sequence. If primers are found in the reverse complement, it is used for further analysis, and a log message is generated indicating that the reverse complement was used.
+      If a sequence does not pass primer detection in its current
+      form, the pipeline attempts to analyze the <u>reverse
+      complement</u> of the sequence. If primers are found in the
+      reverse complement, it is used for further analysis, and a log
+      message is generated indicating that the reverse complement was
+      used.
     </div>
   </AccordionContent>
 </AccordionItem>

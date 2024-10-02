@@ -2,6 +2,10 @@
 // import { defineConfig } from 'slidev';
 import { AccordionRoot, AccordionItem, AccordionTrigger, AccordionHeader, AccordionContent } from 'radix-vue';
 
+const hello = function () {
+    console.log("My setup here.");
+}
+
 export default defineConfig({
   vue: {
     setup() {
@@ -14,9 +18,3 @@ export default defineConfig({
     },
   },
 });
-
-const hello = function () {
-    console.log("My setup here.");
-}
-
-export default hello;

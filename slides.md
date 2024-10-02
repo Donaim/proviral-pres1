@@ -90,7 +90,7 @@ First, the samples are collected.
       <AccordionItem>
         <AccordionHeader class="AccordionHeader">
           <AccordionTrigger class="AccordionTrigger">
-            <span>{{ item.title }}</span>
+            <span>kek</span>
           </AccordionTrigger>
         </AccordionHeader>
         <AccordionContent class="AccordionContent">

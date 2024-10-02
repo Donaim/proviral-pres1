@@ -113,7 +113,7 @@ dragPos:
   pipeline: 603,32,342,342
 ---
 
-# Proviral startup
+# Pipeline startup
 
 <!-- TODO: better presentation form. More detail. -->
 

@@ -137,6 +137,7 @@ Now called CFEIntact.
 ---
 dragPos:
   landscapes: 524,-8,496,493
+  foo: 492,195,308,333
 ---
 
 # Back to Proviral Pipeline

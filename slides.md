@@ -151,7 +151,11 @@ dragPos:
 
 # Primer trimming
 
+<v-drag pos="landscapes" text-3xl>
+
 After the initial filtering step, the pipeline proceeds to find primers in the filtered sequences. This step involves checking both ends of the sequence for the presence of forward and reverse primers.
+
+</v-drag>
 
 <img v-drag="'primers'" src="./assets/cutoff.png" >
 

@@ -50,6 +50,7 @@ const accordionItems = [
         </AccordionHeader>
         <AccordionContent class="AccordionContent">
           <div class="AccordionContentText">
+          <p> hello </p>
             {{ item.content }}
           </div>
         </AccordionContent>

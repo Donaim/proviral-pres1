@@ -77,7 +77,7 @@ import './styles.css'
   </AccordionHeader>
   <AccordionContent class="AccordionContent">
     <div class="AccordionContentText">
-      If a sequence does not pass primer detection in its current form, the pipeline attempts to analyze the <b>reverse complement</b> of the sequence. If primers are found in the reverse complement, it is used for further analysis, and a log message is generated indicating that the reverse complement was used.
+      If a sequence does not pass primer detection in its current form, the pipeline attempts to analyze the <u>reverse complement</u> of the sequence. If primers are found in the reverse complement, it is used for further analysis, and a log message is generated indicating that the reverse complement was used.
     </div>
   </AccordionContent>
 </AccordionItem>

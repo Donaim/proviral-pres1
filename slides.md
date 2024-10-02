@@ -62,6 +62,9 @@ transition: fade-out
 - Created by Don, Charlotte, and me
 
 ---
+dragPos:
+  catstructure: 56,-236,980,980
+---
 
 # Structure of Proviral Pipeline
 
@@ -74,7 +77,7 @@ transition: fade-out
    (such as regions clipping and landscapes)
 - BBLabTools output
 
-<!-- TODO: insert a drawing of a factory. -->
+<img v-drag="'catstructure'" src="./assets/catstructure.webp" />
 
 ---
 dragPos:

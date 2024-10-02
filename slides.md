@@ -96,7 +96,11 @@ dragPos:
 
 - Pickup by MiCall.
 
-- MiCall processing through Kive.
+- MiCall initial processing.
+
+Produces files such as `conseq.csv` and `contigs.csv`.
+
+- MiCall starting .
 
 <img v-drag="'miseq'" src="./assets/miseq.webp">
 

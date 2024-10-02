@@ -168,5 +168,5 @@ dragPos:
 
 <!-- TODO: better presentation form. More detail. -->
 
-- 
-- Hi
+- BBLabTools release.
+- Better support for subtypes in CFEIntact.

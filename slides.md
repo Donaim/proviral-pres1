@@ -84,7 +84,7 @@ setup: |
 
 First, the samples are collected.
 
-<Accordion1 />
+<!-- <Accordion1 /> -->
 
 <AccordionRoot />
 

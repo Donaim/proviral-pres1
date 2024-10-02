@@ -16,7 +16,7 @@ const accordionItems = [
   {
     value: 'item-3',
     title: 'Consensus Percent Cutoff',
-    content: 'If the conseqs.csv file contains a consensus that does not meet the MAX cutoff (i.e., it reports mixtures rather than the most common nucleotide at each position), the sequence is tagged with the error contig not MAX and skipped from further analysis.',
+    content: 'If the conseqs.csv file contains a consensus that does not meet the MAX cutoff (i.e., it reports mixtures rather than the most common nucleotide at each position), the sequence is tagged with the error "contig not MAX" and skipped from further analysis.',
   },
   {
     value: 'item-4',

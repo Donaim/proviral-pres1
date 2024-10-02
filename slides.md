@@ -132,11 +132,11 @@ transition: fade
 
 # BBLabTools
 
-hello
-
 <!-- TODO: better presentation form. More detail. -->
 
 - Useful tools for HIV research from the Brockman and Brumme Lab at SFU.
+
+<img v-drag="'bblabs'" src="./assets/bblabs1.png">
 
 ---
 dragPos:
@@ -144,11 +144,11 @@ dragPos:
   bblabs: 0,-562,0,0
 ---
 
+# BBLabTools
+
 - Paints landscape plots (at some point).
 
 <img v-drag="'landscapes'" src="./assets/landscapes1.svg">
-
-<img v-drag="'bblabs'" src="./assets/bblabs1.png">
 
 ---
 

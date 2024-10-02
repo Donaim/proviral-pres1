@@ -154,7 +154,7 @@ dragPos:
 
 <v-drag pos="left">
 
-Hello there
+<AccordionPrimers />
 
 </v-drag>
 

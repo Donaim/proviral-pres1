@@ -108,7 +108,7 @@ import './styles.css'
       </AccordionHeader>
       <AccordionContent class="AccordionContent">
         <div class="AccordionContentText">
-            Sequences are also scanned for invalid characters (i.e., characters other than <b>T</b>, <b>C</b>, <b>G</b>, and <b>A</b>). If any such characters are found, the sequence is tagged with the error contig sequence contained non-TCGA/gap and skipped.
+            Sequences are also scanned for invalid characters (i.e., characters other than <b>T</b>, <b>C</b>, <b>G</b>, and <b>A</b>). If any such characters are found, the sequence is tagged with the error <i>"contig sequence contained non-TCGA/gap"</i> and skipped.
         </div>
       </AccordionContent>
     </AccordionItem>

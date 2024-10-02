@@ -114,9 +114,9 @@ hideInToc: true
 
 If the sample is non-proviral, it is skipped entirely, and a message like sample X was skipped because it was non-proviral is logged.
 
-- Remap Check: If the sample has a remap value of 0 in the cascade.csv file, it means that the sample has no sequence data to work with, and the following error is logged: No contig/conseq constructed.
+- Remap Check: If the sample has a remap value of 0 in the `cascade.csv` file, it means that the sample has no sequence data to work with, and the following error is logged: No contig/conseq constructed.
 
-- Consensus Percent Cutoff: If the conseqs.csv file contains a consensus that does not meet the MAX cutoff (i.e., it reports mixtures rather than the most common nucleotide at each position), the sequence is tagged with the error contig not MAX and skipped from further analysis.
+- Consensus Percent Cutoff: If the `conseqs.csv` file contains a consensus that does not meet the MAX cutoff (i.e., it reports mixtures rather than the most common nucleotide at each position), the sequence is tagged with the error contig not MAX and skipped from further analysis.
 
 - V3 Sequence Check: If a sequence is from the V3 loop region (which is not proviral), the sequence is tagged with the error is V3 sequence and skipped.
 

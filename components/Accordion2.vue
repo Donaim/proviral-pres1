@@ -52,7 +52,7 @@ const accordionItems = [
       </AccordionHeader>
       <AccordionContent class="AccordionContent">
         <div class="AccordionContentText">
-            The first filter applied is whether the sample is marked as proviral or not. If the sample is non-proviral, it is skipped entirely, and a message like "sample X was skipped" is logged. This check is based on MiCall\'s project code, which is expected contain "NFL" it it, such as "NFLHIVDNA".
+            The first filter applied is whether the sample is marked as proviral or not. If the sample is non-proviral, it is skipped entirely, and a message like "sample X was skipped" is logged. This check is based on MiCall's project code, which is expected contain "NFL" it it, such as "NFLHIVDNA".
         </div>
       </AccordionContent>
     </AccordionItem>

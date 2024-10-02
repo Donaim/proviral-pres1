@@ -126,7 +126,6 @@ dragPos:
 ---
 dragPos:
   bblabs: 44,134,681,403
-  landscapes: 375,-786,231,2251
 transition: fade
 ---
 
@@ -141,7 +140,6 @@ transition: fade
 ---
 dragPos:
   landscapes: 0,-562,0,0
-  bblabs: 0,-562,0,0
 ---
 
 # BBLabTools

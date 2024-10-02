@@ -127,6 +127,8 @@ TODO: what are primers and how to eat them?
 
 HIVIntact is also supported, but currently not run in production.
 
+<img v-drag="'pipelines'" src="./assets/pipelines.webp">
+
 ---
 hideInToc: true
 dragPos:

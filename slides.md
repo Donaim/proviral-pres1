@@ -122,7 +122,7 @@ dragPos:
 - Generates `landscapes.csv`
 
 <div style='width=100px;'>
-```mermaid
+```mermaid {width 100px}
 flowchart TD
     Q{ } --> W[NonHIV]
     Q{ } --> E{ }

@@ -111,6 +111,8 @@ hideInToc: true
 
 <Accordion2 />
 
+<img src="./assets/quality-check.webp" >
+
 ---
 
 # HIVIntact

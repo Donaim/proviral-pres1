@@ -121,39 +121,7 @@ dragPos:
 - Slices the input sequence into its parts, specifically `x1,psi_sl1,psi_sl2,psi_sl3,psi_sl4,gag,pol,protease,rt,integrase,vif,vpr,tat_exon1,rev_exon1,d4,x2,vpu,env,gp120,gp41,tat_exon2,rev_exon2,x3,nef,ltr3`
 - Generates `landscapes.csv`
 
-<div style='width=100px;'>
-```mermaid {width 100px}
-flowchart TD
-    Q{ } --> W[NonHIV]
-    Q{ } --> E{ }
-    E --> R[LongDeletion]
-    E --> T{ }
-    T --> Y[InternalInversion]
-    T --> U{ }
-    U --> I[Scramble]
-    U --> O{ }
-    O --> P[APOBECHypermutationDetected]
-    O --> A{ }
-    A --> S[MajorSpliceDonorSiteMutated]
-    A --> D{ }
-    D --> F[PackagingSignalDeletion]
-    D --> G{ }
-    G --> J[PackagingSignalNotComplete]
-    G --> K{ }
-    K --> L[RevResponseElementDeletion]
-    K --> Z{ }
-    Z --> X[WrongORFNumber]
-    Z --> C{ }
-    C --> V[DeletionInOrf]
-    C --> B{ }
-    B --> N[InsertionInOrf]
-    B --> M{ }
-    M --> A1[InternalStopInOrf]
-    M --> A2{ }
-    A2 --> A3[FrameshiftInOrf]
-    A2 --> A4[Intact]
-```
-</div>
+<img v-drag="'landscapes'" src="./assets/decision.svg">
 
 ---
 dragPos:

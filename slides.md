@@ -148,6 +148,7 @@ dragPos:
 dragPos:
   primers: 506,45,387,258
   left: 32,91,442,340
+  bottom: 536,294,323,64
 ---
 
 # Primer trimming
@@ -158,13 +159,18 @@ After the initial filtering step, the pipeline proceeds to find primers in the f
 
 <AccordionPrimers />
 
+</v-drag>
+<v-drag pos="bottom">
+
 Once primers are found, they are cut off.
 
 </v-drag>
 
 <img v-drag="'primers'" src="./assets/cutoff.png" >
 
-<!-- After the initial filtering step, the pipeline proceeds to find primers in the filtered sequences. This step involves checking both ends of the sequence for the presence of forward and reverse primers. -->
+<!--
+After the initial filtering step, the pipeline proceeds to find primers in the filtered sequences. This step involves checking both ends of the sequence for the presence of forward and reverse primers.
+-->
 
 ---
 

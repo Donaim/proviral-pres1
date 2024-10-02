@@ -102,6 +102,8 @@ Produces files such as <br> `conseq.csv` and `contigs.csv`.
 
 - MiCall starts Proviral.
 
+- MiCall downloads Proviral results.
+
 <img v-drag="'miseq'" src="./assets/miseq.webp">
 
 ---

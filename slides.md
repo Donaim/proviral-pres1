@@ -81,11 +81,7 @@ transition: fade-out
 
 First, the samples are collected.
 
-<Accordion1 >
-  <template #slot1>
-    ### **Another** Trigger
-  </template>
-</Accordion1 >
+<Accordion1 />
 
 Then they are loaded into MiCall.
 

@@ -86,7 +86,7 @@ First, the samples are collected.
 
 <!-- <Accordion1 /> -->
 
-  <AccordionRoot class="AccordionRoot" default-value="'item-1'" type="single">
+  <AccordionRoot class="AccordionRoot" default-value="'item-1'" type="single" @keydown.stop.prevent @keypress.stop.prevent @keyup.stop.prevent >
       <AccordionItem>
         <AccordionHeader class="AccordionHeader">
           <AccordionTrigger class="AccordionTrigger">

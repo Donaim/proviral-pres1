@@ -113,7 +113,7 @@ dragPos:
 
 <br>
 
-Qc is a series of steps:
+QC is a series of steps:
 
 <Accordion2 />
 

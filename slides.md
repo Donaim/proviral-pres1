@@ -22,11 +22,12 @@ transition: slide-left
 mdc: true
 ---
 
-Structure and interpretation of the
+<!-- Structure and interpretation of the -->
 
 # Proviral pipeline
 
-<!-- A gentle introduction -->
+A gentle introduction
+
 <!-- TODO: improve the subtitle -->
 
 ---

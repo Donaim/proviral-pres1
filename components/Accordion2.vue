@@ -66,7 +66,7 @@ import './styles.css'
     </AccordionItem>
 
 
-    <AccordionItem class="AccordionItem" value='item-3' >
+    <AccordionItem class="AccordionItem" value='item-4' >
       <AccordionHeader class="AccordionHeader">
         <AccordionTrigger class="AccordionTrigger">
           <span>

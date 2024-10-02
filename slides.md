@@ -147,12 +147,12 @@ dragPos:
 ---
 dragPos:
   primers: 506,45,387,258
-  landscapes: 32,91,442,340
+  left: 32,91,442,340
 ---
 
 # Primer trimming
 
-<v-drag pos="landscapes">
+<v-drag pos="left">
 
 Hello there
 

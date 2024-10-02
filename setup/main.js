@@ -7,16 +7,16 @@ const hello = function () {
 }
 
 export default defineConfig({
-    slidev: {
-        // vue: {
-        //     setup() {
-        //         // Register components globally
-        //         app.component('AccordionRoot', AccordionRoot);
-        //         app.component('AccordionItem', AccordionItem);
-        //         app.component('AccordionTrigger', AccordionTrigger);
-        //         app.component('AccordionHeader', AccordionHeader);
-        //         app.component('AccordionContent', AccordionContent);
-        //     },
-        // },
-    },
+    // slidev: {
+    //     vue: {
+    //         setup() {
+    //             // Register components globally
+    //             app.component('AccordionRoot', AccordionRoot);
+    //             app.component('AccordionItem', AccordionItem);
+    //             app.component('AccordionTrigger', AccordionTrigger);
+    //             app.component('AccordionHeader', AccordionHeader);
+    //             app.component('AccordionContent', AccordionContent);
+    //         },
+    //     },
+    // },
 });

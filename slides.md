@@ -49,7 +49,7 @@ transition: fade-out
 
 # Presentation plan
 
-<Toc />
+<Toc columns=2 />
 
 ---
 

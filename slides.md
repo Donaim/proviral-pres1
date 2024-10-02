@@ -72,7 +72,7 @@ transition: fade-out
 - CFEIntact processing
 - Proviral pipeline outputs
    (such as regions clipping and landscapes)
-- BBLabTools processing
+- BBLabTools output
 
 <!-- TODO: insert a drawing of a factory. -->
 

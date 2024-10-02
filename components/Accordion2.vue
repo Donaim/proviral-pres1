@@ -76,7 +76,7 @@ import './styles.css'
       </AccordionHeader>
       <AccordionContent class="AccordionContent">
         <div class="AccordionContentText">
-            If a sequence is from the <b>V3</b> loop region (which is not proviral), the sequence is tagged with the error is <b>V3</b> sequence and skipped.
+            If a sequence is from the <b>V3</b> loop region (which is not proviral), the sequence is tagged with the error <i>"is V3 sequence"</i> and skipped.
         </div>
       </AccordionContent>
     </AccordionItem>

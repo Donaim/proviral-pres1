@@ -123,9 +123,9 @@ dragPos:
 
 TODO: what are primers and how to eat them?
 
-- Samples that pass proceed to HIVSeqInR.
+- Samples that pass proceed to HIVIntact.
 
-HIVIntact is also supported, but currently not run in production.
+HIVSeqInR is also still supported.
 
 <img v-drag="'pipeline'" src="./assets/pipelines.webp">
 

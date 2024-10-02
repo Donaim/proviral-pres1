@@ -154,6 +154,8 @@ dragPos:
 
 <v-drag pos="left">
 
+Search:
+
 <AccordionPrimers />
 
 </v-drag>

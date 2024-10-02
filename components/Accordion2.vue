@@ -35,6 +35,8 @@ const accordionItems = [
     type="single"
     :collapsible="true"
 
+    style="width: 300px;"
+
     @keydown.stop.prevent
     @keypress.stop.prevent
     @keyup.stop.prevent

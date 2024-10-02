@@ -127,6 +127,7 @@ dragPos:
 dragPos:
   bblabs: 44,134,681,403
   landscapes: 375,-786,231,2251
+transition: fade-out
 ---
 
 # BBLabTools
@@ -134,6 +135,9 @@ dragPos:
 <!-- TODO: better presentation form. More detail. -->
 
 - Useful tools for HIV research from the Brockman and Brumme Lab at SFU.
+
+---
+
 - Paints landscape plots (at some point).
 
 <img v-drag="'landscapes'" src="./assets/landscapes1.svg">

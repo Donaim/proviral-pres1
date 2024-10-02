@@ -11,6 +11,8 @@ import './styles.css'
     type="single"
     :collapsible="true"
 
+    style="width: 40%;"
+
     @keydown.stop.prevent
     @keypress.stop.prevent
     @keyup.stop.prevent

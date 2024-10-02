@@ -81,6 +81,21 @@ import './styles.css'
       </AccordionContent>
     </AccordionItem>
 
+    <AccordionItem class="AccordionItem" value='item-5' >
+      <AccordionHeader class="AccordionHeader">
+        <AccordionTrigger class="AccordionTrigger">
+          <span>
+            V3 Sequence Check
+          </span>
+        </AccordionTrigger>
+      </AccordionHeader>
+      <AccordionContent class="AccordionContent">
+        <div class="AccordionContentText">
+            If a sequence is from the <b>V3</b> loop region (which is not proviral), the sequence is tagged with the error <i>"is V3 sequence"</i> and skipped.
+        </div>
+      </AccordionContent>
+    </AccordionItem>
+
 
   </AccordionRoot>
 </template>

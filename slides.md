@@ -93,10 +93,6 @@ First, the samples are collected.
     type="single"
     :collapsible="true"
 
-    @keydown.stop.prevent
-    @keypress.stop.prevent
-    @keyup.stop.prevent
-
    >
       <AccordionItem
         class="AccordionItem"

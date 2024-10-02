@@ -83,6 +83,7 @@ First, the samples are collected.
 
 <!-- <Accordion1 /> -->
 
+<template>
   <AccordionRoot class="AccordionRoot" default-value="'item-1'" type="single" :collapsible="true" @keydown.stop.prevent @keypress.stop.prevent @keyup.stop.prevent >
       <AccordionItem class="AccordionItem" :value="hello2" >
         <AccordionHeader class="AccordionHeader">
@@ -97,6 +98,7 @@ First, the samples are collected.
         </AccordionContent>
       </AccordionItem>
   </AccordionRoot>
+</template>
 
 Then they are loaded into MiCall.
 

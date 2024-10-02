@@ -6,7 +6,7 @@ const accordionItems = [
   {
     value: 'item-1',
     title: 'Proviral Check',
-    content: 'The first filter applied is whether the sample is marked as proviral or not:\n',
+    content: 'The first filter applied is whether the sample is marked as proviral or not:\nIf the sample is non-proviral, it is skipped entirely, and a message like sample X was skipped because it was non-proviral is logged.',
   },
   {
     value: 'item-2',

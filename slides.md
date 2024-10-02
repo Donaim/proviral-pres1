@@ -22,9 +22,11 @@ transition: slide-left
 mdc: true
 ---
 
+Structure and interpretation of
+
 # Proviral pipeline
 
-A gentle introduction
+<!-- A gentle introduction -->
 <!-- TODO: improve the subtitle -->
 
 ---

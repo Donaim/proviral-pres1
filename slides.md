@@ -119,7 +119,7 @@ image: "./assets/leaf.webp"
 
 - Proviral pipeline runs QC (quality checks).
 
-- Proviral pipeline strips off primers.
+- Proviral pipeline trims primers off.
 
 TODO: what are primers and how to eat them?
 
@@ -141,6 +141,12 @@ dragPos:
 <AccordionQC />
 
 <img v-drag="'checkqc'" src="./assets/qc1.webp" >
+
+---
+
+# Primer trimming
+
+
 
 ---
 

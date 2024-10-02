@@ -154,6 +154,8 @@ dragPos:
 
 <v-drag pos="left">
 
+After the initial filtering step, the pipeline proceeds to find primers in the filtered sequences
+
 <AccordionPrimers />
 
 Once primers are found, they are cut off.

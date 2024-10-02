@@ -76,6 +76,7 @@ transition: fade-out
 ---
 setup: |
   import { AccordionContent, AccordionHeader, AccordionItem, AccordionRoot, AccordionTrigger } from 'radix-vue';
+  import './components/styles.css'
 ---
 
 # Initiation

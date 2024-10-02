@@ -66,7 +66,7 @@ dragPos:
   catstructure: 459,90,443,443
 ---
 
-# Structure of Proviral Pipeline
+# Proviral sample workflow
 
 <!-- TODO: better presentation form. More detail. -->
 

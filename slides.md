@@ -156,9 +156,9 @@ dragPos:
 
 <AccordionPrimers />
 
-</v-drag>
-
 Once primers are found, they are cut off.
+
+</v-drag>
 
 <img v-drag="'primers'" src="./assets/cutoff.png" >
 

@@ -88,7 +88,7 @@ First, the samples are collected.
 
   <AccordionRoot>
       <AccordionItem>
-      <AccordionItem/>
+      </AccordionItem>
   </AccordionRoot>
 
 Then they are loaded into MiCall.

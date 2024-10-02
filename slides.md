@@ -97,7 +97,6 @@ MiCall processes the samples and starts Proviral pipeline via Kive.
 <!-- TODO: better presentation form. More detail. -->
 
 - Proviral pipeline runs QC checks on every sequence.
-- This includes....
 
 - It uses blast, mafft, and mappy for alignment purposes.
 

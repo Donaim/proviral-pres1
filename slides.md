@@ -146,7 +146,7 @@ dragPos:
 
 # Primer trimming
 
-
+<img v-drag="'primers'" src="./assets/qc1.webp" >
 
 ---
 

@@ -125,7 +125,7 @@ dragPos:
 
 ---
 dragPos:
-  bblabs: 44,134,681,403
+  bblabs: 123,122,725,429
 transition: fade
 ---
 
@@ -175,6 +175,8 @@ dragPos:
 - `regions.csv`
 - `outcome_summary.csv`
 - `table_precursor.csv`
+
+---
 
 # Future plans
 

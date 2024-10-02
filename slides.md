@@ -121,6 +121,8 @@ image: "./assets/leaf.webp"
 
 - Proviral pipeline strips off primers.
 
+TODO: what are primers and how to eat them?
+
 - Samples that pass proceed to HIVSeqInR.
 
 HIVIntact is also supported, but currently not run in production.

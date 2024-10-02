@@ -111,8 +111,6 @@ dragPos:
 
 # Proviral QC
 
-<br>
-
 Our QC is a series of steps:
 
 <Accordion2 />

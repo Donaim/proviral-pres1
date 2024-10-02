@@ -114,6 +114,5 @@ import './styles.css'
     </AccordionItem>
 
 
-
   </AccordionRoot>
 </template>

@@ -50,7 +50,7 @@ const accordionItems = [
         </AccordionHeader>
         <AccordionContent class="AccordionContent">
           <div class="AccordionContentText">
-            {{ item.content }}
+             <slot name="slot1">
           </div>
         </AccordionContent>
       </AccordionItem>

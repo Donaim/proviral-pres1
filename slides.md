@@ -154,7 +154,7 @@ dragPos:
 <v-drag pos="left">
 
 The pipeline proceeds to find primers in the remaining sequences.
-For each sequence, the pipeline tries to identify primers at both the 5’ (forward) and 3’ (reverse) ends:
+Primers are located at both the 5’ (forward) and 3’ (reverse) ends:
 
 <AccordionPrimers />
 

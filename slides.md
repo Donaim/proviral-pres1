@@ -77,6 +77,9 @@ transition: fade-out
 <!-- TODO: insert a drawing of a factory. -->
 
 ---
+dragPos:
+  miseq: 606,41,328,328
+---
 
 # Initiation
 

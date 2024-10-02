@@ -6,7 +6,7 @@ const accordionItems = [
   {
     value: 'item-1',
     title: 'Proviral Check',
-    content: 'The first filter applied is whether the sample is marked as proviral or not:\nIf the sample is non-proviral, it is skipped entirely, and a message "like sample X was skipped" because it was non-proviral is logged. This check is based on MiCall\'s project code, which is expected to be "NFLHIVDNA".',
+    content: 'The first filter applied is whether the sample is marked as proviral or not:\nIf the sample is non-proviral, it is skipped entirely, and a message like "sample X was skipped" is logged. This check is based on MiCall\'s project code, which is expected to be "NFLHIVDNA".',
   },
   {
     value: 'item-2',

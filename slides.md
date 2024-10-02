@@ -116,7 +116,7 @@ MiCall also downloads <br> Proviral results when available.
 
 - Proviral pipeline runs QC (quality checks).
 
-- Proviral pipeline removes primers.
+- Proviral pipeline strips off primers.
 
 - It uses blast, mafft, and mappy for alignment purposes.
 

@@ -147,7 +147,7 @@ dragPos:
 ---
 dragPos:
   primers: 506,45,387,258
-  landscapes: 22,98,436,340
+  landscapes: 32,91,442,340
 ---
 
 # Primer trimming

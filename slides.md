@@ -123,7 +123,7 @@ image: "./assets/leaf.webp"
 
 - It uses blast, mafft, and mappy for alignment purposes.
 
-- Samples that passed QC proceed to HIVSeqInR analysis.
+- Samples that passed all checks proceed to HIVSeqInR analysis.
 <br>
 <br>
 HIVIntact is also supported, but currently not run in production.

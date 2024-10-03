@@ -81,7 +81,7 @@ dragPos:
 
 ---
 dragPos:
-  miseq: 473,41,461,461
+  miseq: 409,44,487,487
 ---
 
 # Initiation

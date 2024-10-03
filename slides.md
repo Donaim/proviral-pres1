@@ -174,7 +174,7 @@ After the initial filtering step, the pipeline proceeds to find primers in the f
 
 ---
 dragPos:
-  cfeintact: 513,29,450,617
+  cfeintact: 527,14,437,599
 ---
 
 # HIVIntact

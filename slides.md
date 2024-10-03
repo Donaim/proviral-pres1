@@ -63,7 +63,7 @@ transition: fade-out
 
 ---
 dragPos:
-  catstructure: 459,90,443,443
+  catstructure: 447,98,431,431
 ---
 
 # Proviral sample workflow

@@ -589,6 +589,7 @@ TODO: discuss the matter of translating CFEIntact's defects into the categories 
 | ---- | ----------- |
 | `defects.csv` | Detailed description of every defect detected by CFEIntact. <a href="https://github.com/cfe-lab/CFEIntact/blob/master/tests/expected-results-small-csv/defects.csv" target="_blank">Example.</a> |
 | `landscapes.csv` | Data used to plot the defect landscapes on BBLabTools. <a href="https://gist.github.com/Donaim/3371ccb218270be00af466beb771a4ab" target="_blank">Example.</a> |
+| `landscapes.svg` | Landscape plot of sequences' defects. <a href="https://gist.github.com/Donaim/3371ccb218270be00af466beb771a4ab" target="_blank">Example.</a> |
 
 - `landscapes.svg` (on-demand)
 - `landscapes.csv`

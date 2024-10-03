@@ -5,11 +5,8 @@ FROM debian:bullseye
 # Install Node.js and other necessary packages
 RUN apt-get update \
     && apt-get -y install curl ca-certificates \
-    && curl -fsSL https://deb.nodesource.com/setup_16.x | bash - \
     && apt-get install -y nodejs \
-    && npm install -g npm@latest \
-    && apt-get clean \
-    && rm -rf /var/lib/apt/lists/*
+    && npm install -g npm@latest
 
 # Set the working directory
 WORKDIR /workspace

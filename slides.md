@@ -40,10 +40,9 @@ transition: fade-out
 
 - Programmer
   - MiCall/Proviral pipeline
-  - I have a blog at https://vau.place
+  - I have a blog at https://vau.place <!-- This is a programming blog. I specialize in programming languages. -->
 - Ukrainian
   - Thank you Canada for support
-<!-- - TODO: more points -->
 
 ---
 

@@ -185,7 +185,6 @@ dragPos:
   - Large deletions
   - Hypermutations
   - Scrambles
-  - Non-HIV fragments
 - Generates reports for regions, defects, <br> and various holistic properties.
 - Details at https://cfe-lab.github.io/CFEIntact ----------->
 

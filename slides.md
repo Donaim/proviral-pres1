@@ -121,7 +121,7 @@ dragPos:
 
 - Proviral pipeline trims primers off.
 
-- Samples that pass all  checks proceed to HIVIntact.
+- Samples that pass all checks proceed to HIVIntact.
 <br><sup>HIVSeqInR is also still supported.</sup>
 
 - Landscape data is generated.

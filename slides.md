@@ -189,6 +189,8 @@ dragPos:
   - Non-HIV fragments
 - Generates reports for regions, defects, <br> and various holistic properties.
 - Details at https://cfe-lab.github.io/CFEIntact ----------->
+  <br>
+  The website contains all necessary information.
 
 <img v-drag="'cfeintact'" style='border: 2px solid green;' src="./assets/cfeintactdocs.png" >
 

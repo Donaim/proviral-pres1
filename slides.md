@@ -176,14 +176,6 @@ After the initial filtering step, the pipeline proceeds to find primers in the f
 
 # HIVIntact
 
-<!-- TODO: better presentation form. More detail. -->
-
-Here is the draft for the slide on **CFEIntact**:
-
----
-
-# CFEIntact
-
 - Originally HIVIntact, now evolved into CFEIntact.
 - Performs automated checks for HIV-1 genome integrity.
 - Identifies various genetic anomalies:

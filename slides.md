@@ -182,7 +182,6 @@ After the initial filtering step, the pipeline proceeds to find primers in the f
 
 
 
-
 ---
 dragPos:
   landscapes: 471,22,496,493

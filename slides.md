@@ -192,7 +192,7 @@ Here is the draft for the slide on **CFEIntact**:
   - Inversions
   - Scrambles
   - Non-HIV fragments
-- Generates key reports: CSV outputs for ORFs, regions, and defects.
+- Generates key reports: CSV outputs for regions, defects, and holistic info.
 
 <!-- ### Presentation Notes: -->
 

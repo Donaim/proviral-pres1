@@ -193,9 +193,6 @@ Here is the draft for the slide on **CFEIntact**:
   - Scrambles
   - Non-HIV fragments
 - Generates key reports: CSV outputs for ORFs, regions, and defects.
-- Extensible with customizable analysis.
-
----
 
 <!-- ### Presentation Notes: -->
 

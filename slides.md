@@ -187,7 +187,7 @@ dragPos:
   - Inversions
   - Scrambles
   - Non-HIV fragments
-- Generates reports for regions, defects, and holistic info.
+- Generates reports for regions, defects, and holistic data.
 
 <img v-drag="'cfeintact'" style='border: 2px solid green;' src="./assets/cfeintactdocs.png" >
 

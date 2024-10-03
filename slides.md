@@ -194,7 +194,7 @@ After the initial filtering step, the pipeline proceeds to find primers in the f
 3. **Main Anomalies Detected**:
    "We look for large deletions, which can severely impact genome functionality. Hypermutations, particularly APOBEC-induced mutations, are another key check. CFEIntact also flags genome scrambling, internal inversions, and the presence of non-HIV sequences."
 4. **Output Files**:
-   "For every sample, CFEIntact generates detailed reports in CSV format—capturing ORFs, regions, defects, and other relevant data. These reports are essential for downstream analysis."
+   "For every sample, CFEIntact generates detailed reports in CSV format—capturing regions, defects, and other relevant data. These reports are essential for downstream analysis."
 Let me know if you'd like to add or modify any part!
 -->
 

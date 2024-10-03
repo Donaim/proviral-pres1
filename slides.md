@@ -39,7 +39,7 @@ transition: fade-out
 <!-- TODO: better presentation form. More detail. -->
 
 - Programmer
-  - MiCall/Proviral pipeline
+  - MiCall/Proviral pipeline <!-- These are the projects that I work on mostly. -->
   - I have a blog at https://vau.place <!-- This is a programming blog. I specialize in programming languages. -->
 - Ukrainian
   - Thank you Canada for support

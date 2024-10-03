@@ -186,8 +186,6 @@ After the initial filtering step, the pipeline proceeds to find primers in the f
   - Non-HIV fragments
 - Generates key reports: CSV outputs for regions, defects, and holistic info.
 
-
-
 <!--
 1. **Introduction**:
    "CFEIntact is an essential part of the proviral pipeline. It started as a fork of HIVIntact and has evolved significantly since, with more customizations and features tailored for advanced HIV research."

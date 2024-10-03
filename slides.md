@@ -187,7 +187,7 @@ dragPos:
   - Inversions
   - Scrambles
   - Non-HIV fragments
-- Generates key reports: CSV outputs for regions, defects, and holistic info.
+- Generates reports for regions, defects, and holistic info.
 
 <img v-drag="'cfeintact'" style='border: 2px solid green;' src="./assets/cfeintactdocs.png" >
 

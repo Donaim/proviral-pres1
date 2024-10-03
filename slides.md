@@ -195,8 +195,6 @@ After the initial filtering step, the pipeline proceeds to find primers in the f
    "We look for large deletions, which can severely impact genome functionality. Hypermutations, particularly APOBEC-induced mutations, are another key check. CFEIntact also flags genome scrambling, internal inversions, and the presence of non-HIV sequences."
 4. **Output Files**:
    "For every sample, CFEIntact generates detailed reports in CSV format—capturing ORFs, regions, defects, and other relevant data. These reports are essential for downstream analysis."
-5. **Extensibility**:
-   "What's great about CFEIntact is that it’s highly extensible. New types of checks can be added as research advances. This makes it flexible for different types of sequence analysis."
 Let me know if you'd like to add or modify any part!
 -->
 

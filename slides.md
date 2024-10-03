@@ -124,7 +124,7 @@ dragPos:
 - Samples that pass all  checks proceed to HIVIntact.
 <br><sup>HIVSeqInR is also still supported.</sup>
 
-- Samples that pass proceed to HIVIntact.
+- Final report is generated.
 
 <img v-drag="'pipeline'" src="./assets/pipelines.webp">
 

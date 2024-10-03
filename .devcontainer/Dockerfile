@@ -1,11 +1,10 @@
 
 # Use Debian as the base image
-FROM debian:bullseye
+FROM node
 
 # Install Node.js and other necessary packages
 RUN apt-get update
 RUN apt-get -y install curl ca-certificates
-RUN apt-get install -y nodejs npm
 RUN npm install -g npm@latest
 
 # Set the working directory

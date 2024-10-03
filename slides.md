@@ -585,9 +585,7 @@ TODO: discuss the matter of translating CFEIntact's defects into the categories 
 
 <!-- TODO: better presentation form. More detail. -->
 
-| File          | Contents |
-| --------------|--------------|
-| `defects.csv` | Detailed description of somethings
+| `defects.csv` | Detailed description of every defect detected by CFEIntact.
 | `landscapes.csv` | Detailed description of somethings
 
 - `landscapes.svg` (on-demand)

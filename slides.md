@@ -180,7 +180,7 @@ After the initial filtering step, the pipeline proceeds to find primers in the f
 
 (Now called CFEIntact.)
 
-Performs many of steps
+
 
 ---
 dragPos:

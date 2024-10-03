@@ -189,7 +189,7 @@ dragPos:
   - Non-HIV fragments
 - Generates key reports: CSV outputs for regions, defects, and holistic info.
 
-<img v-drag="'cfeintact'" style='border: 2px solid black;' src="./assets/cfeintactdocs.png" >
+<img v-drag="'cfeintact'" style='border: 2px solid green;' src="./assets/cfeintactdocs.png" >
 
 <!--
 1. **Introduction**:

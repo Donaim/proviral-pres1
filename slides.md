@@ -173,6 +173,9 @@ After the initial filtering step, the pipeline proceeds to find primers in the f
 -->
 
 ---
+dragPos:
+  cfeintact: 56,-273,954,1308
+---
 
 # HIVIntact
 
@@ -185,6 +188,8 @@ After the initial filtering step, the pipeline proceeds to find primers in the f
   - Scrambles
   - Non-HIV fragments
 - Generates key reports: CSV outputs for regions, defects, and holistic info.
+
+<img v-drag="'cfeintact'" src="./assets/cfeintactdocs.png" >
 
 <!--
 1. **Introduction**:

@@ -204,7 +204,7 @@ dragPos:
 2. **Key Functionality**:
    What CFEIntact does is provide an automated check for the integrity of HIV-1 genomes.
 3. **Main Anomalies Detected**:
-   We look for defects that can severely impact genome functionality. Hypermutations, are one example. But there are many possible kinds of them, and each defect type requires a custom algorithm to detect.
+   We look for defects that can severely impact genome functionality. Hypermutations, are one example. But there are many possible kinds of them, and each defect type requires a custom algorithm to detect. So I can talk a lot about CFEIntact, but it's best to just check out the documentation, it's quite detailed.
 4. **Output Files**:
    For every sample, CFEIntact generates detailed reports in CSV format—capturing defects, regions, and other relevant data.
 5. **Limitations**:
@@ -585,7 +585,11 @@ TODO: discuss the matter of translating CFEIntact's defects into the categories 
 
 <!-- TODO: better presentation form. More detail. -->
 
-- `defects.csv`
+| File          | Contents |
+| --------------|--------------|
+| `defects.csv` | Detailed description of somethings
+| `landscapes.csv` | Detailed description of somethings
+
 - `landscapes.svg` (on-demand)
 - `landscapes.csv`
 - `regions.csv`

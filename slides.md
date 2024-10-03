@@ -116,6 +116,10 @@ dragPos:
 
 <!-- TODO: better presentation form. More detail. -->
 
+- Proviral pipeline loads data.
+
+From files such as <br> `conseq.csv`, `contigs.csv`, and `cascade.csv`.
+
 - Proviral pipeline runs QC (quality checks).
 
 - Proviral pipeline trims primers off.

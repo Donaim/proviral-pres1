@@ -217,7 +217,7 @@ dragPos:
 - It uses blast, mafft, and mappy for alignment purposes.
 - Generates `landscapes.csv`
 
-<v-drag pos="landscapes" text-3xl>
+<v-drag pos="landscapes">
 
 ```mermaid
 flowchart TD

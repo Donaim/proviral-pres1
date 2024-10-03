@@ -228,7 +228,7 @@ dragPos:
 
 specifically `x1,psi_sl1,psi_sl2,psi_sl3,psi_sl4,gag,pol,protease,rt,integrase,vif,vpr,tat_exon1,rev_exon1,d4,x2,vpu,env,gp120,gp41,tat_exon2,rev_exon2,x3,nef,ltr3`
 
-<img v-drag src="./assets/regions.webp" />
+<img v-drag="[614,187,366,366]" src="./assets/regions.webp" />
 
 ---
 dragPos:

@@ -178,9 +178,44 @@ After the initial filtering step, the pipeline proceeds to find primers in the f
 
 <!-- TODO: better presentation form. More detail. -->
 
-(Now called CFEIntact.)
+Here is the draft for the slide on **CFEIntact**:
 
-....
+---
+
+# CFEIntact
+
+- Originally HIVIntact, now evolved into CFEIntact.
+- Performs automated checks for HIV-1 genome integrity.
+- Identifies various genetic anomalies:
+  - Large deletions
+  - Hypermutations
+  - Inversions
+  - Scrambles
+  - Non-HIV fragments
+- Generates key reports: CSV outputs for ORFs, regions, and defects.
+- Extensible with customizable analysis.
+
+---
+
+<!-- ### Presentation Notes: -->
+
+<!-- 1. **Introduction**:  -->
+<!--    "CFEIntact is an essential part of the proviral pipeline. It started as a fork of HIVIntact and has evolved significantly since, with more customizations and features tailored for advanced HIV research." -->
+
+<!-- 2. **Key Functionality**:  -->
+<!--    "What CFEIntact does is provide an automated check for the integrity of HIV-1 genomes. It's crucial for identifying genomes that have intact regions versus those that are non-intact or defective." -->
+
+<!-- 3. **Main Anomalies Detected**:  -->
+<!--    "We look for large deletions, which can severely impact genome functionality. Hypermutations, particularly APOBEC-induced mutations, are another key check. CFEIntact also flags genome scrambling, internal inversions, and the presence of non-HIV sequences." -->
+
+<!-- 4. **Output Files**:  -->
+<!--    "For every sample, CFEIntact generates detailed reports in CSV format—capturing ORFs, regions, defects, and other relevant data. These reports are essential for downstream analysis." -->
+
+<!-- 5. **Extensibility**:  -->
+<!--    "What's great about CFEIntact is that it’s highly extensible. New types of checks can be added as research advances. This makes it flexible for different types of sequence analysis." -->
+
+<!-- Let me know if you'd like to add or modify any part! -->
+
 
 ---
 dragPos:

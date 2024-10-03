@@ -184,7 +184,6 @@ dragPos:
 - Identifies various genetic anomalies:
   - Large deletions
   - Hypermutations
-  - Inversions
   - Scrambles
   - Non-HIV fragments
 - Generates reports for regions, defects, <br> and various holistic properties.

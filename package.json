@@ -15,5 +15,8 @@
     "radix-vue": "^1.9.6",
     "vue": "^3.4.38",
     "vue-demi": "^0.14.10"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.47.2"
   }
 }

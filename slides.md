@@ -623,7 +623,7 @@ TODO: improve these notes.
 
 - It would be nice to output more regions information in CFEIntact, such as the various PSI locations.
 
-- 
+- We want to give CFEIntact a notion of "confidence" and "severity", with which every defect can be labelled. This can help researchers decide if they need to take a closer look.
 
 -->
 

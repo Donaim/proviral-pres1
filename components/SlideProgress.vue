@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { SlideCurrentNo, SlidesTotal } from 'slidev'
+import { SlideCurrentNo, SlidesTotal } from '@slidev/components'
 </script>
 
 <div class="absolute bottom-0 left-0 right-0">

@@ -1,6 +1,5 @@
 <script setup lang="ts">
-import { AccordionContent, AccordionHeader, AccordionItem, AccordionRoot, AccordionTrigger } from 'radix-vue'
-import './styles.css'
+import { SlideCurrentNo, SlidesTotal } from 'slidev'
 </script>
 
 <div class="absolute bottom-0 left-0 right-0">

@@ -54,7 +54,7 @@ hideInToc: true
 
 <img v-drag="[464,18,443,443]" src="https://vau.place/assets/dog.jpg" />
 
-<SlideProgress  />
+<!-- <SlideProgress /> -->
 
 <!--
 

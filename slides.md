@@ -594,8 +594,6 @@ TODO: discuss the matter of translating CFEIntact's defects into the categories 
 | `outcome_summary.csv` | Pipeline summary data. Contains QC status for each sequence, etc. <a href="TODO: example here" target="_blank">Example.</a> |
 | `table_precursor.csv` | Another pipeline summary kind of file. Contains data for sequences that passed QC. This includes final verdicts and gene regions. <a href="TODO: example here" target="_blank">Example.</a> |
 
-- `table_precursor.csv`
-
 <!-- In the order of importance: -->
 
 ---

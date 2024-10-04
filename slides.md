@@ -613,7 +613,15 @@ Then I will just mention the rest briefly.
 - More regions recognition in CFEIntact.
 - Better output description in CFEIntact.
 
-<!-- TODO: make notes for me to say. -->
+<!-- 
+
+TODO: improve these notes.
+
+- BBLabTools will be released soon, with the landscape plots support.
+
+- 
+
+-->
 
 ---
 

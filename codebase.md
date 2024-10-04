@@ -36,16 +36,22 @@ hideInToc: true
 
 # About me
 
-<!-- TODO: better presentation form. More detail. -->
+- **Programmer for the lab**
+  - Focusing on MiCall and Proviral pipelines
 
-- Programmer
-  - MiCall/Proviral pipeline <!-- These are the projects that I work on mostly. -->
-  - I have a blog at https://vau.place <!-- This is a programming blog. I specialize in programming languages. -->
-- Ukrainian
-  - Thank you Canada for support
+- **Programming Enthusiast**
+  - Blogger at https://vau.place
+  - Contributor to free software projects
+  - Specialize in programming languages
 
-<!-- 
-TODO: add some notes here for me to read when presenting.
+<!--
+
+- My name is Vitalik, I am a software developer here, working mostly on MiCall and Proviral right now.
+
+- I have a passion for programming, lots of hobby projects, and a programming blog.
+
+- As a Ukrainian, I am grateful for the support that many of you have shown for my country. The war is still ongoing, and it's only getting worse.
+
 -->
 
 ---
@@ -61,14 +67,16 @@ zoom: 1.2
 
 # What is Proviral Pipeline?
 
-<!-- TODO: better presentation form. More detail. -->
-
 - Collection of programs that output images and CSV files.
 - Is a pipeline. <!-- What this means is that it's a series of steps basically. -->
-- Created by Don, Charlotte, and me <!-- I want to highlight the programmers' efforts. -->
+- Written by Don, Charlotte, and me <!-- I want to highlight the programmers' efforts. -->
 
-<!-- 
-TODO: add some notes here for me to read when presenting.
+<!--
+
+- The Proviral Pipeline is essentially an suite of applications that automates the transformation of sequence data into analytical outputs such as images and CSV files.
+- It is structured as a pipeline, which means it processes data through a sequential series of steps, and outputs of each step are fed into the next step.
+- The development of this pipeline is a collaborative effort involving Don, Charlotte, and myself.
+
 -->
 
 ---
@@ -77,8 +85,6 @@ dragPos:
 ---
 
 # Proviral sample workflow
-
-<!-- TODO: better presentation form. More detail. -->
 
 - Data collection & MiCall processing
 - Proviral pipeline startup
@@ -90,7 +96,14 @@ dragPos:
 <img v-drag="'catstructure'" src="./assets/progress.webp" />
 
 <!-- 
-TODO: add some notes here for me to read when presenting.
+
+- Let's walk through the Proviral Sample Workflow. This is a standard progression for every proviral sample.
+- We kick off with **data gathering and initial processing**. MiCall is our engine here, transforming raw A-C-T-G strings into structured datasets.
+- Next is **pipeline activation**, where the Proviral Pipeline comes alive, it loads the sample data, and runs some initial checks and prepartion.
+- HIVIntact takes stage for **intactness analysis**, where it checks for any genetic anomalies.
+- Then the pipeline takes control again, when it gets the results from HIVIntact. It processes those to provide a nicer summary.
+- Finally, we use BBLabTools to make landscape plots. This step is actually manual, and optional, unlike all the rest.
+
 -->
 
 ---

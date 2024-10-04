@@ -113,9 +113,9 @@ dragPos:
 
 <!-- TODO: better presentation form. More detail. -->
 
-- Sample collection.
+- Sample collection & preparation.
 
-- Loading into MiSeq.
+- Loading into MiSeq Sequencer.
 
 - Pickup by MiCall.
 
@@ -128,7 +128,15 @@ Produces files such as <br> `conseq.csv` and `contigs.csv`.
 <img v-drag="'miseq'" src="./assets/miseq.webp">
 
 <!-- 
-TODO: add some notes here for me to read when presenting.
+
+- In the lab, we always start with **Sample Collection**. This is our first step and involves gathering and preparing the raw data. It's it is a complex process, and it **can** fail, by, for example, producing sequences that are completely broken.
+
+- In any case, we progress to **MiSeq Loading**, where samples are sequenced, converting raw biological samples into digital data.
+
+- Following this, **MiCall** takes over. It find the digital data outputs of MiSeq, and conducts initial data analysis, transforming the sequenced data into structured information.
+
+- This culminates in the **Output Generation** phase, where files such as `contigs.csv` are produced. These files are critical as they serve as key inputs to the Proviral Pipeline, enabling the subsequent stages of our analysis.
+
 -->
 
 ---

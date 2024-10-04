@@ -1,5 +1,6 @@
 <script setup lang="ts">
-import { SlideCurrentNo, SlidesTotal } from '@slidev/client'
+import { SlideCurrentNo } from '@slidev/client/builtin/slidecurrentno.vue'
+import { SlidesTotal } from '@slidev/client/builtin/slidestotal.vue'
 </script>
 
 <template>

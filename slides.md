@@ -201,7 +201,7 @@ dragPos:
 <iframe src="https://www.example.com" width="800" height="600" style="margins: 50px;"></iframe>
 </v-drag>
 
-<img v-drag="'cfeintact'" style='border: 2px solid green;' src="./assets/cfeintactdocs.png" >
+<!-- <img v-drag="'cfeintact'" style='border: 2px solid green;' src="./assets/cfeintactdocs.png" > -->
 
 <!--
 1. **Introduction**:

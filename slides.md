@@ -101,7 +101,7 @@ Here is an overview of what I am going to talk about today.
 
 - It is structured as a pipeline, which means that it processes data through in a sequence of steps, where outputs of every step are fed into the next step.
 
-- The development of this pipeline is a collaborative effort involving Don, Charlotte, and myself.
+- The development of this pipeline is a collaborative effort involving Dan, Don, Charlotte, and myself.
 
 -->
 

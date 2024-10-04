@@ -56,7 +56,7 @@ hideInToc: true
 
 <!--
 
-- My name is Vitalik, I am a software developer here, working mostly on MiCall and Proviral right now.
+- My name is Vitalik, I am a software developer here. I am mostly working on MiCall and Proviral right now.
 
 - I have a passion for programming, lots of hobby projects, and a programming blog.
 

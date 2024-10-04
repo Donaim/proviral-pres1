@@ -644,6 +644,7 @@ TODO: improve these notes.
 
 ---
 layout: cover
+background: https://cover.sli.dev
 ---
 
 # Thank you

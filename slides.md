@@ -54,6 +54,8 @@ hideInToc: true
 
 <img v-drag="[464,18,443,443]" src="https://vau.place/assets/dog.jpg" />
 
+<SlideCurrentNo /> / <SlidesTotal />
+
 <!--
 
 - My name is Vitalik, I am a software developer here. I am mostly working on MiCall and Proviral right now.

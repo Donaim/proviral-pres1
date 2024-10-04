@@ -4,7 +4,7 @@ import SlidesTotal from '@slidev/client/builtin/SlidesTotal.vue'
 </script>
 
 <template>
-  <div class="absolute bottom-5 left-5 right-0">
+  <div class="absolute bottom-3 left-3 right-0">
      <SlideCurrentNo  /> / <SlidesTotal />
   </div>
 </template>

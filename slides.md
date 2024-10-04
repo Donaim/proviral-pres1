@@ -91,18 +91,16 @@ Here is an overview of what I am going to talk about today.
 - It is a writing of
   <br> Daniel MacMillan, Don, Charlotte, and me. <!-- I want to highlight the programmers' efforts. -->
 
-<img v-drag="[528,142,388,388]" src="./assets/whatispipeline.webp" />
+<img v-drag="[450,169,363,363]" src="./assets/whatispipeline.webp" />
 
 <SlideProgress />
 
 <!--
-
 - The Proviral Pipeline is essentially a suite of applications that automates the transformation of sequence data into analytical outputs such as images and CSV files.
 
 - It is structured as a pipeline, which means that it processes data through in a sequence of steps, where outputs of every step are fed into the next step.
 
 - The development of this pipeline is a collaborative effort involving Dan, Don, Charlotte, and myself.
-
 -->
 
 ---

@@ -42,16 +42,14 @@ hideInToc: true
   - Contributor to free software projects
   - Specialize in programming languages
 
-
+<img v-drag="[464,18,443,443]" src="https://vau.place/assets/dog.jpg" />
 
 <!--
-
 - My name is Vitalik, I am a software developer here, working mostly on MiCall and Proviral right now.
 
 - I have a passion for programming, lots of hobby projects, and a programming blog.
 
 - As a Ukrainian, I am grateful for the support that many of you have shown for my country. The war is still ongoing, and it's only getting worse.
-
 -->
 
 ---

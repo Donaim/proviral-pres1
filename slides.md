@@ -197,7 +197,7 @@ dragPos:
 - Details at https://cfe-lab.github.io/CFEIntact ----------->
 
 <v-drag pos="cfeintactwebsite">
-<iframe src="https://www.example.com" width="800" height="600" style="border:none;"></iframe>
+<iframe src="https://www.example.com" width="800" height="600" style="margins: 50px;"></iframe>
 </v-drag>
 
 <img v-drag="'cfeintact'" style='border: 2px solid green;' src="./assets/cfeintactdocs.png" >

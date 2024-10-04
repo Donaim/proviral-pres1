@@ -106,6 +106,8 @@ dragPos:
   catstructure: 447,98,431,431
 ---
 
+<SlideProgress />
+
 # Proviral sample workflow
 
 - Data collection & MiCall processing
@@ -132,6 +134,8 @@ dragPos:
 dragPos:
   miseq: 409,44,487,487
 ---
+
+<SlideProgress />
 
 # Initiation
 
@@ -168,6 +172,8 @@ dragPos:
   pipeline: 500,49,450,450
 ---
 
+<SlideProgress />
+
 # Pipeline structure
 
 <!-- TODO: better presentation form. -->
@@ -200,6 +206,8 @@ dragPos:
   checkqc: 477,36,490,490
 ---
 
+<SlideProgress />
+
 ### Proviral QC is a series of steps:
 
 <br>
@@ -215,6 +223,8 @@ dragPos:
   bottom: 44,374,323,64
   left: 415,25,552,537
 ---
+
+<SlideProgress />
 
 <!-- 
 TODO: add some notes here for me to read when presenting.
@@ -252,6 +262,8 @@ dragPos:
   cfeintactwebsite: 469,-26,567,646
 ---
 
+<SlideProgress />
+
 # HIVIntact
 
 - Originally HIVIntact, now evolved into CFEIntact.
@@ -285,6 +297,8 @@ dragPos:
 
 ---
 
+<SlideProgress />
+
 # Back to Proviral Pipeline
 
 <!-- TODO: better presentation form. More detail. -->
@@ -307,6 +321,8 @@ The pipeline summarizes them, and it also performs some additional processing,
 -->
 
 ---
+
+<SlideProgress />
 
 # Region extraction in Proviral Pipeline
 
@@ -335,6 +351,8 @@ Now few words about how the pipeline extracts genomic regions from the sequences
 dragPos:
   landscapes: 492,1,482,522
 ---
+
+<SlideProgress />
 
 # Pipeline's final verdict
 
@@ -408,6 +426,8 @@ dragPos:
   bblabs: 160,151,675,399
 ---
 
+<SlideProgress />
+
 # BBLabTools
 
 - Useful tools for HIV research from the Brockman and Brumme Lab at SFU.
@@ -430,6 +450,8 @@ dragPos:
   landscapes: 566,6,349,548
   defecttype: 94,180,470,365
 ---
+
+<SlideProgress />
 
 # BBLabTools
 
@@ -495,6 +517,8 @@ This plotter supports both CFEIntact and HIVSeqInR, but the translation is not i
 
 ---
 
+<SlideProgress />
+
 # Summary of output files
 
 <br>
@@ -522,6 +546,8 @@ The structure of it is straightforward, but there is usually a lot of data here.
 ---
 transition: slide-up
 ---
+
+<SlideProgress />
 
 # Future plans
 

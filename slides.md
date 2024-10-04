@@ -54,8 +54,6 @@ hideInToc: true
 
 <img v-drag="[464,18,443,443]" src="https://vau.place/assets/dog.jpg" />
 
-<SlideProgress />
-
 <!--
 
 - My name is Vitalik, I am a software developer here. I am mostly working on MiCall and Proviral right now.
@@ -90,6 +88,8 @@ Here is an overview of what I am going to talk about today.
 - Written by Don, Charlotte, and me <!-- I want to highlight the programmers' efforts. -->
 
 <img v-drag="[528,142,388,388]" src="./assets/whatispipeline.webp" />
+
+<SlideProgress />
 
 <!--
 

@@ -585,8 +585,7 @@ TODO: discuss the matter of translating CFEIntact's defects into the categories 
 
 # Summary of output files
 
-<AccordionPrimers />
-
+<AccordionOutputsSummary />
 
 | File | Description |
 | ---- | ----------- |

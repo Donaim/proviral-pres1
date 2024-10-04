@@ -117,7 +117,7 @@ dragPos:
 
 <!-- 
 
-- Let's walk through the Proviral Sample Workflow. This is a standard progression for every proviral sample.
+- Let's walk through the Proviral Sample Workflow. This is, basically, a standard progression for every proviral sample.
 - We kick off with **data gathering and initial processing**. MiCall is our engine here, transforming raw A-C-T-G strings into structured datasets.
 - Next is **pipeline activation**, where the Proviral Pipeline comes alive, it loads the sample data, and runs some initial checks and prepartion.
 - HIVIntact takes stage for **intactness analysis**, where it checks for any genetic anomalies.

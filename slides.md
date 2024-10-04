@@ -86,7 +86,8 @@ Here is an overview of what I am going to talk about today.
 - It is software for analysis of proviral DNA.
 - It is a collection of programs that output images and CSV files.
 - It is a software pipeline. <!-- What this means is that it's a series of steps basically. -->
-- It is written by Don, Charlotte, and me <!-- I want to highlight the programmers' efforts. -->
+- It is written by Daniel MacMillan, Don, Charlotte, and me <!-- I want to highlight the programmers' efforts. -->
+  - Big part of it is HIVSeqInR, which was written by Guin Lee.
 
 <img v-drag="[528,142,388,388]" src="./assets/whatispipeline.webp" />
 
@@ -311,14 +312,12 @@ dragPos:
 
 <img v-drag="[247,256,459,262]" src="./assets/windowsxp.webp" />
 
-<!-- 
-
+<!--
 When CFEIntact finishes, it's outputs go back into the proviral pipeline.
 
 The pipeline summarizes them, and it also performs some additional processing,
  in particular it extracts some regions of interest from the input sequence,
  and it generates data for landscape plots, the csv file.
-
 -->
 
 ---
@@ -402,7 +401,6 @@ flowchart TD
 </v-drag>
 
 <!--
-
 CFEIntact outputs every defect it can find.
 
 But it is often sufficient, and easier to look at the most severe one.
@@ -418,7 +416,6 @@ And so on.
 It outputs the first error found down this chain.
 
 So this is more a list, than a tree.
-
 -->
 
 ---
@@ -506,14 +503,12 @@ DEFECT_TYPE = {'LargeDeletion': 'Large Deletion',
 <img v-drag="'landscapes'" src="./assets/landscapes1.svg">
 
 <!--
-
 We use development version of BBLabs to draw landscape plots.
 Eventually this version will be released, and everybody will be able to make them marvelous drawings!
 
 Before the plots are generated, a translation step converts the defect types into categories that BBLabTools can represent graphically. Currently, BBLabTools is in a development phase, but it will be officially released in the upcoming version of our software. 
 
 This plotter supports both CFEIntact and HIVSeqInR, but the translation is not ideal. For instance it translates <b>MutatedStopCodon</b> into <b>PrematureStop</b>.
-
 -->
 
 ---

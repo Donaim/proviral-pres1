@@ -222,7 +222,7 @@ dragPos:
 ---
 dragPos:
   primers: 15,125,387,258
-  bottom: 44,374,323,64
+  bottom: 39,374,461,97
   left: 415,25,552,537
 ---
 
@@ -254,7 +254,7 @@ Once primers are found, they are cut off.
 After the initial filtering step, the pipeline proceeds to find primers in the filtered sequences. This step involves checking both ends of the sequence for the presence of forward and reverse primers.
 -->
 
-<!-- 
+<!--
 TODO: add some notes here for me to read when presenting.
 -->
 

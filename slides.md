@@ -54,7 +54,7 @@ hideInToc: true
 
 <img v-drag="[464,18,443,443]" src="https://vau.place/assets/dog.jpg" />
 
-<SlideCurrentNo /> / <SlidesTotal />
+<SlideCurrentNo class="absolute bottom-0 left-0 right-0" /> / <SlidesTotal />
 
 <!--
 

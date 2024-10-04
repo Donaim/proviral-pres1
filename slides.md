@@ -18,6 +18,7 @@ transition: fade
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
 zoom: 1.5
+hideInToc: true
 ---
 
 <!-- Structure and interpretation of the -->
@@ -30,6 +31,7 @@ A gentle introduction
 
 ---
 transition: fade-out
+hideInToc: true
 ---
 
 # About me
@@ -43,6 +45,9 @@ transition: fade-out
   - Thank you Canada for support
 
 ---
+hideInToc: true
+zoom: 1.2
+---
 
 # Presentation plan
 
@@ -50,7 +55,7 @@ transition: fade-out
 
 ---
 
-# About Proviral Pipeline
+# What is Proviral Pipeline?
 
 <!-- TODO: better presentation form. More detail. -->
 
@@ -516,6 +521,7 @@ There is no rigorous output file for testing, since this is a visualization sand
 -->
 
 ---
+hideInToc: true
 dragPos:
   landscapes: 566,6,349,548
   defecttype: 94,180,470,365
@@ -647,6 +653,8 @@ TODO: improve these notes.
 ---
 layout: cover
 background: https://cover.sli.dev
+zoom: 2.0
+hideInToc: true
 ---
 
 # Thank you

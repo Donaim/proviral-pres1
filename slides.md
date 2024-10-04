@@ -88,7 +88,7 @@ Here is an overview of what I am going to talk about today.
 - It is a software pipeline. <!-- What this means is that it's a series of steps basically. -->
 - It is, in large part, HIVSeqInR. 
   <br> Which was written by Guin Lee.
-- It is writing of Daniel MacMillan, Don, Charlotte, and me <!-- I want to highlight the programmers' efforts. -->
+- It is a writing of Daniel MacMillan, Don, Charlotte, and me <!-- I want to highlight the programmers' efforts. -->
 
 <img v-drag="[528,142,388,388]" src="./assets/whatispipeline.webp" />
 

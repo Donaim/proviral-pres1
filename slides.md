@@ -643,6 +643,8 @@ TODO: improve these notes.
 -->
 
 ---
+theme: seriph
+---
 
 # Thank you
 

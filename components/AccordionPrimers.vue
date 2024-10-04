@@ -17,7 +17,7 @@ import './styles.css'
 
     >
 
-<AccordionItem class="AccordionItem" value='item-2'>
+<AccordionItem class="AccordionItem" value='item-1'>
   <AccordionHeader class="AccordionHeader">
     <AccordionTrigger class="AccordionTrigger">
       <span>
@@ -35,7 +35,7 @@ import './styles.css'
   </AccordionContent>
 </AccordionItem>
 
-<AccordionItem class="AccordionItem" value='item-3'>
+<AccordionItem class="AccordionItem" value='item-2'>
   <AccordionHeader class="AccordionHeader">
     <AccordionTrigger class="AccordionTrigger">
       <span>
@@ -53,7 +53,7 @@ import './styles.css'
   </AccordionContent>
 </AccordionItem>
 
-<AccordionItem class="AccordionItem" value='item-4'>
+<AccordionItem class="AccordionItem" value='item-3'>
   <AccordionHeader class="AccordionHeader">
     <AccordionTrigger class="AccordionTrigger">
       <span>
@@ -73,7 +73,7 @@ import './styles.css'
   </AccordionContent>
 </AccordionItem>
 
-<AccordionItem class="AccordionItem" value='item-1'>
+<AccordionItem class="AccordionItem" value='item-4'>
   <AccordionHeader class="AccordionHeader">
     <AccordionTrigger class="AccordionTrigger">
       <span>

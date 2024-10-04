@@ -82,7 +82,9 @@ zoom: 1.2
 <!--
 
 - The Proviral Pipeline is essentially an suite of applications that automates the transformation of sequence data into analytical outputs such as images and CSV files.
+
 - It is structured as a pipeline, which means it processes data through a sequential series of steps, and outputs of each step are fed into the next step.
+
 - The development of this pipeline is a collaborative effort involving Don, Charlotte, and myself.
 
 -->

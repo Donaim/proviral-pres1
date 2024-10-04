@@ -286,7 +286,6 @@ The pipeline summarizes them, and it also performs some additional processing,
 
 # Region extraction in Proviral Pipeline
 
-
 - Aligns sequences to the **HXB2 reference genome**.
 - Extracts key **HIV regions**: *gag*, *pol*, *env*, *psi_sl1*, *gp120*, *ltr3*, etc.
 - Handles **inversions** and **defective regions**.

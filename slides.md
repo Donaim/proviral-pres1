@@ -38,8 +38,8 @@ hideInToc: true
   - Focusing on MiCall and Proviral pipelines
 
 - **Programming Enthusiast**
-  - Blogger at https://vau.place
   - Contributor to free software projects
+  - Blogger at https://vau.place
   - Specialize in programming languages
 
 <img v-drag="[464,18,443,443]" src="https://vau.place/assets/dog.jpg" />
@@ -66,15 +66,15 @@ zoom: 1.2
 # What is Proviral Pipeline?
 
 - Collection of programs that output images and CSV files.
-- Is a pipeline. <!-- What this means is that it's a series of steps basically. -->
+- Is a software pipeline. <!-- What this means is that it's a series of steps basically. -->
 - Written by Don, Charlotte, and me <!-- I want to highlight the programmers' efforts. -->
 
-<!--
+<img v-drag="[525,141,388,388]" src="./assets/whatispipeline.webp" />
 
+<!--
 - The Proviral Pipeline is essentially an suite of applications that automates the transformation of sequence data into analytical outputs such as images and CSV files.
 - It is structured as a pipeline, which means it processes data through a sequential series of steps, and outputs of each step are fed into the next step.
 - The development of this pipeline is a collaborative effort involving Don, Charlotte, and myself.
-
 -->
 
 ---

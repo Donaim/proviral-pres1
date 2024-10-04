@@ -34,16 +34,22 @@ hideInToc: true
 
 # About me
 
-<!-- TODO: better presentation form. More detail. -->
+- **Programmer for the lab**
+  - Focusing on MiCall and Proviral pipelines
 
-- Programmer
-  - MiCall/Proviral pipeline <!-- These are the projects that I work on mostly. -->
-  - I have a blog at https://vau.place <!-- This is a programming blog. I specialize in programming languages. -->
-- Ukrainian
-  - Thank you Canada for support
+- **Programming Enthusiast**
+  - Blogger at https://vau.place
+  - Contributor to free software projects
+  - Specialize in programming languages
 
-<!-- 
-TODO: add some notes here for me to read when presenting.
+<!--
+
+- My name is Vitalik, I am a software developer here, working mostly on MiCall and Proviral right now.
+
+- I have a passion for programming, lots of hobby projects, and a programming blog.
+
+- As a Ukrainian, I am grateful for the support that many of you have shown for my country. The war is still ongoing, and it's only getting worse.
+
 -->
 
 ---

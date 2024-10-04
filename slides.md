@@ -619,6 +619,10 @@ TODO: improve these notes.
 
 - BBLabTools will be released soon, with the landscape plots support.
 
+- CFEIntact is currently not doing well with subtypes other than B, we want to fix that.
+
+- It would be nice to output more regions information in CFEIntact, such as the various PSI locations.
+
 - 
 
 -->

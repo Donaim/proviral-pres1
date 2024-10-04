@@ -196,7 +196,9 @@ dragPos:
 - Generates reports for regions, defects, <br> and various holistic properties.
 - Details at https://cfe-lab.github.io/CFEIntact ----------->
 
+<v-drag pos="cfeintactwebsite">
 <iframe src="https://www.example.com" width="800" height="600" style="border:none;"></iframe>
+</v-drag>
 
 <img v-drag="'cfeintact'" style='border: 2px solid green;' src="./assets/cfeintactdocs.png" >
 

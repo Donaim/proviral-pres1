@@ -318,7 +318,7 @@ dragPos:
 
 - Useful tools for HIV research from the Brockman and Brumme Lab at SFU.
 
-<iframe src="https://www.example.com" width="800" height="600" style="border:none;"></iframe>
+<iframe src="https://hivresearchtools.bccfe.ca/django/wiki" width="800" height="600" style="border:none;"></iframe>
 
 <!-- <img v-drag="'bblabs'" src="./assets/bblabs1.png"> -->
 

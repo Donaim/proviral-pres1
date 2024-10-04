@@ -643,7 +643,7 @@ TODO: improve these notes.
 -->
 
 ---
-theme: seriph
+layout: cover
 ---
 
 # Thank you

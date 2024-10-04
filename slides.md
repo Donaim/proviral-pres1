@@ -69,7 +69,7 @@ zoom: 1.2
 - Is a software pipeline. <!-- What this means is that it's a series of steps basically. -->
 - Written by Don, Charlotte, and me <!-- I want to highlight the programmers' efforts. -->
 
-<img v-drag="[525,141,388,388]" src="./assets/whatispipeline.webp" />
+<img v-drag="[528,142,388,388]" src="./assets/whatispipeline.webp" />
 
 <!--
 - The Proviral Pipeline is essentially an suite of applications that automates the transformation of sequence data into analytical outputs such as images and CSV files.

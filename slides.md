@@ -600,7 +600,7 @@ TODO: improve these notes.
 
 The list is in the order of importance.
 During presentation I will pick the first item, and talk about it.
-
+Then I will just mention the rest briefly.
 
 -->
 

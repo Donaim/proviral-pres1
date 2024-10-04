@@ -598,19 +598,6 @@ TODO: discuss the matter of translating CFEIntact's defects into the categories 
 
 ---
 
-# Where to find what
-
-<!-- TODO: better presentation form. More detail. -->
-
-- `defects.csv`
-- `landscapes.svg` (on-demand)
-- `landscapes.csv`
-- `regions.csv`
-- `outcome_summary.csv`
-- `table_precursor.csv`
-
----
-
 # Future plans
 
 <!-- TODO: better presentation form. More detail. -->

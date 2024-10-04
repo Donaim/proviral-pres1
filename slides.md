@@ -12,9 +12,9 @@ info: |
 class: text-center
 # https://sli.dev/features/drawing
 drawings:
-  persist: false
+  persist: true
 # slide transition: https://sli.dev/guide/animations.html#slide-transitions
-transition: slide-left
+transition: fade
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
 zoom: 1.5
@@ -615,6 +615,8 @@ Then I will just mention the rest briefly.
 -->
 
 ---
+transition: slide-up
+---
 
 # Future plans
 
@@ -625,8 +627,9 @@ Then I will just mention the rest briefly.
 - More regions recognition in CFEIntact.
 - Better output description in CFEIntact.
 
-<!--
+<img v-drag="[452,85,425,425]" src="./assets/future.webp">
 
+<!--
 TODO: improve these notes.
 
 - BBLabTools will be released soon, with the landscape plots support.
@@ -639,7 +642,6 @@ TODO: improve these notes.
   This can help researchers decide if they need to take a closer look.
   A natural example is the hypermutation check, which outputs probability that a given sequence was hypermutated.
   That is our confidence.
-
 -->
 
 ---

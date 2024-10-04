@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { SlideCurrentNo, SlidesTotal } from '@slidev/client/builtin'
+import { SlideCurrentNo, SlidesTotal } from '@slidev/client'
 </script>
 
 <template>

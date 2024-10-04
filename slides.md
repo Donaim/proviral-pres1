@@ -7,11 +7,8 @@ background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
 title: Proviral pipeline
 info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
-# apply unocss classes to the current slide
+  ## Proviral pipeline
+  Presentation for BC CfE
 class: text-center
 # https://sli.dev/features/drawing
 drawings:

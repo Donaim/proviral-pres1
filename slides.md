@@ -25,7 +25,13 @@ hideInToc: true
 
 A gentle introduction
 
-<!-- TODO: improve the subtitle -->
+<!--
+
+Today I will do a presentation about our proviral pipeline.
+
+This is quite a technical presentation, there is even going to be some code on the slides.
+
+-->
 
 ---
 transition: fade-out

@@ -625,7 +625,8 @@ TODO: improve these notes.
 
 - We want to give CFEIntact a notion of "confidence" and "severity", with which every defect can be labelled. 
   This can help researchers decide if they need to take a closer look.
-  A natural example is the hypermutation check, which outputs probability that a given sequence was hypermutated. That is our confidence.
+  A natural example is the hypermutation check, which outputs probability that a given sequence was hypermutated.
+  That is our confidence.
 
 -->
 

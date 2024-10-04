@@ -1,6 +1,6 @@
 #! /bin/sh
 
-for FILE in slides.md components/*
+for FILE in slides.md README.md components/*
 do
     echo "File ${FILE}:"
     echo '```'

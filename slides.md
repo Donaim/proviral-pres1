@@ -45,8 +45,6 @@ hideInToc: true
 <br>
 <br>
 
-<!-- <img style='opacity: 90%;' v-drag="[368,330,540,317]" src="./assets/init.png" /> -->
-
 <div class="absolute bottom-5 left-3 right-270" style='opacity: 80%;'>
    <b> 10 Oct 24 </b>
 </div>

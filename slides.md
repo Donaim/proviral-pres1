@@ -47,7 +47,7 @@ hideInToc: true
 
 <!-- <img style='opacity: 90%;' v-drag="[368,330,540,317]" src="./assets/init.png" /> -->
 
-<div class="absolute bottom-3 left-3 right-270" style='opacity: 80%;'>
+<div class="absolute bottom-5 left-3 right-270" style='opacity: 80%;'>
    10 Oct 24
 </div>
 

@@ -27,14 +27,12 @@ hideInToc: true
 <br>
 <br>
 <br>
-<br>
-<br>
 
 # Near-full-length HIV proviral amplification and sequencing pipeline
 
 <b>by Aniqa Shahid and Vitaliy Mysak</b>
 
-<img v-drag="[387,14,409,241]" src="./assets/virus.png" />
+<img v-drag="[464,14,332,195]" src="./assets/virus.png" />
 
 <!--
 Today I will do a presentation about our proviral pipeline.

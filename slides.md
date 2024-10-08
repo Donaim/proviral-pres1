@@ -40,7 +40,7 @@ hideInToc: true
 <br>
 <br>
 
-<img v-drag="[358,370,540,317]" src="./assets/init.png" />
+<img v-drag="[368,330,540,317]" src="./assets/init.png" />
 
 <!--
 This is Aniqa's slide.

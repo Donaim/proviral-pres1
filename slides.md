@@ -159,8 +159,6 @@ dragPos:
 
 - Sample collection & preparation.
 
-- Loading into MiSeq Sequencer.
-
 - Pickup by MiCall.
 
 - MiCall initial processing.

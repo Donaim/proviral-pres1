@@ -40,7 +40,7 @@ hideInToc: true
 <br>
 <br>
 
-<p style='color: white; opacity: 90%;
+<h2 style='color: white; opacity: 90%;
     text-shadow: 
     1px 1px 0px black,  /* Bottom-right shadow */
    -1px 1px 0px black,  /* Bottom-left shadow */
@@ -50,7 +50,7 @@ hideInToc: true
    -1px 0px 0px black,  /* Left shadow */
     0px 1px 0px black,  /* Bottom shadow */
     0px -1px 0px black; /* Top shadow */ ;
-'><h2> <b> by Aniqa Shahid and Vitalik Mysak </b> </h2></p>
+'> <b> by Aniqa Shahid and Vitalik Mysak </b> </h2>
 
 <br>
 <br>

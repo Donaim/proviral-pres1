@@ -43,7 +43,7 @@ hideInToc: true
 
 <img style='opacity: 80%;' v-drag="[368,330,540,317]" src="./assets/init.png" />
 
-<v-drag pos='date'> 
+<v-drag pos="date"> 
 <h2>10 Oct 2024</h2>
 </v-drag>
 

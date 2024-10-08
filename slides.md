@@ -25,7 +25,7 @@ hideInToc: true
 
 <h1 style='color: black; opacity: 80%; text-shadow: 2px 2px 19px white;' > <b> Near-full-length HIV proviral amplification and sequencing pipeline </b> </h1>
 
-<p style='opacity: 80%; color: black; text-shadow: 2px 2px 19px white;'><h2> by Aniqa Shahid and Vitaliy Mysak</h2><h2>10 Oct 2024</h2></p>
+<p style='opacity: 80%; color: black; text-shadow: 2px 2px 19px white;'><h2> by Aniqa Shahid and Vitaliy Mysak</h2></p>
 
 <br>
 <br>
@@ -42,6 +42,10 @@ hideInToc: true
 <br>
 
 <img style='opacity: 80%;' v-drag="[368,330,540,317]" src="./assets/init.png" />
+
+<v-drag pos='date'> 
+<h2>10 Oct 2024</h2>
+</v-drag>
 
 <!--
 This is Aniqa's slide.

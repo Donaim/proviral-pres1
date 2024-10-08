@@ -25,6 +25,8 @@ hideInToc: true
 
 <b>by Aniqa Shahid and Vitaliy Mysak</b>
 
+<img v-drag src="./assets/bblabs1.png" />
+
 <!--
 
 Today I will do a presentation about our proviral pipeline.

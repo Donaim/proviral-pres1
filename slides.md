@@ -94,13 +94,10 @@ hideInToc: true
 
 # Second lab presentor
 
-- **Programmer for the lab**
-  - Focusing on MiCall and Proviral pipelines
-
-- **Programming Enthusiast**
-  - Contributor to free software projects
-  - Blogger at https://vau.place
-  - Specialize in programming languages
+- Programmer, focusing on MiCall and Proviral pipelines
+- Contributor to free software projects
+- Blogger at https://vau.place
+- Specialize in programming languages
 
 <img v-drag="[464,18,443,443]" src="./assets/dog.jpg" />
 

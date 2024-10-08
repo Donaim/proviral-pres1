@@ -28,7 +28,7 @@ hideInToc: true
 
 <h1 style='color: #191a12; opacity: 80%; text-shadow: 2px 2px 19px white;' > <b> Near-full-length HIV proviral amplification and sequencing pipeline </b> </h1>
 
-<p style='color: black; opacity: 80%; text-shadow: 2px 2px 19px white;'><h2> <b> by Aniqa Shahid and Vitalik Mysak </b> </h2></p>
+<p style='color: #192a12; opacity: 80%; text-shadow: 2px 2px 19px white;'><h2> <b> by Aniqa Shahid and Vitalik Mysak </b> </h2></p>
 
 <br>
 <br>

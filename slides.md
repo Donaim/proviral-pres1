@@ -25,7 +25,6 @@ hideInToc: true
 
 <br>
 <br>
-<br>
 
 <h1 style='color: black; opacity: 80%; text-shadow: 2px 2px 19px white;' > <b> Near-full-length HIV proviral amplification and sequencing pipeline </b> </h1>
 

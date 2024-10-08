@@ -41,7 +41,7 @@ hideInToc: true
 <br>
 <br>
 
-<img style='shadow: 2px 2px 9px black;' v-drag="[368,330,540,317]" src="./assets/init.png" />
+<img style='-webkit-filter: drop-shadow(5px 5px 5px #222);' v-drag="[368,330,540,317]" src="./assets/init.png" />
 
 <!--
 This is Aniqa's slide.

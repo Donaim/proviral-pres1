@@ -68,7 +68,7 @@ hideInToc: true
   - Blogger at https://vau.place
   - Specialize in programming languages
 
-<img v-drag="[464,18,443,443]" src="https://vau.place/assets/dog.jpg" />
+<img v-drag="[464,18,443,443]" src="./assets/dog.jpg" />
 
 <!--
 

@@ -68,14 +68,14 @@ hideInToc: true
 <br>
 
 <div class="absolute bottom-5 left-3 right-270" style='opacity: 80%; text-shadow: 
-    1px 1px 0px white,  /* Bottom-right shadow */
-   -1px 1px 0px white,  /* Bottom-left shadow */
-    1px -1px 0px white, /* Top-right shadow */
-   -1px -1px 0px white, /* Top-left shadow */
-    1px 0px 0px white,  /* Right shadow */
-   -1px 0px 0px white,  /* Left shadow */
-    0px 1px 0px white,  /* Bottom shadow */
-    0px -1px 0px white; /* Top shadow */ ;
+    1px 1px 0px white,
+   -1px 1px 0px white,
+    1px -1px 0px white,
+   -1px -1px 0px white,
+    1px 0px 0px white,
+   -1px 0px 0px white,
+    0px 1px 0px white,
+    0px -1px 0px white ;
 
 '>
 

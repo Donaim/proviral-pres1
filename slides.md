@@ -48,7 +48,6 @@ hideInToc: true
    <b> 10 Oct 24 </b>
 </div>
 
-
 <!--
 
 I am presenting the technical part of the presentation today.

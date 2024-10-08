@@ -22,7 +22,9 @@ zoom: 0.8
 hideInToc: true
 ---
 
-# Near-full-length HIV proviral amplification and sequencing pipeline
+<div>
+<h1> Near-full-length HIV proviral amplification and sequencing pipeline </h1>
+</div>
 
 <p><h2> by Aniqa Shahid and Vitaliy Mysak</h2> 2024/10/10 </p>
 

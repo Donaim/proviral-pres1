@@ -28,9 +28,12 @@ hideInToc: true
 
 <h1 style='color: #191a12; opacity: 80%; text-shadow: 2px 2px 19px white;' > <b> Near-full-length HIV proviral amplification and sequencing pipeline </b> </h1>
 
-<!-- <br> -->
-<!-- <br> -->
-<!-- <br> -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <p style='color: #191a12; opacity: 90%;   text-shadow: 
     1px 1px 0px white,  /* Bottom-right shadow */

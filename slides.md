@@ -79,7 +79,7 @@ hideInToc: true
 zoom: 1.2
 ---
 
-# Presentation plan
+# Table of contents
 
 <Toc columns=2 />
 

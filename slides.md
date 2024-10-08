@@ -94,7 +94,7 @@ hideInToc: true
 
 # Second lab presentor
 
-- Programmer, focusing on MiCall and Proviral pipelines
+- Programmer, focusing on <br> MiCall and Proviral pipelines
 - Contributor to free software projects
 - Blogger at https://vau.place
 - Specialize in programming languages

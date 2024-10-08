@@ -33,14 +33,14 @@ hideInToc: true
 <!-- <br> -->
 
 <p style='color: #191a12; opacity: 90%;   text-shadow: 
-    2px 2px 0px black,  /* Bottom-right shadow */
-   -2px 2px 0px black,  /* Bottom-left shadow */
-    2px -2px 0px black, /* Top-right shadow */
-   -2px -2px 0px black, /* Top-left shadow */
-    2px 0px 0px black,  /* Right shadow */
-   -2px 0px 0px black,  /* Left shadow */
-    0px 2px 0px black,  /* Bottom shadow */
-    0px -2px 0px black; /* Top shadow */ ;'><h2> <b> by Aniqa Shahid and Vitalik Mysak </b> </h2></p>
+    2px 2px 0px white,  /* Bottom-right shadow */
+   -2px 2px 0px white,  /* Bottom-left shadow */
+    2px -2px 0px white, /* Top-right shadow */
+   -2px -2px 0px white, /* Top-left shadow */
+    2px 0px 0px white,  /* Right shadow */
+   -2px 0px 0px white,  /* Left shadow */
+    0px 2px 0px white,  /* Bottom shadow */
+    0px -2px 0px white; /* Top shadow */ ;'><h2> <b> by Aniqa Shahid and Vitalik Mysak </b> </h2></p>
 
 <br>
 <br>

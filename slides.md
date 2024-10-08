@@ -4,8 +4,8 @@ theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
 # background: https://cover.sli.dev
-# background: ./assets/leaf.webp
-background: ./assets/forest.webp
+background: ./assets/leaf.webp
+# background: ./assets/forest.webp
 title: Proviral pipeline
 # some information about your slides (markdown enabled)
 info: |

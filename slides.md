@@ -4,7 +4,6 @@ theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
 # background: https://cover.sli.dev
-# background: assets/leaf.webp
 background: https://raw.githubusercontent.com/Donaim/proviral-pres1/refs/heads/master/assets/forest.webp
 title: Proviral pipeline
 # some information about your slides (markdown enabled)

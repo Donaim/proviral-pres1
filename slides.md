@@ -157,7 +157,7 @@ dragPos:
 
 <!-- TODO: better presentation form. More detail. -->
 
-- Sample collection & preparation.
+- Sample collection & loading.
 
 - Pickup by MiCall.
 

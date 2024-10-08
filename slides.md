@@ -89,14 +89,6 @@ zoom: 1.2
 
 # Table of contents
 
-<Toc columns=2 />
-
-<!--
-
-Here is an overview of what I am going to talk about today.
-
--->
-
 ---
 
 # What is Proviral Pipeline?

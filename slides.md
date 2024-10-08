@@ -41,7 +41,7 @@ hideInToc: true
 <br>
 <br>
 
-<img v-drag="[368,330,540,317]" src="./assets/init.png" />
+<img style='opacity: 80%;' v-drag="[368,330,540,317]" src="./assets/init.png" />
 
 <!--
 This is Aniqa's slide.

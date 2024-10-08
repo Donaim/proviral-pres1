@@ -83,13 +83,6 @@ hideInToc: true
 -->
 
 ---
-hideInToc: true
-zoom: 1.2
----
-
-# Table of contents
-
----
 
 # What is Proviral Pipeline?
 

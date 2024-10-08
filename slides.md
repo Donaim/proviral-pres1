@@ -17,7 +17,7 @@ drawings:
 transition: fade
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
-zoom: 0.9
+zoom: 1.1
 hideInToc: true
 ---
 

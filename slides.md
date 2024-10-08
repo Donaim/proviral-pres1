@@ -48,8 +48,12 @@ hideInToc: true
    <b> 10 Oct 24 </b>
 </div>
 
+
 <!--
-This is Aniqa's slide.
+
+I am presenting the technical part of the presentation today.
+It will be quite technical, there is even going to be some code on the slides.
+
 -->
 
 ---

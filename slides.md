@@ -25,10 +25,9 @@ hideInToc: true
 
 <b>by Aniqa Shahid and Vitaliy Mysak</b>
 
-<img v-drag src="./assets/bblabs1.png" />
+<img v-drag="[362,266,342,202]" src="./assets/bblabs1.png" />
 
 <!--
-
 Today I will do a presentation about our proviral pipeline.
 
 This is quite a technical presentation, there is even going to be some code on the slides.
@@ -36,7 +35,6 @@ This is quite a technical presentation, there is even going to be some code on t
 <br><br>
 
 (Alternatively: I am presenting the technical part of the presentation today. It will be quite technical, there is even going to be some code on the slides.)
-
 -->
 
 ---

@@ -40,7 +40,7 @@ hideInToc: true
 
 <p><h2> by Aniqa Shahid and Vitaliy Mysak</h2></p>
 
-<img v-drag="[271,6,701,411]" src="./assets/init.png" />
+<img v-drag="[313,18,608,356]" src="./assets/init.png" />
 
 <!--
 Today I will do a presentation about our proviral pipeline.

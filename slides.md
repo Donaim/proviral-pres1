@@ -53,7 +53,7 @@ transition: fade-out
 hideInToc: true
 ---
 
-# Vitalik
+# Second presenter
 
 - **Programmer for the lab**
   - Focusing on MiCall and Proviral pipelines

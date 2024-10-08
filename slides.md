@@ -41,7 +41,17 @@ hideInToc: true
 <br>
 <br>
 
-<p style='color: white; opacity: 90%;'><h2> <b> by Aniqa Shahid and Vitalik Mysak </b> </h2></p>
+<p style='color: white; opacity: 90%;
+    text-shadow: 
+    1px 1px 0px black,  /* Bottom-right shadow */
+   -1px 1px 0px black,  /* Bottom-left shadow */
+    1px -1px 0px black, /* Top-right shadow */
+   -1px -1px 0px black, /* Top-left shadow */
+    1px 0px 0px black,  /* Right shadow */
+   -1px 0px 0px black,  /* Left shadow */
+    0px 1px 0px black,  /* Bottom shadow */
+    0px -1px 0px black; /* Top shadow */ ;
+'><h2> <b> by Aniqa Shahid and Vitalik Mysak </b> </h2></p>
 
 <br>
 <br>

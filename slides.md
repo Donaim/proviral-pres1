@@ -67,8 +67,7 @@ hideInToc: true
 <br>
 <br>
 
-<div class="absolute bottom-5 left-3 right-270" style='opacity: 80%; text-shadow: 1px 1px 0px white, -1px 1px 0px white, 1px -1px 0px white, -1px -1px 0px white, 1px 0px 0px white, -1px 0px 0px white, 0px 1px 0px white, 0px -1px 0px white ;'>
-
+<div class="absolute bottom-5 left-3 right-270" style='opacity: 80%;'>
    <b> 10 Oct 24 </b>
 </div>
 

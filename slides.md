@@ -23,9 +23,9 @@ zoom: 0.8
 hideInToc: true
 ---
 
-<h1 style='color: green; opacity: 60%; text-shadow: 2px 2px 9px white;' > <b> Near-full-length HIV proviral amplification and sequencing pipeline </b> </h1>
+<h1 style='color: black; opacity: 70%; text-shadow: 2px 2px 9px white;' > <b> Near-full-length HIV proviral amplification and sequencing pipeline </b> </h1>
 
-<p style='color: white; text-shadow: 2px 2px 3px green;'><h2> by Aniqa Shahid and Vitaliy Mysak <sub>10 Oct 2024</sub></h2></p>
+<p style='color: black; text-shadow: 2px 2px 9px white;'><h2> by Aniqa Shahid and Vitaliy Mysak <sub>10 Oct 2024</sub></h2></p>
 
 <br>
 <br>

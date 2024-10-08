@@ -43,13 +43,9 @@ hideInToc: true
 <img v-drag="[313,18,608,356]" src="./assets/init.png" />
 
 <!--
-Today I will do a presentation about our proviral pipeline.
 
-This is quite a technical presentation, there is even going to be some code on the slides.
+This is Aniqa's slide.
 
-<br><br>
-
-(Alternatively: I am presenting the technical part of the presentation today. It will be quite technical, there is even going to be some code on the slides.)
 -->
 
 ---

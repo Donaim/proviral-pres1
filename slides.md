@@ -32,7 +32,7 @@ hideInToc: true
 <br>
 <!-- <br> -->
 
-<p style='color: #190012; opacity: 80%; text-shadow: 0px 0px 49px white;'><h2> <b> by Aniqa Shahid and Vitalik Mysak </b> </h2></p>
+<p style='color: #091002; opacity: 80%; text-shadow: 0px 0px 49px white;'><h2> <b> by Aniqa Shahid and Vitalik Mysak </b> </h2></p>
 
 <br>
 <br>

@@ -53,7 +53,7 @@ transition: fade-out
 hideInToc: true
 ---
 
-# About me
+# Vitalik
 
 - **Programmer for the lab**
   - Focusing on MiCall and Proviral pipelines

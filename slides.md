@@ -17,13 +17,14 @@ drawings:
 transition: fade
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
-zoom: 1.5
+zoom: 0.9
 hideInToc: true
 ---
 
-# Proviral pipeline
+# Near-full-length HIV proviral amplification and sequencing pipeline
 
-A gentle introduction
+
+<!-- A gentle introduction -->
 
 <!--
 

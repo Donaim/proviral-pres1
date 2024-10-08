@@ -26,12 +26,24 @@ hideInToc: true
 
 <p><h2> by Aniqa Shahid and Vitaliy Mysak</h2></p>
 
-<img v-drag="[313,18,608,356]" src="./assets/init.png" />
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img v-drag="[358,370,540,317]" src="./assets/init.png" />
 
 <!--
-
 This is Aniqa's slide.
-
 -->
 
 ---

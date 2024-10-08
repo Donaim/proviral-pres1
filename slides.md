@@ -41,7 +41,8 @@ hideInToc: true
 <br>
 <br>
 
-<p style='color: #191a12; opacity: 90%;   text-shadow: 
+<p style='color: #191a12; opacity: 90%;
+    text-shadow: 
     1px 1px 0px white,  /* Bottom-right shadow */
    -1px 1px 0px white,  /* Bottom-left shadow */
     1px -1px 0px white, /* Top-right shadow */
@@ -49,7 +50,8 @@ hideInToc: true
     1px 0px 0px white,  /* Right shadow */
    -1px 0px 0px white,  /* Left shadow */
     0px 1px 0px white,  /* Bottom shadow */
-    0px -1px 0px white; /* Top shadow */ ;'><h2> <b> by Aniqa Shahid and Vitalik Mysak </b> </h2></p>
+    0px -1px 0px white; /* Top shadow */ ;
+'><h2> <b> by Aniqa Shahid and Vitalik Mysak </b> </h2></p>
 
 <br>
 <br>
@@ -65,7 +67,18 @@ hideInToc: true
 <br>
 <br>
 
-<div class="absolute bottom-5 left-3 right-270" style='opacity: 80%;'>
+<div class="absolute bottom-5 left-3 right-270" style='opacity: 80%; text-shadow: 
+    1px 1px 0px white,  /* Bottom-right shadow */
+   -1px 1px 0px white,  /* Bottom-left shadow */
+    1px -1px 0px white, /* Top-right shadow */
+   -1px -1px 0px white, /* Top-left shadow */
+    1px 0px 0px white,  /* Right shadow */
+   -1px 0px 0px white,  /* Left shadow */
+    0px 1px 0px white,  /* Bottom shadow */
+    0px -1px 0px white; /* Top shadow */ ;
+
+'>
+
    <b> 10 Oct 24 </b>
 </div>
 

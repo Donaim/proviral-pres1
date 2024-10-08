@@ -25,7 +25,7 @@ hideInToc: true
 
 <b>by Aniqa Shahid and Vitaliy Mysak</b>
 
-<img v-drag="[362,266,342,202]" src="./assets/virus.png" />
+<img v-drag="[387,14,409,241]" src="./assets/virus.png" />
 
 <!--
 Today I will do a presentation about our proviral pipeline.

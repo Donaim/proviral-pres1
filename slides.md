@@ -324,7 +324,13 @@ Once primers are found, they are cut off.
 
 If it happens that the primers do not end up in correct places, meaning at the both ends, then something in that process went wrong.
 
-- 
+- Now, confirming the presence of primers is a little bit more tricky than it seems. That's why this slide has 4 points on the right.
+
+`*click on the Reverse Complementation*`
+
+- For example, the pipeline tries to handle a common case where the "reverse complement" of input sample was sequenced.
+
+This point describes how that is done.
 
 -->
 

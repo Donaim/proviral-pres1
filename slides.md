@@ -347,7 +347,7 @@ What CFEIntact does is provide an automated discovery of genetic defects from a 
 
 3. **Main Anomalies Detected**:
  
-We look for defects that can severely impact genome functionality. Hypermutations, are one example. But there are many possible kinds of them, and each defect type requires a custom algorithm to detect. So I can talk a lot about CFEIntact, but it's best to just check out the documentation, it's quite detailed.
+We look for defects that can severely impact genome functionality. Hypermutations, are one example. But there are many possible kinds of them, and each defect type requires a custom algorithm to detect. So I can talk a lot about CFEIntact, but it's best to just check out the documentation. It is quite detailed.
 
 4. **Output Files**:
 

@@ -194,7 +194,7 @@ Produces files such as <br> `conseq.csv` and `contigs.csv`.
 
 <!-- 
 
-- As mentioned, we start with **Sample Collection**. This is our first step and involves gathering and preparing the raw data. It's it is a complex process, and it **can** fail, by, for example, producing sequences that are completely broken.
+- As mentioned, we start with **Sample Collection**. This step was described in more detail by Aniqa. For us, it is important that it **can** fail, by, for example, producing sequences that are completely broken.
 
 - In any case, we progress to **MiSeq Loading**, where samples are sequenced, converting raw biological samples into digital data.
 

@@ -434,7 +434,7 @@ The pipeline summarizes them, and it also performs some additional processing,
 
 <!--
 
-Now few words about how the pipeline extracts genomic regions from the sequences.
+Now few words on how the pipeline extracts genomic regions from the sequences.
 
 - The first step is **aligning the input sequences** to the well-known **HXB2 reference genome**. For this, the pipeline uses blast and minimap2.
  

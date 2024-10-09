@@ -136,7 +136,7 @@ First, I would like to introduce myself.
 
 - Big part of Proviral Pipeline is its defects detector, which, depending on the version, is either HIVSeqInR or HIVIntact.
 
-- The development of this pipeline itself, is a collaborative effort involving Dan, Don, Charlotte, and myself.
+- The development of pipeline itself, is a collaborative effort involving Dan, Don, Charlotte, and myself.
 
 -->
 

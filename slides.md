@@ -268,6 +268,12 @@ dragPos:
 
 <img v-drag="'checkqc'" src="./assets/qc1.webp" >
 
+<!-- 
+
+- There are multiple quality checks that the proviral pipeline runs on every sample.
+
+-->
+
 ---
 dragPos:
   primers: 15,125,387,258
@@ -276,12 +282,6 @@ dragPos:
 ---
 
 <SlideProgress />
-
-<!-- 
-
-- There are multiple quality checks that the proviral pipeline runs on every sample.
-
--->
 
 # Primer trimming
 

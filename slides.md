@@ -15,7 +15,7 @@ class: text-center
 drawings:
   persist: true
 # slide transition: https://sli.dev/guide/animations.html#slide-transitions
-transition: fade
+# transition: fade
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
 zoom: 0.8

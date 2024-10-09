@@ -118,7 +118,8 @@ First, I would like to introduce myself.
 - It is a collection of programs that output images and CSV files
 - It is a software pipeline <!-- What this means is that it's a series of steps basically. -->
 - It is, in large part, HIVSeqInR/HIVIntact,
-  <br> which is a program made by Guin Lee et al./Imogen Wright et al..
+  <br> which is a program made by
+  <br> Guin Lee et al./Imogen Wright et al.
 - It is a writing of
   <br> Daniel MacMillan, Don, Charlotte, and me <!-- I want to highlight the programmers' efforts. -->
 

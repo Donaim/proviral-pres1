@@ -320,6 +320,8 @@ Once primers are found, they are cut off.
 
 - This trick serves two purposes: it allows the rybosome to do the amplification, and they are proof that the sample was sequenced end-to-end.
 
+- 
+
 -->
 
 ---

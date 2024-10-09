@@ -376,7 +376,7 @@ That program is our modified version of HIVIntact.
 
 We modified it to the point where the original publication was no longer correct for our version of HIVIntact.
 
-So changed the name, as is usually done in such cases.
+So changed the name, as is done in such cases.
 
 3. **Main Anomalies Detected**:
 

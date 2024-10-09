@@ -553,7 +553,7 @@ Eventually this version will be released, and everybody will be able to make the
 
 Before the plots are generated, a translation step converts the defect types into categories that BBLabTools can represent graphically. Currently, BBLabTools is in a development phase, but it will be officially released in the upcoming version of our software. 
 
-This plotter supports both CFEIntact and HIVSeqInR, but the translation is not ideal. For instance it translates <b>MutatedStopCodon</b> into <b>PrematureStop</b>.
+This plotter supports both CFEIntact and HIVSeqInR.
 -->
 
 ---

@@ -316,7 +316,7 @@ Once primers are found, they are cut off.
 
 - Unlike the low coverage X's, primers are something that is present in the actual, physical input sequence.
 
-- These are short strings of nucleotides that are synthetically added to the both ends of the amplified sequences.
+- They are short strings of nucleotides that are synthetically added to the both ends of the amplified sequences.
 
 - This trick serves two purposes: it allows the rybosome to do the amplification, and they are evidence of successfull assembly.
 

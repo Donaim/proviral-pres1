@@ -194,7 +194,7 @@ Here is produces inputs to Proviral Pipeline
 
 <!-- 
 
-- As mentioned, we start with **Sample Collection**. This step was described in more detail by Aniqa. For us, it is important that it **can** fail. For example, it can result in sequences that look nothing like HIV, or even a living organism.
+- As mentioned, we start with **Sample Collection**. This step was described in more detail by Aniqa. For us, it is important that it **can** fail. For example, it can result in sequences that look nothing like HIV.
 
 - In any case, we progress to **MiSeq Loading**, where samples are sequenced, converting raw biological samples into digital data.
 

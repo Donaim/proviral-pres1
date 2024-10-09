@@ -180,15 +180,15 @@ dragPos:
 
 <!-- TODO: better presentation form. More detail. -->
 
-- Sample collection & loading.
+- Sample collection & loading
 
-- Pickup by MiCall.
+- Pickup by MiCall
 
-- MiCall initial processing.
+- MiCall initial processing
 
-Here is produces inputs to Proviral Pipeline.
+Here is produces inputs to Proviral Pipeline
 
-- MiCall starts proviral pipeline.
+- MiCall starts proviral pipeline
 
 <img v-drag="'miseq'" src="./assets/miseq.webp">
 

@@ -553,7 +553,7 @@ dragPos:
 ---
 hideInToc: true
 dragPos:
-  landscapes: -72,-17,0,0
+  landscapes: 566,6,349,548
   defecttype: 94,180,470,365
 ---
 

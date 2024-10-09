@@ -305,14 +305,14 @@ dragPos:
 
 # HIVIntact
 
-- Originally HIVIntact, now evolved into CFEIntact.
-- Performs automated checks for HIV-1 genome integrity.
+- Originally HIVIntact, now evolved into CFEIntact
+- Performs automated checks for HIV-1 genome integrity
 - Identifies various genetic anomalies:
   - Large deletions
   - Hypermutations
   - Scrambles
   - ...
-- Generates reports for regions, defects, <br> and various holistic properties.
+- Generates reports for regions, defects, <br> and various holistic properties
 - Details at https://cfe-lab.github.io/CFEIntact
 
 <v-drag pos="cfeintactwebsite">

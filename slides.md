@@ -459,6 +459,7 @@ flowchart TD
 </v-drag>
 
 <!--
+
 CFEIntact reports every defect it can find.
 
 But it is often sufficient, and easier to look at the most severe one.
@@ -474,6 +475,7 @@ And so on.
 It outputs the first error found down this chain.
 
 So this is more a list, than a tree.
+
 -->
 
 ---

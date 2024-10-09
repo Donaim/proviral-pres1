@@ -478,7 +478,7 @@ And so on.
 
 It outputs the first error found down this chain.
 
-So this is more a list, than a tree.
+So this is more of a list than a tree.
 
 -->
 

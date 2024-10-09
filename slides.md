@@ -130,6 +130,7 @@ First, I would like to introduce myself.
 <!--
 
 - The Proviral Pipeline is essentially a suite of applications that transforms sequence data into analytical outputs, such as images and CSV files.
+  <br> One of those outputs is the landscape plots that was shown by Aniqa.
 
 - It is structured as a pipeline, which means that it processes data through in a sequence of steps, where outputs of every step are fed into the next step.
 

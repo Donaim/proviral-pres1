@@ -279,7 +279,7 @@ dragPos:
 
 <!--
 
-- TODO: add some notes here for me to read when presenting.
+- There are multiple quality checks that the proviral pipeline runs on every sample.
 
 -->
 

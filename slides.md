@@ -270,7 +270,11 @@ dragPos:
 
 <!-- 
 
-- There are several quality checks that the proviral pipeline runs on every sample.
+- There are multiple quality checks that the proviral pipeline runs on every sample.
+
+- Generally, the idea is to discard any sequences that have evidence of not representing the actual virus population.
+
+
 
 -->
 

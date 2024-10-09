@@ -436,7 +436,7 @@ The pipeline summarizes them, and it also performs some additional processing,
 
 Now few words on how the pipeline extracts genomic regions from the sequences.
 
-- The first step is **aligning the input sequences** to the well-known **HXB2 reference genome**. For this, the pipeline uses blast and minimap2.
+- The first step is **aligning the input sequences** to the well-known **HXB2 reference genome**. For this, the pipeline uses blast and minimap2 programs.
  
 - Once aligned, the pipeline extracts key **HIV regions** like *gag*, *pol*, and *env*. But also some smaller, non-coding regions such as *psi_sl1,2,3* and *ltr3*.
  

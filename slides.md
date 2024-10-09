@@ -663,7 +663,7 @@ The structure of it is straightforward, but there is usually a lot of data here.
 
 <!--
 
-We have some plans with the pipeline for the future.
+We have some plans for the future of the pipeline.
 
 - BBLabTools will be released soon, with the landscape plots support.
 

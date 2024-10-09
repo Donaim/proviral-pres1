@@ -40,7 +40,7 @@ hideInToc: true
 <br>
 <br>
 
-<h2 style='color: white; opacity: 90%;
+<h2 style='color: white; opacity: 80%;
     text-shadow: 
     1px 1px 0px black,  /* Bottom-right shadow */
    -1px 1px 0px black,  /* Bottom-left shadow */

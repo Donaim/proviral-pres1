@@ -400,6 +400,14 @@ For every sample, CFEIntact generates detailed reports in CSV format. They captu
 
 <img src="./assets/defects.png" />
 
+<!--
+
+On this slide, I have examples of common defects.
+
+
+
+-->
+
 ---
 
 <SlideProgress />

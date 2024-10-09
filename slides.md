@@ -322,16 +322,27 @@ dragPos:
 <!-- <img v-drag="'cfeintact'" style='border: 2px solid green;' src="./assets/cfeintactdocs.png" > -->
 
 <!--
+
 1. **Introduction**:
-   CFEIntact is an essential part of the proviral pipeline. It started as a fork of HIVIntact and has evolved significantly since, to the point where the original publication was no longer correct for our version of HIVIntact.
+
+CFEIntact is an essential part of the proviral pipeline. It started as a fork of HIVIntact and has evolved significantly since, to the point where the original publication was no longer correct for our version of HIVIntact.
+
 2. **Key Functionality**:
-   What CFEIntact does is provide an automated check for the integrity of HIV-1 genomes.
+
+What CFEIntact does is provide an automated check for the integrity of HIV-1 genomes.
+
 3. **Main Anomalies Detected**:
-   We look for defects that can severely impact genome functionality. Hypermutations, are one example. But there are many possible kinds of them, and each defect type requires a custom algorithm to detect. So I can talk a lot about CFEIntact, but it's best to just check out the documentation, it's quite detailed.
+ 
+We look for defects that can severely impact genome functionality. Hypermutations, are one example. But there are many possible kinds of them, and each defect type requires a custom algorithm to detect. So I can talk a lot about CFEIntact, but it's best to just check out the documentation, it's quite detailed.
+
 4. **Output Files**:
-   For every sample, CFEIntact generates detailed reports in CSV format—capturing defects, regions, and other relevant data.
+
+For every sample, CFEIntact generates detailed reports in CSV format—capturing defects, regions, and other relevant data.
+
 5. **Limitations**:
-   TODO: mention that in such matter as defect detection there can not be an synthetic algorith that is always correct. Furthermore, researchers are justified to override CFEIntact's decisions based on their domain expertise.
+
+TODO: mention that in such matter as defect detection there can not be an synthetic algorith that is always correct. Furthermore, researchers are justified to override CFEIntact's decisions based on their domain expertise.
+
 -->
 
 ---

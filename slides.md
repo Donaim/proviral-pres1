@@ -117,8 +117,8 @@ First, I would like to introduce myself.
 
 - It is a collection of programs that output images and CSV files
 - It is a software pipeline <!-- What this means is that it's a series of steps basically. -->
-- It is, in large part, HIVSeqInR,
-  <br> which is a program made by Guin Lee et al.
+- It is, in large part, HIVSeqInR/HIVIntact,
+  <br> which is a program made by Guin Lee et al./Imogen Wright et al..
 - It is a writing of
   <br> Daniel MacMillan, Don, Charlotte, and me <!-- I want to highlight the programmers' efforts. -->
 
@@ -132,7 +132,7 @@ First, I would like to introduce myself.
 
 - It is structured as a pipeline, which means that it processes data through in a sequence of steps, where outputs of every step are fed into the next step.
 
-- Big part of Proviral Pipeline is its defects detector, called HIVSeqInR, which was written by Guin Lee.
+- Big part of Proviral Pipeline is its defects detector, called HIVSeqInR, which was written by Guin Lee. Currently
 
 - The development of this pipeline is a collaborative effort involving Dan, Don, Charlotte, and myself.
 

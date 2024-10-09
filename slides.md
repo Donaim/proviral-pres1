@@ -610,7 +610,7 @@ DEFECT_TYPE = {'LargeDeletion': 'Large Deletion',
 We use development version of BBLabs to draw landscape plots.
 Eventually this version will be released, and everybody will be able to make these drawings themselves.
 
-Before the plots are generated, a translation step converts the defect types into categories that BBLabTools can represent graphically. Currently, BBLabTools is in a development phase, but it will be officially released in the upcoming version of our software. 
+Before the plots are generated, a translation step converts the defect types into categories that BBLabTools can represent graphically.
 
 This plotter supports both CFEIntact and HIVSeqInR.
 -->

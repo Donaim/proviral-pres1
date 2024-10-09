@@ -459,7 +459,7 @@ flowchart TD
 </v-drag>
 
 <!--
-CFEIntact outputs every defect it can find.
+CFEIntact reports every defect it can find.
 
 But it is often sufficient, and easier to look at the most severe one.
 

@@ -376,7 +376,7 @@ That program is our modified version of HIVIntact.
 
 We modified it to the point where the original publication was no longer correct for our version of HIVIntact.
 
-Therefore, the our version of HIVIntact is now called CFEIntact.
+That's why we changed the name.
 
 3. **Main Anomalies Detected**:
 

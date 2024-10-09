@@ -272,7 +272,14 @@ dragPos:
 
 - There are multiple quality checks that the proviral pipeline runs on every sample.
 
-- Generally, the idea is to discard any sequences that have evidence of not representing the actual virus population.
+- Generally, the idea is to discard any sequences that have evidence of not correctly representing the actual virus population.
+  
+  That could happen due to sequencing errors, which can often be detected by these checks.
+  
+- So, for instance, let's take a look at the last check from this slide.
+
+`*click on Non-TCGA Characters*`
+
 
 
 

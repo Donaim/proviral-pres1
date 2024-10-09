@@ -392,7 +392,7 @@ It describes the individual algorithms and defect code they produce.
 
 4. **Output Files**:
 
-For every sample, CFEIntact generates detailed reports in CSV format — capturing defects, regions, and other relevant data.
+For every sample, CFEIntact generates detailed reports in CSV format. They capture defects, regions, and other relevant data.
 
 -->
 

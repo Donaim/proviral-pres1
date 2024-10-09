@@ -529,7 +529,7 @@ So this is more of a list than a tree.
 
 ---
 dragPos:
-  bblabs: 160,151,675,399
+  bblabs: -72,-17,0,0
 ---
 
 <SlideProgress />
@@ -541,19 +541,17 @@ dragPos:
 <img v-drag="'bblabs'" src="./assets/bblabs1.png">
 
 <!--
-
 - BBLabTools is a website that hosts various research tools.
 
 - It was written by SFU and CFE staff.
 
 - The website is hosted on our internal network, the link is here on the slide.
-
 -->
 
 ---
 hideInToc: true
 dragPos:
-  landscapes: 566,6,349,548
+  landscapes: -72,-17,0,0
   defecttype: 94,180,470,365
 ---
 
@@ -611,14 +609,12 @@ DEFECT_TYPE = {'LargeDeletion': 'Large Deletion',
 <img v-drag="'landscapes'" src="./assets/landscapes1.svg">
 
 <!--
-
 We use development version of BBLabs to draw landscape plots.
 Eventually this version will be released, and everybody will be able to make these drawings themselves.
 
 Before the plots are generated, a translation step converts the defect types into categories that BBLabTools can represent graphically.
 
 This plotting tool supports both CFEIntact and HIVSeqInR.
-
 -->
 
 ---

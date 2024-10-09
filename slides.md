@@ -613,7 +613,7 @@ Eventually this version will be released, and everybody will be able to make the
 
 Before the plots are generated, a translation step converts the defect types into categories that BBLabTools can represent graphically.
 
-This plotter supports both CFEIntact and HIVSeqInR.
+This plotting tool supports both CFEIntact and HIVSeqInR.
 
 -->
 

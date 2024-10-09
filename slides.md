@@ -466,6 +466,10 @@ But it is often sufficient, and easier to look at, the most severe one.
 
 The pipeline determines that based on its builtin decision tree.
 
+It is displayed here on the slide.
+
+`*drag the tree*`
+
 For example, it first checks whether there is a defect called *NonHIV*.
 
 Then if there is a long deletion.

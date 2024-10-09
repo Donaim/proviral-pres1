@@ -346,8 +346,8 @@ dragPos:
 
 # HIVIntact
 
-- Evolved into CFEIntact
 - Performs automated checks for HIV-1 genome integrity
+- Evolved into CFEIntact
 - Identifies various genetic anomalies:
   - Large deletions
   - Hypermutations

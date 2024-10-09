@@ -330,7 +330,9 @@ If it happens that the primers do not end up in correct places, meaning at the b
 
 - For example, the pipeline tries to handle a common case where the "reverse complement" of input sample was sequenced.
 
-This point describes how that is done.
+This point describes that.
+
+- Hello
 
 -->
 

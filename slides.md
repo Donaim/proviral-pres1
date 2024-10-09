@@ -314,7 +314,7 @@ Once primers are found, they are cut off.
 
 <!--
 
-- Primers is 
+- Unlike low coverage X's, primers are something that is present in the actual physical, input sequence.
 
 -->
 

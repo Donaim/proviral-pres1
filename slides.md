@@ -634,7 +634,7 @@ you as users of the pipeline are interacting with.
 
 The list is in the order of importance.
 
-Take `defects.csv` for example `*click on defects.csv*`.
+Let's take `defects.csv` for example `*click on defects.csv*`.
 
 It file describes individual defects detected by CFEIntact.
 Here is where to find it `*point at the path*`.

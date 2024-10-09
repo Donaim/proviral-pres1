@@ -320,7 +320,9 @@ Once primers are found, they are cut off.
 
 - This trick serves two purposes: it allows the rybosome to do the amplification, and they are evidence of successfull assembly.
 
-- Remember, that during assembly that happens in MiCall, we put short sequences of DNA together, to recover the full length consensus? If this process ends with a sequence that has both ends in correct places, then it likely that we assembled everything inbetween, too.
+- Remember, that during assembly that happens in MiCall, we put short sequences of DNA together, to recover the full length consensus?
+
+If this process ends with a sequence that has both ends in correct places, then it likely that we assembled everything inbetween, too.
 
 -->
 

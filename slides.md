@@ -671,7 +671,7 @@ We have some plans for the future of the pipeline.
 
 - CFEIntact is currently not doing well with subtypes other than B, and we want to fix that.
 
-- It would be nice to output more regions information in CFEIntact, such as the various PSI locations. Basically to completely overtake that function from the pipeline.
+- It would be nice to output more regions information in CFEIntact, such as the various PSI locations. Basically to completely overtake that function from the proviral pipeline.
 
 - We want to give CFEIntact a notion of "confidence" and "severity", with which every defect can be labelled. 
   This can help researchers decide if they need to take a closer look.

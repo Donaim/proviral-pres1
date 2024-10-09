@@ -341,7 +341,7 @@ For every sample, CFEIntact generates detailed reports in CSV format — capturi
 
 5. **Limitations**:
 
-Now, while the defects that CFEIntact find, are very likely to be causing 
+Now, while the defects that CFEIntact find, are very likely to make the virus replication incompetent, *lack* of found defect provides a lesser certainty about its replication competence. It is impossible to find all defects in an automated way.
 
 -->
 

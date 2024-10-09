@@ -202,6 +202,8 @@ Here is produces inputs to Proviral Pipeline.
 
 - This culminates in the **Output Generation** phase, where files such as the `contigs.csv` are produced.
 
+- Finally, the proviral pipeline is started by MiCall.
+
 -->
 
 ---

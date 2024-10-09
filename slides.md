@@ -322,6 +322,14 @@ dragPos:
 <!-- <img v-drag="'cfeintact'" style='border: 2px solid green;' src="./assets/cfeintactdocs.png" > -->
 
 <!--
+5. **Limitations**:
+
+Now, while the defects that CFEIntact report are very likely to be severe to the point of making the virus replication incompetent, *lack* of found defect provides a lesser certainty about its replication competence.
+So when CFEIntact says that the virus is Hypermutated, it definitely is hypermutated. But when it does not report any defect, it could be because it didn't look hard enough.
+
+-->
+
+<!--
 
 1. **Introduction**:
 

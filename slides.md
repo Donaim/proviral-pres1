@@ -462,7 +462,7 @@ flowchart TD
 
 CFEIntact reports every defect it can find.
 
-But it is often sufficient, and easier to look at the most severe one.
+But it is often sufficient, and easier to look at, the most severe one.
 
 The pipeline determines that based on its builtin decision tree.
 

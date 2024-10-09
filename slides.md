@@ -366,7 +366,7 @@ dragPos:
 
 2. **Key Functionality**:
 
-What HIVIntact does is provide an automated discovery of genetic defects from a DNA sequence.
+HIVIntact provides an automated discovery of genetic defects from a DNA sequence.
 
 2. **Introduction**:
 

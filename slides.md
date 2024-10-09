@@ -669,7 +669,7 @@ We have some plans for the future of the pipeline.
 
 - Today I presented the pipeline as if it was already using HIVIntact. But that is only coming with the next release of the pipeline. The current production version of the pipeline uses HIVSeqInR.
 
-- CFEIntact is currently not doing well with subtypes other than B, we want to fix that.
+- CFEIntact is currently not doing well with subtypes other than B, and we want to fix that.
 
 - It would be nice to output more regions information in CFEIntact, such as the various PSI locations. Basically to overtake that function from the pipeline.
 

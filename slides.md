@@ -388,6 +388,10 @@ Because of this, CFEIntact can easily take up another presentation, so it's best
 
 It is quite detailed.
 
+In particular, I imagine most people would be interested in the workflow page of the docs.
+
+It describes the individual algorithms.
+
 4. **Output Files**:
 
 For every sample, CFEIntact generates detailed reports in CSV format — capturing defects, regions, and other relevant data.

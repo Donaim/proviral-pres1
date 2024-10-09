@@ -318,7 +318,7 @@ Once primers are found, they are cut off.
 
 - They are short strings of nucleotides that are purposefully added to the both ends of the amplified sequences.
 
-- This trick serves two purposes: it allows the rybosome to do the amplification, and they are evidence of successfull assembly.
+- This serves two purposes: it allows the rybosome to do the amplification, and they are evidence of successfull assembly.
 
 - Recall that during assembly, which happens in MiCall, we put short sequences of DNA together, to recover the full length consensus.
 

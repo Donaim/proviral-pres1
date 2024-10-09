@@ -337,11 +337,11 @@ We look for defects that can severely impact genome functionality. Hypermutation
 
 4. **Output Files**:
 
-For every sample, CFEIntact generates detailed reports in CSV format—capturing defects, regions, and other relevant data.
+For every sample, CFEIntact generates detailed reports in CSV format — capturing defects, regions, and other relevant data.
 
 5. **Limitations**:
 
-TODO: mention that in such matter as defect detection there can not be an synthetic algorith that is always correct. Furthermore, researchers are justified to override CFEIntact's decisions based on their domain expertise.
+Now, while the defects that CFEIntact find, are very likely to be causing 
 
 -->
 

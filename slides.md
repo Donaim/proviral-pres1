@@ -390,7 +390,7 @@ It is quite detailed.
 
 In particular, I imagine most people would be interested in the workflow page of the docs.
 
-It describes the individual algorithms.
+It describes the individual algorithms and defect code they produce.
 
 4. **Output Files**:
 

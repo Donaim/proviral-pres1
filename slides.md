@@ -607,12 +607,14 @@ DEFECT_TYPE = {'LargeDeletion': 'Large Deletion',
 <img v-drag="'landscapes'" src="./assets/landscapes1.svg">
 
 <!--
+
 We use development version of BBLabs to draw landscape plots.
 Eventually this version will be released, and everybody will be able to make these drawings themselves.
 
 Before the plots are generated, a translation step converts the defect types into categories that BBLabTools can represent graphically.
 
 This plotter supports both CFEIntact and HIVSeqInR.
+
 -->
 
 ---

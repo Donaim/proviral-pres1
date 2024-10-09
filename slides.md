@@ -690,10 +690,10 @@ hideInToc: true
 
 <!--
 
-That's all I have for today.
+- That's all I have for today.
 
-This presentation will be available online.
+- This presentation will be available online.
 
-Thank you.
+- Thank you!
 
 -->

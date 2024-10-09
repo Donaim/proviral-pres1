@@ -270,7 +270,7 @@ dragPos:
 
 <!-- 
 
-- There are multiple quality checks that the proviral pipeline runs on every sample.
+- There are several quality checks that the proviral pipeline runs on every sample.
 
 -->
 

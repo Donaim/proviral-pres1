@@ -115,7 +115,6 @@ First, I would like to introduce myself.
 
 # What is Proviral Pipeline?
 
-- It is software for analysis of proviral DNA
 - It is a collection of programs that output images and CSV files
 - It is a software pipeline <!-- What this means is that it's a series of steps basically. -->
 - It is, in large part, HIVSeqInR,

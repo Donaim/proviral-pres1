@@ -314,7 +314,7 @@ Once primers are found, they are cut off.
 
 <!--
 
-TODO: add some notes here for me to read when presenting.
+- Primers is 
 
 -->
 

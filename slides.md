@@ -198,7 +198,7 @@ Here is produces inputs to Proviral Pipeline
 
 - In any case, we progress to **MiSeq Loading**, where samples are sequenced, converting raw biological samples into digital data.
 
-- Following this, **MiCall** takes over. It find the digital data outputs of MiSeq, and conducts initial data analysis, transforming the sequenced data into structured information.
+- Following this, **MiCall** takes over. The main task of MiCall it to turn short sequences
 
 - This culminates in the **Output Generation** phase, where files such as the `contigs.csv` are produced.
 

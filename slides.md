@@ -384,7 +384,9 @@ CFEIntact looks for defects that can severely impact genome functionality.
 
 Hypermutations, are one example, but there are many possible kinds of them, and each defect type requires a custom algorithm to detect.
 
-Because of this, CFEIntact can easily take up another presentation, so it's best to just check out the documentation website. It is quite detailed.
+Because of this, CFEIntact can easily take up another presentation, so it's best to just check out the documentation website.
+
+It is quite detailed.
 
 4. **Output Files**:
 

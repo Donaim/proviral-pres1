@@ -132,7 +132,7 @@ First, I would like to introduce myself.
 
 - It is structured as a pipeline, which means that it processes data through in a sequence of steps, where outputs of every step are fed into the next step.
 
-- It is structured as a pipeline, which means that it processes data through in a sequence of steps, where outputs of every step are fed into the next step.
+- Big part of Proviral Pipeline is its defects detector, called HIVSeqInR, which was written by Guin Lee.
 
 - The development of this pipeline is a collaborative effort involving Dan, Don, Charlotte, and myself.
 

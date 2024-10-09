@@ -364,13 +364,13 @@ dragPos:
 
 <!--
 
-1. **Introduction**:
-
-CFEIntact is an essential part of the proviral pipeline. It started as a fork of HIVIntact and has evolved significantly since, to the point where the original publication was no longer correct for our version of HIVIntact.
-
 2. **Key Functionality**:
 
-What CFEIntact does is provide an automated discovery of genetic defects from a DNA sequence.
+What HIVIntact does is provide an automated discovery of genetic defects from a DNA sequence.
+
+2. **Introduction**:
+
+CFEIntact is an essential part of the proviral pipeline. It started as a fork of HIVIntact and has evolved significantly since, to the point where the original publication was no longer correct for our version of HIVIntact.
 
 3. **Main Anomalies Detected**:
 

@@ -276,9 +276,9 @@ dragPos:
   
   That could happen due to sequencing errors, which can often be detected by these checks.
   
-- So, for instance, let's take a look at the last check from this slide.
+- So, for instance, let's take a look at the low coverage check from this slide.
 
-`*click on Non-TCGA Characters*`
+`*click on Low Internal Coverage*`
 
 - 
 

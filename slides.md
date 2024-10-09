@@ -292,7 +292,9 @@ After the initial filtering step, the pipeline proceeds to find primers in the f
 -->
 
 <!--
+
 TODO: add some notes here for me to read when presenting.
+
 -->
 
 ---

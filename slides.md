@@ -386,8 +386,6 @@ Hypermutations, are one example, but there are many possible kinds of them, and 
 
 Because of this, CFEIntact can easily take up another presentation, so it's best to just check out the documentation website.
 
-It is quite detailed.
-
 In particular, I imagine most people would be interested in the workflow page of the docs.
 
 It describes the individual algorithms and defect code they produce.

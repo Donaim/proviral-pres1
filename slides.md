@@ -324,7 +324,7 @@ Once primers are found, they are cut off.
 
 If it happens that the primers do not end up in correct places, meaning at the both ends, then something in that process went wrong.
 
-- Hello
+- 
 
 -->
 

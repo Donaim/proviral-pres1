@@ -87,7 +87,6 @@ It will be quite technical, there is even going to be some code on the slides.
 -->
 
 ---
-transition: fade-out
 hideInToc: true
 ---
 
@@ -448,7 +447,6 @@ So this is more a list, than a tree.
 -->
 
 ---
-transition: fade
 dragPos:
   bblabs: 160,151,675,399
 ---
@@ -569,8 +567,6 @@ The structure of it is straightforward, but there is usually a lot of data here.
 -->
 
 ---
-transition: slide-up
----
 
 <SlideProgress />
 
@@ -609,7 +605,6 @@ layout: cover
 background: https://cover.sli.dev
 zoom: 2.0
 hideInToc: true
-transition: slide-up
 ---
 
 # Thank you

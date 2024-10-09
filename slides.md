@@ -322,7 +322,7 @@ Once primers are found, they are cut off.
 
 - Remember, that during assembly that happens in MiCall, we put short sequences of DNA together, to recover the full length consensus?
 
-If this process ends with a sequence that has both ends in correct places, then it likely that we assembled everything inbetween, too.
+It adds to the confidence, if this process ends with a sequence that has both ends in correct places.
 
 -->
 

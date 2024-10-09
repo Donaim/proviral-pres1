@@ -198,7 +198,9 @@ Here is produces inputs to Proviral Pipeline
 
 - In any case, we progress to **MiSeq Loading**, where samples are sequenced, converting raw biological samples into digital data.
 
-- Following this, **MiCall** takes over. The main task of MiCall it to assemble a long, consistent seqeuence from small
+- Following this, **MiCall** takes over. The main task of MiCall it to assemble a long, consensus seqeuence from short bits that come out of MiSeq.
+
+While the HIV genome is 9000 base pairs in length, it is assembled from pieces that are at most 200 base pairs long.
 
 - This culminates in the **Output Generation** phase, where files such as the `contigs.csv` are produced.
 

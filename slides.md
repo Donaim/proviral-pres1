@@ -665,7 +665,7 @@ The structure of it is straightforward, but there is usually a lot of data here.
 
 We have some plans for the future of the pipeline.
 
-- BBLabTools will be released soon, with the landscape plots support.
+- As I mentioned, BBLabTools will be released soon, with the landscape plots support.
 
 - Today I presented the pipeline as if it was already using HIVIntact. But that is only coming with the next release of the pipeline.
 

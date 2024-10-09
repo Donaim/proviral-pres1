@@ -277,8 +277,10 @@ dragPos:
 
 <SlideProgress />
 
-<!-- 
+<!--
+
 TODO: add some notes here for me to read when presenting.
+
 -->
 
 # Primer trimming

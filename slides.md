@@ -280,8 +280,8 @@ dragPos:
 
 `*click on Low Internal Coverage*`
 
-- Here if the pipeline finds any X's in the input sequence, then it means that we don't know with high certainty what is the actual sequence in that region covered by X's.
-  So such sequences fail QC.
+- This check is about regions that have low coverage. Such regions are marked with character X in the input sequence.
+  They fail QC, and are skipped, because for these regions we don't really know what is the true DNA sequence there.
 
 -->
 

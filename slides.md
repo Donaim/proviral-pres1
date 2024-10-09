@@ -316,7 +316,7 @@ Once primers are found, they are cut off.
 
 - Unlike low coverage X's, primers are something that is present in the actual physical, input sequence.
 
-- These are strings of 
+- These are short strings of nucleotides
 
 -->
 

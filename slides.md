@@ -694,4 +694,6 @@ That's all I have for today.
 
 This presentation will be available online.
 
+Thank you.
+
 -->

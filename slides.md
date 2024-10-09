@@ -200,7 +200,7 @@ Here is produces inputs to Proviral Pipeline
 
 - Following this, **MiCall** takes over. The main task of MiCall it to assemble a long consensus seqeuence from short bits that come out of MiSeq.
 
-While the HIV full length sequence is 9000 base pairs, it is assembled from pieces that are at most 200 base pairs long.
+While the HIV full length sequence is 9000 base pairs, it is assembled from pieces that are at most 300 base pairs long.
 
 - Once that's done, we get to the **Output Generation** phase.
 

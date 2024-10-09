@@ -341,7 +341,7 @@ For every sample, CFEIntact generates detailed reports in CSV format — capturi
 
 5. **Limitations**:
 
-
+The tool provides
 
 -->
 

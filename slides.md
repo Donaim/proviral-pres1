@@ -163,7 +163,7 @@ dragPos:
 - Let's walk through the Proviral Sample Workflow. This is, basically, a standard progression for every proviral sample.
 - We kick off with **data gathering and initial processing**. This is where biological, physical samples are turned into A-C-T-G strings, and then into more structured datasets.
 - Next is **pipeline activation**, where the Proviral Pipeline comes alive, it loads the sample data, and runs some initial checks and prepartions.
-- After that HIVIntact takes stage, for **defect detection**. It, basically, checks for any anomalies present in the RNA.
+- After that HIVIntact takes stage, for **defect detection**. It, basically, checks for any anomalies present in the DNA.
 - Then the pipeline takes control again, as it gets the results back from HIVIntact. It processes those to provide a nicer summary.
 - Finally, we use BBLabTools to make landscape plots. This step is actually manual, and optional, unlike all the rest.
 

@@ -186,7 +186,7 @@ dragPos:
 
 - MiCall initial processing.
 
-Produces files such as <br> `conseq.csv` and `contigs.csv`.
+Produces inputs of Proviral Pipeline (such as <br> `conseq.csv` and `contigs.csv`).
 
 - MiCall starts proviral pipeline.
 

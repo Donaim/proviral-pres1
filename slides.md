@@ -322,7 +322,7 @@ Once primers are found, they are cut off.
 
 - Remember, that during assembly that happens in MiCall, we put short sequences of DNA together, to recover the full length consensus?
 
-If it happens that the primers are not at the both ends, then something in that process went wrong.
+If it happens that the primers are not in correct places, then something in that process went wrong.
 
 - Hello
 

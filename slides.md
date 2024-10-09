@@ -399,7 +399,6 @@ For every sample, CFEIntact generates detailed reports in CSV format. They captu
 ---
 
 
-
 Hello
 
 ---
@@ -531,7 +530,7 @@ So this is more of a list than a tree.
 
 ---
 dragPos:
-  bblabs: -72,-17,0,0
+  bblabs: 160,151,675,399
 ---
 
 <SlideProgress />

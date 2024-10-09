@@ -339,10 +339,6 @@ We look for defects that can severely impact genome functionality. Hypermutation
 
 For every sample, CFEIntact generates detailed reports in CSV format — capturing defects, regions, and other relevant data.
 
-5. **Limitations**:
-
-The tool provides
-
 -->
 
 ---

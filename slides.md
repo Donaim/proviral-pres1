@@ -609,6 +609,7 @@ layout: cover
 background: https://cover.sli.dev
 zoom: 2.0
 hideInToc: true
+transition: slide-up
 ---
 
 # Thank you

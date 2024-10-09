@@ -200,7 +200,7 @@ Here is produces inputs to Proviral Pipeline.
 
 - Following this, **MiCall** takes over. It find the digital data outputs of MiSeq, and conducts initial data analysis, transforming the sequenced data into structured information.
 
-- This culminates in the **Output Generation** phase, where files such as `contigs.csv` are produced.
+- This culminates in the **Output Generation** phase, where files such as the `contigs.csv` are produced.
 
 -->
 

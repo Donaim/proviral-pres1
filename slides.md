@@ -164,7 +164,7 @@ dragPos:
 - We kick off with **data gathering and initial processing**. This is where biological, physical samples are turned into A-C-T-G strings, and then into more structured datasets.
 - Next is **pipeline activation**, where the Proviral Pipeline comes alive, it loads the sample data, and runs some initial checks and prepartions.
 - After that HIVIntact takes stage. Its job is to check for any anomalies present in the DNA.
-- Then the pipeline takes control again, as it gets the results back from HIVIntact. It processes those to provide a nicer summary.
+- Then the we are back to the pipeline, as it gets the results back from HIVIntact. It processes those to provide a nicer summary.
 - Finally, we use BBLabTools to make landscape plots. This step is actually manual, and optional, unlike all the rest.
 
 -->

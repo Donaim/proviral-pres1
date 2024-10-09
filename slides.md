@@ -370,7 +370,11 @@ HIVIntact provides an automated discovery of genetic defects from a DNA sequence
 
 2. **Introduction**:
 
-It started as a fork of the original program called HIVIntact. We modified it to the point where the original publication was no longer correct for our version of HIVIntact.
+It started as a fork of the original program called HIVIntact.
+
+But we modified it to the point where the original publication was no longer correct for our version of HIVIntact.
+
+Therefore, the our version of HIVIntact is now called CFEIntact.
 
 3. **Main Anomalies Detected**:
 

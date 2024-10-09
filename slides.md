@@ -280,8 +280,8 @@ dragPos:
 
 `*click on Low Internal Coverage*`
 
-- 
-
+- Here if the pipeline finds any X's in the input sequence, then it means that we don't know with high certainty what is the actual sequence in that region covered by X's.
+  So such sequences fail QC.
 
 -->
 

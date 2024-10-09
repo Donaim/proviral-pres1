@@ -318,7 +318,7 @@ Once primers are found, they are cut off.
 
 - These are short strings of nucleotides that are synthetically added to the both ends of the amplified sequences.
 
-- This trick serves two purposes: it directs the rybosome 
+- This trick serves two purposes: it allows the rybosome to do the amplification
 
 -->
 

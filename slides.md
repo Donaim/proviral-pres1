@@ -81,7 +81,7 @@ hideInToc: true
 
 <!--
 
-I am presenting the software part of the presentation today.
+I am going to talk about the software part of the presentation today.
 It will be quite technical, there is even going to be some code on the slides.
 
 -->

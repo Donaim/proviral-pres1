@@ -119,7 +119,7 @@ First, I would like to introduce myself.
 - It is a software pipeline <!-- What this means is that it's a series of steps basically. -->
 - It is, in large part, HIVSeqInR/HIVIntact,
   <br> which is a program made by
-  <br> Guin Lee et al./Imogen Wright et al.
+  <br> [Guin Lee et al.](https://www.nature.com/articles/s41467-019-10659-2)/[Imogen Wright et al](https://retrovirology.biomedcentral.com/articles/10.1186/s12977-021-00561-5).
 - It is a writing of
   <br> Daniel MacMillan, Don, Charlotte, and me <!-- I want to highlight the programmers' efforts. -->
 

@@ -320,7 +320,7 @@ Once primers are found, they are cut off.
 
 - This trick serves two purposes: it allows the rybosome to do the amplification, and they are evidence of successfull assembly.
 
-- So, when the pipeline sees them at the very ends of the sequence, it means that assembly 
+- So, when the pipeline sees them at the very ends of the sequence, it means that assembly process connected both ends.
 
 -->
 

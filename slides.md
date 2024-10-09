@@ -636,7 +636,7 @@ The list is in the order of importance.
 
 Let's take `defects.csv` for example `*click on defects.csv*`.
 
-It file describes individual defects detected by CFEIntact.
+This file describes individual defects detected by CFEIntact.
 Here is where to find it `*point at the path*`.
 
 And here I have example defects `*open example*`.

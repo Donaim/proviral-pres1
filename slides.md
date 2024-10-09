@@ -202,7 +202,9 @@ Here is produces inputs to Proviral Pipeline
 
 While the HIV full length sequence is 9000 base pairs, it is assembled from pieces that are at most 200 base pairs long.
 
-- Once that's done, we get to the **Output Generation** phase, where files such as the `contigs.csv` are produced.
+- Once that's done, we get to the **Output Generation** phase.
+
+These outputs contain the raw, full length sequences, as well as various statistics about them.
 
 - Finally, the proviral pipeline is started by MiCall.
 

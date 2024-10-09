@@ -398,8 +398,6 @@ For every sample, CFEIntact generates detailed reports in CSV format. They captu
 
 ---
 
-Hello
-
 <img src="./assets/defects1.png" />
 
 ---

@@ -343,7 +343,7 @@ CFEIntact is an essential part of the proviral pipeline. It started as a fork of
 
 2. **Key Functionality**:
 
-What CFEIntact does is provide an automated check for the integrity of HIV-1 genomes.
+What CFEIntact does is provide an automated discovery of genetic defects from a given DNA sequence.
 
 3. **Main Anomalies Detected**:
  

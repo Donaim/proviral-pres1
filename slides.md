@@ -408,7 +408,7 @@ For every sample, CFEIntact generates detailed reports in CSV format. They captu
 
 - They are defects caused by mutation in HIV that introduces a stop codon, such as T-A-G, in the middle of a gene.
 
-- Because of this mutation, the rybosome will only transcribe part of the gene. So, it practically kills the gene.
+- Because of this mutation, the rybosome will only transcribe part of the gene. So, it practically kills it.
 
 -->
 

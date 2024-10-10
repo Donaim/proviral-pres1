@@ -92,6 +92,8 @@ hideInToc: true
 
 # Second lab presentor
 
+Vitalik Mysak
+
 - Programmer, focusing on <br> MiCall and Proviral pipeline
 - Contributor to free software projects
 - Blogger at [https://vau.place](https://vau.place)
@@ -103,11 +105,13 @@ hideInToc: true
 
 First, I would like to introduce myself.
 
-- My name is Vitalik, I am a software developer here. I am mostly working on MiCall and Proviral right now.
+- My name is Vitalik, I am a software developer here. I am mostly working on MiCall and Proviral pipeline right now.
 
 - I have a passion for programming, lots of hobby projects, and a programming blog.
 
-- As a Ukrainian, I am grateful for the support that many of you have shown for my country. The war with Russia is still ongoing, and it's only getting worse.
+- As you all know, the Russia-Ukraine war is still ongoing.
+
+- As a Ukrainian, I am grateful for the support that so many of you shown for my country.
 
 -->
 
@@ -464,7 +468,7 @@ Now few words on how the pipeline extracts genomic regions from the sequences.
 
 ---
 dragPos:
-  landscapes: 492,1,482,522
+  landscapes: 19,-503,853,924
 ---
 
 <SlideProgress />
@@ -516,7 +520,6 @@ flowchart TD
 </v-drag>
 
 <!--
-
 CFEIntact reports every defect it can find.
 
 But it is often sufficient, and easier to look at, the most severe one.
@@ -536,7 +539,6 @@ And so on.
 It outputs the first error found down this chain.
 
 So this is more of a list than a tree.
-
 -->
 
 ---

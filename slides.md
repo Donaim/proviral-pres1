@@ -167,8 +167,8 @@ dragPos:
 - Let's walk through the Proviral Sample Workflow. This is, basically, a standard progression for every proviral sample.
 - We start with **data gathering and micall processing**. This is where biological, physical samples are turned into A-C-T-G strings, and then into more structured datasets.
 - Next is **pipeline activation**, where the Proviral Pipeline comes alive. 
-  <br> It loads the sample data, and runs some initial checks and prepartions.
-- After that HIVIntact takes stage. Its job is to check for any anomalies present in the DNA.
+  <br> It loads the sample data, and also runs some **initial** checks and prepartions.
+- After that HIVIntact takes stage. Its job is to check for any genetic anomalies present in the samples.
 - Then we are back in the pipeline, as it gets the results from HIVIntact. It processes those results to provide a nicer summary.
 - Finally, we use BBLabTools to make landscape plots. This step is actually manual, and optional, unlike all the rest.
 
@@ -198,6 +198,8 @@ Here is produces inputs to Proviral Pipeline
 <img v-drag="'miseq'" src="./assets/miseq.webp">
 
 <!-- 
+
+- This slide is also an overview, on what happens before
 
 - As mentioned, we start with **Sample Collection**. This step was described in more detail by Aniqa. For us, it is important that it **can** fail. For example, it can result in sequences that look nothing like HIV.
 

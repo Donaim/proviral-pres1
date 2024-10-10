@@ -111,7 +111,7 @@ First, I would like to introduce myself.
 
 - As you all know, the Russia-Ukraine war is still ongoing.
 
-- As a Ukrainian, I am grateful for the support that so many of you shown for my country.
+- As a Ukrainian, I am grateful for the support that many of you show for my country.
 
 -->
 
@@ -136,11 +136,11 @@ First, I would like to introduce myself.
 - The Proviral Pipeline is essentially a suite of applications that transforms sequence data into analytical outputs, such as images and CSV files.
   <br> One of those outputs is the landscape plots that Aniqa showed previously.
 
-- It is structured as a pipeline, which means that it processes data through in a sequence of steps, where outputs of every step are fed into the next step.
+- This suite is structured as a pipeline, which means that it processes data through in a sequence of steps.
 
-- Big part of Proviral Pipeline is its defects detector, which, depending on the version, is either HIVSeqInR or HIVIntact.
+- Big part of Proviral Pipeline is its defects detector. And, depending on the version, is either HIVSeqInR or HIVIntact.
 
-- The development of pipeline itself, is a collaborative effort -- involving Dan, Don, Charlotte, and myself.
+- The development of the pipeline itself, is a collaborative effort -- involving Dan, Don, Charlotte, and myself.
 
 -->
 
@@ -165,8 +165,9 @@ dragPos:
 <!-- 
 
 - Let's walk through the Proviral Sample Workflow. This is, basically, a standard progression for every proviral sample.
-- We kick off with **data gathering and initial processing**. This is where biological, physical samples are turned into A-C-T-G strings, and then into more structured datasets.
-- Next is **pipeline activation**, where the Proviral Pipeline comes alive, it loads the sample data, and runs some initial checks and prepartions.
+- We start with **data gathering and micall processing**. This is where biological, physical samples are turned into A-C-T-G strings, and then into more structured datasets.
+- Next is **pipeline activation**, where the Proviral Pipeline comes alive. 
+  <br> It loads the sample data, and runs some initial checks and prepartions.
 - After that HIVIntact takes stage. Its job is to check for any anomalies present in the DNA.
 - Then we are back in the pipeline, as it gets the results from HIVIntact. It processes those results to provide a nicer summary.
 - Finally, we use BBLabTools to make landscape plots. This step is actually manual, and optional, unlike all the rest.

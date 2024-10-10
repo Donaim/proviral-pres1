@@ -402,9 +402,9 @@ For every sample, CFEIntact generates detailed reports in CSV format. They captu
 
 <!--
 
-On this slide, I have examples of common defects.
+- On this slide, I have examples of common defects.
 
-
+- Scramble is a good example. CFEIntact looks for all genes it can find.  Let's say CFEIntact find 
 
 -->
 

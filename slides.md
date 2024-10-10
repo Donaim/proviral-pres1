@@ -404,7 +404,11 @@ For every sample, CFEIntact generates detailed reports in CSV format. They captu
 
 - On this slide, I have examples of common defects.
 
-- Scramble is a good example. CFEIntact looks for all genes it can find.  Let's say CFEIntact find 
+- And premature stop codon, displayed here, are particularly so. 
+
+- They are defects caused by mutation in HIV that introduces a stop codon, such as T-A-G, in the middle of a gene.
+
+- This causes the rybosome to only produce part of the gene, therefore making the virus disfunctional.
 
 -->
 
